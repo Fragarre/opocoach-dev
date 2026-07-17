@@ -1,0 +1,19 @@
+{
+  "archivo_origen": "A2_1.pdf",
+  "resumen": {
+    "procesadas": 101,
+    "importadas": 100,
+    "omitidas_error": 1,
+    "duplicadas": 0,
+    "validadas": 44,
+    "a_revisar": 10,
+    "rechazadas": 46
+  },
+  "incidencias": [
+    {
+      "pagina_pdf": 80,
+      "tipo": "ERROR_EXTRACCION",
+      "motivo": "La pregunta no tiene enunciado."
+    }
+  ]
+}

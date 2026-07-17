@@ -1,0 +1,50 @@
+{
+  "archivo_origen": "C2_5.pdf",
+  "resumen": {
+    "procesadas": 41,
+    "importadas": 35,
+    "omitidas_error": 0,
+    "duplicadas": 6,
+    "validadas": 15,
+    "a_revisar": 10,
+    "rechazadas": 10
+  },
+  "incidencias": [
+    {
+      "pagina_pdf": 6,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1874,
+      "enunciado": "¿Cuál de las siguientes aseveraciones es verdadera?"
+    },
+    {
+      "pagina_pdf": 15,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 855,
+      "enunciado": "Señale el enunciado INCORRECTO, de acuerdo con el artículo 16 de la Ley 5/1983, de 30 de diciembre, del Consell. Corresponde al Consell en materia de política general de la Generalitat:"
+    },
+    {
+      "pagina_pdf": 19,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1670,
+      "enunciado": "Los actos legislativos (de la UE):"
+    },
+    {
+      "pagina_pdf": 21,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2102,
+      "enunciado": "Señale cuál de los siguientes enunciados es correcto"
+    },
+    {
+      "pagina_pdf": 22,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2359,
+      "enunciado": "¿Cuál es el objeto de la Ley Orgánica 3/2007, de 22 de marzo para la igualdad efectiva de mujeres y hombres, conforme a lo señalado en su artículo 1?:"
+    },
+    {
+      "pagina_pdf": 24,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3013,
+      "enunciado": "De acuerdo con la Ley 4/2023, de 13 de abril, de Participación Ciudadana y Fomento del Asociacionismo de la Comunitat Valenciana, señale el enunciado correcto respecto a las iniciativas ciudadanas:"
+    }
+  ]
+}

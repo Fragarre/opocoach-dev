@@ -1,0 +1,120 @@
+{
+  "archivo_origen": "C_7.pdf",
+  "resumen": {
+    "procesadas": 19,
+    "importadas": 1,
+    "omitidas_error": 2,
+    "duplicadas": 16,
+    "validadas": 0,
+    "a_revisar": 0,
+    "rechazadas": 1
+  },
+  "incidencias": [
+    {
+      "pagina_pdf": 1,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2914,
+      "enunciado": "De acuerdo con el artículo 101 de la Constitución Española, el Gobierno cesa:"
+    },
+    {
+      "pagina_pdf": 2,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2915,
+      "enunciado": "Los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna por razón de: (Oficial Estabilización C2)"
+    },
+    {
+      "pagina_pdf": 3,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2916,
+      "enunciado": "Señale cuál de los siguientes enunciados es correcto, de conformidad con lo dispuesto en la CE:"
+    },
+    {
+      "pagina_pdf": 4,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2917,
+      "enunciado": "Señale la respuesta correcta según lo establecido en la Constitución Española."
+    },
+    {
+      "pagina_pdf": 5,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1628,
+      "enunciado": "¿Cuál de las siguientes aseveraciones es verdadera?"
+    },
+    {
+      "pagina_pdf": 6,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2918,
+      "enunciado": "El Ministerio Fiscal no podrá interponer: (auxiliar administrativo Torrent)"
+    },
+    {
+      "pagina_pdf": 7,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2919,
+      "enunciado": "Señale la respuesta incorrecta:"
+    },
+    {
+      "pagina_pdf": 8,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2141,
+      "enunciado": "¿Cuál es la respuesta correcta respecto al orden de sucesión a la Corona de España según la Constitución Española de 1978?"
+    },
+    {
+      "pagina_pdf": 9,
+      "tipo": "ERROR_EXTRACCION",
+      "motivo": "No se ha detectado una respuesta correcta válida."
+    },
+    {
+      "pagina_pdf": 10,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2920,
+      "enunciado": "Señale cuál de los siguientes enunciados es correcto, de acuerdo con la Constitución Española de 1978:"
+    },
+    {
+      "pagina_pdf": 11,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2921,
+      "enunciado": "Según el artículo 8 de la Constitución española de 1978 ¿a quién le corresponde la defensa del orden constitucional?"
+    },
+    {
+      "pagina_pdf": 12,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2922,
+      "enunciado": "¿Puede el Senado oponer su veto al proyecto de ley remitido por el Congreso de los Diputados?: (Aux.Adtivo.AGE 2001)"
+    },
+    {
+      "pagina_pdf": 13,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2488,
+      "enunciado": "¿Cuál de las siguientes aseveraciones es verdadera?:"
+    },
+    {
+      "pagina_pdf": 14,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2923,
+      "enunciado": "¿Cuál de las siguientes no es una competencia exclusiva de la Generalitat, de acuerdo con el artículo 49 del Estatuto de Autonomía de la Comunitat Valenciana?"
+    },
+    {
+      "pagina_pdf": 15,
+      "tipo": "ERROR_EXTRACCION",
+      "motivo": "No se ha detectado una respuesta correcta válida."
+    },
+    {
+      "pagina_pdf": 16,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2924,
+      "enunciado": "Es de competencia exclusiva de la Generalitat la regulación y administración de la enseñanza en toda su extensión, niveles y grados, modalidades y especialidades:"
+    },
+    {
+      "pagina_pdf": 17,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2925,
+      "enunciado": "Se cede a la Comunitat Valenciana el rendimiento de los siguientes tributos:"
+    },
+    {
+      "pagina_pdf": 18,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2926,
+      "enunciado": "La Comunitat Valenciana tiene como objetivo la consecución del autogobierno en los términos de este Estatuto, reforzar la democracia y garantizar la participación de todos los ciudadanos:"
+    }
+  ]
+}

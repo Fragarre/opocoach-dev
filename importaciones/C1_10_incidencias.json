@@ -1,0 +1,134 @@
+{
+  "archivo_origen": "C1_10.pdf",
+  "resumen": {
+    "procesadas": 95,
+    "importadas": 75,
+    "omitidas_error": 0,
+    "duplicadas": 20,
+    "validadas": 55,
+    "a_revisar": 9,
+    "rechazadas": 11
+  },
+  "incidencias": [
+    {
+      "pagina_pdf": 3,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 931,
+      "enunciado": "Señale la respuesta correcta. Según la Constitución, no corresponde al Ministerio Fiscal:"
+    },
+    {
+      "pagina_pdf": 9,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 751,
+      "enunciado": "Conforme a la Constitución, se puede interponer un recurso de amparo ante el Tribunal Constitucional para recabar la tutela de:"
+    },
+    {
+      "pagina_pdf": 19,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2932,
+      "enunciado": "Indique la opción incorrecta. La delegación legislativa por parte de Les Corts al Consell, tendrá sus límites:"
+    },
+    {
+      "pagina_pdf": 42,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2700,
+      "enunciado": "La delegación de firma, recogida en el artículo 12 de la Ley 40/2015, de 1 de octubre, de régimen jurídico del sector público: (Oficial Estabilización C2)"
+    },
+    {
+      "pagina_pdf": 46,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3438,
+      "enunciado": "El secretario de un órgano colegiado (señale la falsa):"
+    },
+    {
+      "pagina_pdf": 47,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2033,
+      "enunciado": "Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público:"
+    },
+    {
+      "pagina_pdf": 61,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3036,
+      "enunciado": "La contratación del sector público debe de ajustarse a los siguientes principios: (Bolsa TAG Ayuntamiento de Ayora 2020)"
+    },
+    {
+      "pagina_pdf": 62,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3067,
+      "enunciado": "¿Qué determina el nivel de obligatoriedad de la tramitación electrónica?"
+    },
+    {
+      "pagina_pdf": 63,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2716,
+      "enunciado": "Según lo establecido en el artículo 23 del Decreto 54/2025, del Consell, de simplificación administrativa y transformación digital, señale la opción correcta respecto a las notificaciones electrónicas:"
+    },
+    {
+      "pagina_pdf": 64,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2806,
+      "enunciado": "De conformidad con lo establecido en el artículo 26 del Decreto 54/2025, del Consell, sobre el sistema tramitador corporativo de expedientes administrativos, señale la afirmación correcta:"
+    },
+    {
+      "pagina_pdf": 68,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3302,
+      "enunciado": "La información general tiene por objeto ofrecer a la ciudadanía una visión global, homogénea y sistematizada de la actividad de la Administración. En concreto, comprenderá información sobre (señale la incorrecta):"
+    },
+    {
+      "pagina_pdf": 69,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3303,
+      "enunciado": "De acuerdo con el Decreto 30/2025, por el que se regula la atención a la ciudadanía y las oficinas de asistencia en materia de registro, indique cuál de las siguientes afirmaciones no es verdadera:"
+    },
+    {
+      "pagina_pdf": 76,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3388,
+      "enunciado": "De acuerdo con lo establecido en la Ley 4/2021, de 16 de abril, de la Generalitat, de la Función Pública Valenciana, cuál de las siguientes afirmaciones es correcta:"
+    },
+    {
+      "pagina_pdf": 78,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3154,
+      "enunciado": "Señala la respuesta CORRECTA, atendiendo a lo establecido en la Ley 4/2021, de 16 de abril, de la Función Pública Valenciana:"
+    },
+    {
+      "pagina_pdf": 81,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2050,
+      "enunciado": "Si tengo 27 años trabajados en la administración:"
+    },
+    {
+      "pagina_pdf": 84,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2825,
+      "enunciado": "¿Cuál de las siguientes actividades queda exceptuada del régimen de incompatibilidades de la Ley 53/1984?"
+    },
+    {
+      "pagina_pdf": 86,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3229,
+      "enunciado": "De conformidad con el tenor literal del artículo 40 de la Ley 1/2015, de 6 de febrero, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones, indique cuál de las siguientes afirmaciones es la CORRECTA con respecto a los compromisos de gasto de carácter plurianual:"
+    },
+    {
+      "pagina_pdf": 88,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3298,
+      "enunciado": "Según lo previsto por la Ley 1/2015, de 6 de febrero, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones, el Proyecto de Ley de Presupuestos de la Generalitat se remitirá a Les Corts antes del: (Oficial Admón Especial GVA)"
+    },
+    {
+      "pagina_pdf": 89,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 362,
+      "enunciado": "Señale la opción CORRECTA. Respecto a la Cuenta General de la Generalitat y de acuerdo con la Ley 1/2015, de 6 de febrero, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones:"
+    },
+    {
+      "pagina_pdf": 95,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1865,
+      "enunciado": "¿Cuál de las siguientes aseveraciones es verdadera?:"
+    }
+  ]
+}

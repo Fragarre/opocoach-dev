@@ -1,0 +1,38 @@
+{
+  "archivo_origen": "A1_ES_1.pdf",
+  "resumen": {
+    "procesadas": 48,
+    "importadas": 44,
+    "omitidas_error": 0,
+    "duplicadas": 4,
+    "validadas": 24,
+    "a_revisar": 8,
+    "rechazadas": 12
+  },
+  "incidencias": [
+    {
+      "pagina_pdf": 6,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1470,
+      "enunciado": "¿Cual de las siguientes aseveraciones no es verdadera?:"
+    },
+    {
+      "pagina_pdf": 9,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 282,
+      "enunciado": "Según el artículo 159 de la Constitución, ¿con cuál de las siguientes situaciones es compatible con la condición de miembro del Tribunal Constitucional?"
+    },
+    {
+      "pagina_pdf": 18,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 356,
+      "enunciado": "Señale la opción CORRECTA. De acuerdo con la Ley 1/2015, de 6 de febrero, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones, los Presupuestos de la Generalitat determinarán:"
+    },
+    {
+      "pagina_pdf": 39,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 685,
+      "enunciado": "¿Cuál de las siguientes causas dará lugar a la finalización de nombramiento de personal funcionario interino, según, la Ley 4/2021, de 16 de abril de la Generalitat, de la Función Pública Valenciana?"
+    }
+  ]
+}

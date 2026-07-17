@@ -1,0 +1,146 @@
+{
+  "archivo_origen": "C2_11.pdf",
+  "resumen": {
+    "procesadas": 84,
+    "importadas": 62,
+    "omitidas_error": 0,
+    "duplicadas": 22,
+    "validadas": 39,
+    "a_revisar": 8,
+    "rechazadas": 15
+  },
+  "incidencias": [
+    {
+      "pagina_pdf": 8,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3468,
+      "enunciado": "La moción de censura, regulada en el artículo 113 de la Constitución Española, ha de ser adoptada: (AGE 2005)"
+    },
+    {
+      "pagina_pdf": 10,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1643,
+      "enunciado": "La Generalitat tiene competencia exclusiva sobre las siguientes materias"
+    },
+    {
+      "pagina_pdf": 12,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3183,
+      "enunciado": "¿A través quien se canaliza la relación ordinaria entre el Consell y Les Corts, de acuerdo con la ley del Consell?"
+    },
+    {
+      "pagina_pdf": 20,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1663,
+      "enunciado": "Señale la alternativa incorrecta, respecto a la normativa en materia de Unión Europea:"
+    },
+    {
+      "pagina_pdf": 21,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2113,
+      "enunciado": "Señale la afirmación correcta en relación a la igualdad de trato y de oportunidades entre mujeres y hombres"
+    },
+    {
+      "pagina_pdf": 23,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3360,
+      "enunciado": "Señale el enunciado correcto. Según la ley 4/2023, de 13 de abril, de Participación Ciudadana y Fomento del Asociacionismo de la Comunitat Valenciana, en relación a la iniciativa ciudadana en el ámbito de la Generalitat."
+    },
+    {
+      "pagina_pdf": 29,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3365,
+      "enunciado": "Las disposiciones de carácter laboral contenidas en la Ley de Prevención de Riesgos Laborales, tienen carácter de:"
+    },
+    {
+      "pagina_pdf": 36,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2125,
+      "enunciado": "En un procedimiento administrativo, la comparecencia en el trámite de información pública:"
+    },
+    {
+      "pagina_pdf": 50,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3212,
+      "enunciado": "De acuerdo con la Ley de Contratos, los expedientes calificados de urgentes, el plazo de inicio de la ejecución del contrato no podrá exceder de:"
+    },
+    {
+      "pagina_pdf": 52,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3882,
+      "enunciado": "¿A efectos de la LCSP, cuál de las siguientes entidades tiene la consideración de entidad del sector público distinta de un poder adjudicador?"
+    },
+    {
+      "pagina_pdf": 53,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3215,
+      "enunciado": "¿A efectos de la LCSP, cuál es la naturaleza jurídica de la Federación Valenciana de Municipios y Provincias?"
+    },
+    {
+      "pagina_pdf": 62,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3390,
+      "enunciado": "Conforme a lo dispuesto en el artículo 4.2 del Decreto 42/2019, de 22 de marzo, del Consell, de regulación de las condiciones de trabajo del personal funcionario de la Administración de la Generalitat, la duración de la jornada del personal que desempeñe puestos de trabajo considerados de especial dedicación será de:"
+    },
+    {
+      "pagina_pdf": 68,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2301,
+      "enunciado": "Señale el enunciado correcto. De acuerdo con la Ley 1/2015, de 6 de febrero, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones: (A2 CONVOCATORIA 135/21)"
+    },
+    {
+      "pagina_pdf": 71,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2738,
+      "enunciado": "Los estados de gastos de los presupuestos de los sujetos con presupuesto limitativo se estructurarán de acuerdo con las siguientes clasificaciones:"
+    },
+    {
+      "pagina_pdf": 73,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3537,
+      "enunciado": "Indica en base a qué principio presupuestario se puede afirmar que, la habilitación parlamentaria para gastos, concedida al poder ejecutivo, no es una autorización general, sino especial y condicionada. Por consiguiente, el crédito asignado para un gasto determinado no puede utilizarse más que para cubrir ese gasto."
+    },
+    {
+      "pagina_pdf": 77,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3462,
+      "enunciado": "Señale la respuesta correcta. La unidad coordinadora del departamento, organismo o entidad tendrá, en relación con SIAC, como mínimo las siguientes funciones:"
+    },
+    {
+      "pagina_pdf": 79,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3061,
+      "enunciado": "Conforme el Decreto 30/2025, en relación con los usos lingüísticos en la atención a la ciudadanía, señale la respuesta correcta:"
+    },
+    {
+      "pagina_pdf": 80,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2631,
+      "enunciado": "¿Cuál de las siguientes afirmaciones se ajusta al tenor literal de lo establecido en el Decreto 54/2025 de simplificación administrativa y transformación digital respecto a puntos de acceso electrónico de la Generalitat?:"
+    },
+    {
+      "pagina_pdf": 81,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2885,
+      "enunciado": "¿Cuál es la finalidad de la Carpeta Ciudadana?"
+    },
+    {
+      "pagina_pdf": 82,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 305,
+      "enunciado": "¿Cuál de las siguientes afirmaciones es verdadera de acuerdo con la regulación de las formas de comunicación contenida en el Decreto 54/2025, de 15 de abril, del Consell, de simplificación administrativa y transformación digital?"
+    },
+    {
+      "pagina_pdf": 83,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2541,
+      "enunciado": "De acuerdo con lo establecido en la normativa aplicable en materia de simplificación administrativa y transformación digital, señale cuál de las siguientes formas de comunicación no se considera como comunicación informal con la ciudadanía:"
+    },
+    {
+      "pagina_pdf": 84,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2632,
+      "enunciado": "¿Cuál de las siguientes afirmaciones se ajusta al tenor literal de lo establecido en el artículo 16 del Decreto 54/2025 de simplificación administrativa y transformación digital?:"
+    }
+  ]
+}

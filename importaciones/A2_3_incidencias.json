@@ -1,0 +1,151 @@
+{
+  "archivo_origen": "A2_3.pdf",
+  "resumen": {
+    "procesadas": 100,
+    "importadas": 75,
+    "omitidas_error": 13,
+    "duplicadas": 12,
+    "validadas": 4,
+    "a_revisar": 47,
+    "rechazadas": 24
+  },
+  "incidencias": [
+    {
+      "pagina_pdf": 5,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1628,
+      "enunciado": "¿Cuál de las siguientes aseveraciones es verdadera?"
+    },
+    {
+      "pagina_pdf": 8,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2141,
+      "enunciado": "¿Cuál es la respuesta correcta respecto al orden de sucesión a la Corona de España según la Constitución Española de 1978?"
+    },
+    {
+      "pagina_pdf": 9,
+      "tipo": "ERROR_EXTRACCION",
+      "motivo": "No se ha detectado una respuesta correcta válida."
+    },
+    {
+      "pagina_pdf": 13,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2488,
+      "enunciado": "¿Cuál de las siguientes aseveraciones es verdadera?:"
+    },
+    {
+      "pagina_pdf": 15,
+      "tipo": "ERROR_EXTRACCION",
+      "motivo": "No se ha detectado una respuesta correcta válida."
+    },
+    {
+      "pagina_pdf": 19,
+      "tipo": "ERROR_EXTRACCION",
+      "motivo": "No se ha detectado una respuesta correcta válida."
+    },
+    {
+      "pagina_pdf": 24,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2759,
+      "enunciado": "Según la Ley 5/1983, de 30 de diciembre, del Consell, Les Corts podrán delegar en el Consell la potestad de dictar normas con rango de Ley, denominadas Decretos Legislativos, con la excepción de:"
+    },
+    {
+      "pagina_pdf": 27,
+      "tipo": "ERROR_EXTRACCION",
+      "motivo": "No se ha detectado una respuesta correcta válida."
+    },
+    {
+      "pagina_pdf": 29,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1904,
+      "enunciado": "Señale la respuesta correcta, respecto del estatuto jurídico del adjunto y la adjunta del Síndic de Greuges:"
+    },
+    {
+      "pagina_pdf": 30,
+      "tipo": "ERROR_EXTRACCION",
+      "motivo": "No se ha detectado una respuesta correcta válida."
+    },
+    {
+      "pagina_pdf": 31,
+      "tipo": "ERROR_EXTRACCION",
+      "motivo": "No se ha detectado una respuesta correcta válida."
+    },
+    {
+      "pagina_pdf": 32,
+      "tipo": "ERROR_EXTRACCION",
+      "motivo": "No se ha detectado una respuesta correcta válida."
+    },
+    {
+      "pagina_pdf": 33,
+      "tipo": "ERROR_EXTRACCION",
+      "motivo": "No se ha detectado una respuesta correcta válida."
+    },
+    {
+      "pagina_pdf": 34,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 761,
+      "enunciado": "En el Estatuto de Autonomía de la Comunitat Valenciana se configura al Consell Jurídic Consultiu como:"
+    },
+    {
+      "pagina_pdf": 46,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2130,
+      "enunciado": "De conformidad con el artículo 63 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas ¿Cuándo se considerará que un órgano es competente para iniciar un procedimiento de naturaleza sancionadora?"
+    },
+    {
+      "pagina_pdf": 56,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1692,
+      "enunciado": "Según la ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la potestad de revisión de oficio por parte de las Administraciones Públicas, se ejercerá respecto de:"
+    },
+    {
+      "pagina_pdf": 60,
+      "tipo": "ERROR_EXTRACCION",
+      "motivo": "No se ha detectado una respuesta correcta válida."
+    },
+    {
+      "pagina_pdf": 63,
+      "tipo": "ERROR_EXTRACCION",
+      "motivo": "No se ha detectado una respuesta correcta válida."
+    },
+    {
+      "pagina_pdf": 67,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1553,
+      "enunciado": "Señale la respuesta incorrecta respecto a la división en lotes del contrato:"
+    },
+    {
+      "pagina_pdf": 69,
+      "tipo": "ERROR_EXTRACCION",
+      "motivo": "No se ha detectado una respuesta correcta válida."
+    },
+    {
+      "pagina_pdf": 72,
+      "tipo": "ERROR_EXTRACCION",
+      "motivo": "No se ha detectado una respuesta correcta válida."
+    },
+    {
+      "pagina_pdf": 73,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 309,
+      "enunciado": "Señale la afirmación CORRECTA. Según la Ley 1/2015, de 6 de febrero, de la Generalitat, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones:"
+    },
+    {
+      "pagina_pdf": 80,
+      "tipo": "ERROR_EXTRACCION",
+      "motivo": "No se ha detectado una respuesta correcta válida."
+    },
+    {
+      "pagina_pdf": 88,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1743,
+      "enunciado": "Según la Ley 4/2021, de 16 de abril, de la Generalitat, de la Función Pública Valenciana, la Administración de la Generalitat en ejercicio de su potestad de autoorganización, podrá modificar la adscripción orgánica de sus puestos de trabajo:"
+    },
+    {
+      "pagina_pdf": 90,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1738,
+      "enunciado": "La Ley 4/2021, de 16 de abril, de la Generalitat, de la Función Pública Valenciana, en su artículo 4 regula el personal con legislación específica y establece que las disposiciones de esta ley solo se aplicarán directamente cuando así lo disponga su legislación específica, de entre otros, al personal:"
+    }
+  ]
+}

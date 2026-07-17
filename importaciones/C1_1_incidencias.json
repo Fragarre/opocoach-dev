@@ -1,0 +1,62 @@
+{
+  "archivo_origen": "C1_1.pdf",
+  "resumen": {
+    "procesadas": 95,
+    "importadas": 87,
+    "omitidas_error": 0,
+    "duplicadas": 8,
+    "validadas": 60,
+    "a_revisar": 10,
+    "rechazadas": 17
+  },
+  "incidencias": [
+    {
+      "pagina_pdf": 7,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2245,
+      "enunciado": "¿Cuál de las siguientes aseveraciones es verdadera?:"
+    },
+    {
+      "pagina_pdf": 12,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2023,
+      "enunciado": "La Bandera de la Comunitat Valenciana es la tradicional Senyera compuesta por:"
+    },
+    {
+      "pagina_pdf": 17,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2027,
+      "enunciado": "¿Cuál de las siguientes aseveraciones no es verdadera?:"
+    },
+    {
+      "pagina_pdf": 23,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 525,
+      "enunciado": "Señale la respuesta correcta. Según la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres:"
+    },
+    {
+      "pagina_pdf": 35,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2121,
+      "enunciado": "Es posible la impugnación de un reglamento en via administrativa:"
+    },
+    {
+      "pagina_pdf": 44,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1521,
+      "enunciado": "De conformidad con el artículo 8 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la competencia es:"
+    },
+    {
+      "pagina_pdf": 78,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2227,
+      "enunciado": "Señala la respuesta CORRECTA. Según la Ley 4/2021, de 16 de abril. de la Función Pública Valenciana:"
+    },
+    {
+      "pagina_pdf": 91,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1861,
+      "enunciado": "La estructura presupuestaria que se basa en las actividades a desarrollar da lugar a la clasificación:"
+    }
+  ]
+}

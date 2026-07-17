@@ -1,0 +1,146 @@
+{
+  "archivo_origen": "A1_10.pdf",
+  "resumen": {
+    "procesadas": 159,
+    "importadas": 137,
+    "omitidas_error": 0,
+    "duplicadas": 22,
+    "validadas": 44,
+    "a_revisar": 10,
+    "rechazadas": 83
+  },
+  "incidencias": [
+    {
+      "pagina_pdf": 1,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3309,
+      "enunciado": "Los signatarios de la moción de censura planteada, caso de ser rechazada la misma:"
+    },
+    {
+      "pagina_pdf": 9,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1866,
+      "enunciado": "Se reconoce en la actividad económica:"
+    },
+    {
+      "pagina_pdf": 23,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 236,
+      "enunciado": "Señale la respuesta correcta. Según el Estatuto de Autonomía de la Comunitat Valenciana, el valenciano y el castellano:"
+    },
+    {
+      "pagina_pdf": 29,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3247,
+      "enunciado": "¿En qué materias el Derecho Valenciano se aplica en su territorio con preferencia a cualquier otro?:"
+    },
+    {
+      "pagina_pdf": 37,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1791,
+      "enunciado": "Según la Ley 5/1983, de 30 de diciembre, del Consell, los consellers cesan en sus funciones: (Oficial Estabilización C2)"
+    },
+    {
+      "pagina_pdf": 51,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3322,
+      "enunciado": "Señale la alternativa correcta. De conformidad con lo dispuesto en el Tratado de Funcionamiento de la Unión Europea:"
+    },
+    {
+      "pagina_pdf": 63,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2789,
+      "enunciado": "¿Cuál de las siguientes respuestas es correcta en relación con la avocación de competencias?"
+    },
+    {
+      "pagina_pdf": 96,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 318,
+      "enunciado": "Señale la opción CORRECTA. Según el artículo 326 de la Ley 9/2017, de 8 de noviembre, de contratos del sector público, con relación a las mesas de contratación:"
+    },
+    {
+      "pagina_pdf": 103,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 145,
+      "enunciado": "Indique la respuesta incorrecta. De acuerdo con la Ley 1/2015, de 6 de febrero, de hacienda pública, del sector público instrumental y de subvenciones, de la Generalitat Valenciana, las disposiciones recogidas en el título X, Subvenciones, cuando la concesión de la subvención suponga el ejercicio de potestades administrativas, serán de íntegra aplicación a:"
+    },
+    {
+      "pagina_pdf": 110,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3398,
+      "enunciado": "Señale la respuesta correcta según lo establecido en la Ley 1/2015, de 6 de febrero, de Hacienda Pública, Sector Público Instrumental y Subvenciones respecto de la no disponibilidad de créditos:"
+    },
+    {
+      "pagina_pdf": 111,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 795,
+      "enunciado": "En el procedimiento de reintegro de subvenciones, según la Ley 1/2015, de 6 de febrero, de la Generalitat, de hacienda pública, del sector público instrumental y de subvenciones, ¿cuál es el plazo máximo que tiene la Administración de la Generalitat para resolver y notificar la resolución del procedimiento?:"
+    },
+    {
+      "pagina_pdf": 114,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1574,
+      "enunciado": "Señale la respuesta correcta según lo establecido en la Ley 47/2003, de 26 de noviembre, General Presupuestaria:"
+    },
+    {
+      "pagina_pdf": 115,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1573,
+      "enunciado": "¿El Instituto Valenciano de Finanzas es un?"
+    },
+    {
+      "pagina_pdf": 126,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 346,
+      "enunciado": "Según el artículo 191 la Ley 4/2021, de 16 de abril, de la Generalitat, de la Función Pública Valenciana, ¿cuál de los siguientes se incluye como foro de participación institucional para el diálogo social?"
+    },
+    {
+      "pagina_pdf": 130,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2441,
+      "enunciado": "Según la Ley 4/2021, de 16 de abril, de la Generalitat, de la Función Pública Valenciana, es una circunstancia que puede dar lugar a nombramiento de personal funcionario interino:"
+    },
+    {
+      "pagina_pdf": 138,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3162,
+      "enunciado": "Podrá desempeñarse un segundo puesto de trabajo o actividad en el sector público, entre otros supuestos, cuando se determine por razón de interés público por el Consejo de Ministros u órgano de gobierno de la Comunidad Autónoma:"
+    },
+    {
+      "pagina_pdf": 140,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1598,
+      "enunciado": "¿Qué plazo tiene el empresario para comunicar a la oficina pública de empleo el contenido de los contratos de trabajo que celebre o las prórrogas de estos?"
+    },
+    {
+      "pagina_pdf": 152,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 529,
+      "enunciado": "De acuerdo con el artículo 1 de la Ley 1/2022, de 13 de abril, de la Generalitat, de transparencia y buen gobierno de la Comunitat Valenciana, indique cuál de los siguientes no es un objeto de la Ley:"
+    },
+    {
+      "pagina_pdf": 153,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2009,
+      "enunciado": "Identifique la opción correcta de acuerdo con lo establecido en la Constitución española:"
+    },
+    {
+      "pagina_pdf": 155,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 372,
+      "enunciado": "Señale la afirmación INCORRECTA. Según la Ley 4/2007, de 9 de febrero, de la Generalitat, de coordinación del Sistema Universitario Valenciano:"
+    },
+    {
+      "pagina_pdf": 156,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 206,
+      "enunciado": "Señale cuál de los siguientes no es un objetivo fundamental recogido en el artículo 2 de la Ley 13/2010, de 23 de noviembre, de la Generalitat, de protección civil y gestión de emergencias:"
+    },
+    {
+      "pagina_pdf": 159,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1775,
+      "enunciado": "Señale la respuesta correcta. Según el Decreto Legislativo 1/2021, de 18 de junio, del Consell de aprobación del texto refundido de la Ley de ordenación del territorio, urbanismo y paisaje, la ley garantiza:"
+    }
+  ]
+}

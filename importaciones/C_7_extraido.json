@@ -1,0 +1,462 @@
+{
+  "archivo_origen": "C_7.pdf",
+  "referencia_origen": "C_7",
+  "total_paginas_pdf": 19,
+  "pagina_desde": 1,
+  "pagina_hasta": 19,
+  "modelo_extraccion": "gpt-5.4-mini",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "De acuerdo con el artículo 101 de la Constitución Española, el Gobierno cesa:",
+      "opciones": {
+        "A": "Tras la celebración de elecciones generales, en los casos de pérdida de confianza parlamentaria previstos en la Constitución, o por fallecimiento de su Presidente",
+        "B": "Tras la celebración de elecciones generales, en los casos de pérdida de confianza parlamentaria previstos en la Constitución, o por dimisión o fallecimiento de su Presidente",
+        "C": "Tras la celebración de elecciones generales, o por dimisión o fallecimiento de su Presidente",
+        "D": "Tras la celebración de elecciones generales, en los casos de pérdida de confianza parlamentaria previstos en la Constitución, o por dimisión de su Presidente"
+      },
+      "respuesta_correcta": "B",
+      "pie_completo": null,
+      "articulo": "101",
+      "norma": "Constitución Española",
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.98,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "No se distingue con certeza el título o parte normativa del pie."
+      ],
+      "pagina_pdf": 1,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 6.7,
+      "error_extraccion": null
+    },
+    {
+      "numero": 2,
+      "enunciado": "Los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna por razón de: (Oficial Estabilización C2)",
+      "opciones": {
+        "A": "Nacimiento, raza, sexo, religión o situación económica.",
+        "B": "Nacimiento, raza, sexo, religión o situación económica u opinión.",
+        "C": "Nacimiento, raza, sexo o situación económica.",
+        "D": "Nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social."
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": null,
+      "articulo": "27",
+      "norma": "Constitución Española de 1978",
+      "titulo_o_parte": "Título 1",
+      "confianza_extraccion": 0.95,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "El artículo 27 y la norma se han inferido por el contenido, pero no constan en el pie visible."
+      ],
+      "pagina_pdf": 2,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 2.25,
+      "error_extraccion": null
+    },
+    {
+      "numero": 3,
+      "enunciado": "Señale cuál de los siguientes enunciados es correcto, de conformidad con lo dispuesto en la CE:",
+      "opciones": {
+        "A": "La CE reconoce y protege el derecho a la producción y creación artística, sin más limitación que el respeto al honor.",
+        "B": "Toda persona detenida ha de ser informada en el plazo de 72 horas de las razones de su detención.",
+        "C": "Los partidos políticos expresan el pluralismo político y la diversidad territorial del Estado Español.",
+        "D": "El ejercicio del derecho de reunión requerirá comunicación previa a la autoridad cuando la reunión se realice en lugares de transito público."
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.94,
+      "incidencias": [
+        "No se aprecia pie normativo en la imagen.",
+        "El texto de la opción D contiene 'transito' sin tilde, tal como aparece en la imagen."
+      ],
+      "pagina_pdf": 3,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.56,
+      "error_extraccion": null
+    },
+    {
+      "numero": 4,
+      "enunciado": "Señale la respuesta correcta según lo establecido en la Constitución Española.",
+      "opciones": {
+        "A": "La potestad originaria para establecer los tributos corresponde exclusivamente al Estado, mediante ley orgánica.",
+        "B": "Todo beneficio fiscal que afecte a los tributos del Estado deberá establecerse en virtud de ley orgánica.",
+        "C": "Las Comunidades Autónomas y las Corporaciones locales podrán establecer y exigir tributos, de acuerdo con la Constitución y leyes orgánicas.",
+        "D": "Las administraciones públicas sólo podrán contraer obligaciones financieras y realizar gastos de acuerdo con las leyes."
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.95,
+      "incidencias": [
+        "No se aprecia pie normativo legible en la imagen."
+      ],
+      "pagina_pdf": 4,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.3,
+      "error_extraccion": null
+    },
+    {
+      "numero": 5,
+      "enunciado": "¿Cuál de las siguientes aseveraciones es verdadera?",
+      "opciones": {
+        "A": "La iniciativa del proceso autonómico corresponde a todas las Diputaciones interesadas o al órgano interinsular correspondiente y a las 2/3 partes de los municipios cuya población represente, al menos, la mayoría del censo electoral de cada provincia o isla. Estos requisitos deberán ser cumplidos en el plazo de 6 meses desde el primer acuerdo adoptado al respecto por alguna de las Corporaciones locales interesadas.",
+        "B": "La iniciativa del proceso autonómico corresponde a todas las Diputaciones interesadas o al órgano interinsular correspondiente y a las 3/5 partes de los municipios cuya población represente, al menos, la mayoría del censo electoral de cada provincia o isla. Estos requisitos deberán ser cumplidos en el plazo de 6 meses desde el primer acuerdo adoptado al respecto por alguna de las Corporaciones locales interesadas.",
+        "C": "La iniciativa del proceso autonómico corresponde a todas las Diputaciones interesadas o al órgano interinsular correspondiente y a las 2/3 partes de los municipios cuya población represente, al menos, la mayoría del censo electoral de cada provincia o isla. Estos requisitos deberán ser cumplidos en el plazo de 5 meses desde el primer acuerdo adoptado al respecto por alguna de las Corporaciones locales interesadas.",
+        "D": "La iniciativa del proceso autonómico corresponde a todas las Diputaciones interesadas o al órgano interinsular correspondiente y a las 3/5 partes de los municipios cuya población represente, al menos, la mayoría del censo electoral de cada provincia o isla. Estos requisitos deberán ser cumplidos en el plazo de 5 meses desde el primer acuerdo adoptado al respecto por alguna de las Corporaciones locales interesadas."
+      },
+      "respuesta_correcta": "B",
+      "pie_completo": null,
+      "articulo": "27",
+      "norma": "Constitución Española de 1978",
+      "titulo_o_parte": "Título 1",
+      "confianza_extraccion": 0.94,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "La respuesta correcta se infiere por la opción resaltada en verde."
+      ],
+      "pagina_pdf": 5,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 5.15,
+      "error_extraccion": null
+    },
+    {
+      "numero": 6,
+      "enunciado": "El Ministerio Fiscal no podrá interponer: (auxiliar administrativo Torrent)",
+      "opciones": {
+        "A": "El recurso de inconstitucionalidad",
+        "B": "El recurso de amparo",
+        "C": "A y b son correctas",
+        "D": "Todas son falsas"
+      },
+      "respuesta_correcta": "A",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.94,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "La respuesta correcta se infiere por el recuadro resaltado en verde de la opción A."
+      ],
+      "pagina_pdf": 6,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.96,
+      "error_extraccion": null
+    },
+    {
+      "numero": 1,
+      "enunciado": "Señale la respuesta incorrecta:",
+      "opciones": {
+        "A": "La Constitución atribuye al legislador estatal competencia exclusiva en materia de Hacienda General.",
+        "B": "La Constitución atribuye al legislador estatal competencia exclusiva en materia de Deuda del Estado.",
+        "C": "El legislador estatal tiene atribuida la potestad originaria para establecer tributos mediante ley.",
+        "D": "El legislador estatal tiene competencia para regular a través de ley ordinaria el ejercicio de las competencias financieras de las Comunidades Autónomas."
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.97,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "La opción correcta se infiere por el recuadro resaltado en verde."
+      ],
+      "pagina_pdf": 7,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.53,
+      "error_extraccion": null
+    },
+    {
+      "numero": 1,
+      "enunciado": "¿Cuál es la respuesta correcta respecto al orden de sucesión a la Corona de España según la Constitución Española de 1978?",
+      "opciones": {
+        "A": "Primogenitura con preferencia de la línea posterior a la anterior.",
+        "B": "Primogenitura con preferencia de la persona de menor edad.",
+        "C": "Primogenitura con preferencia del varón sobre la mujer.",
+        "D": "Sucesión determinada por el Consejo de Ministros."
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.98,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen."
+      ],
+      "pagina_pdf": 8,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 3.25,
+      "error_extraccion": null
+    },
+    {
+      "numero": 1,
+      "enunciado": "¿Sobre qué art. de la Constitución española se fundamenta en trámite de audiencia?",
+      "opciones": {
+        "A": "El art. 103.1.",
+        "B": "El art. 103.3.",
+        "C": "El art. 105.",
+        "D": "Ninguna de las anteriores."
+      },
+      "respuesta_correcta": null,
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.93,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "No es posible determinar con seguridad la opción resaltada en verde."
+      ],
+      "pagina_pdf": 9,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.02,
+      "error_extraccion": null
+    },
+    {
+      "numero": 10,
+      "enunciado": "Señale cuál de los siguientes enunciados es correcto, de acuerdo con la Constitución Española de 1978:",
+      "opciones": {
+        "A": "La Diputación Permanente del Senado está compuesta por un mínimo de veinte miembros",
+        "B": "Los miembros del Consejo General del Poder Judicial son nombrados por un periodo de cuatro años",
+        "C": "La legislación sobre productos farmacéuticos es competencia exclusiva del Estado",
+        "D": "Aprobada una reforma del Título Preliminar de la Constitución por las Cortes Generales, solo será sometida a referéndum para su ratificación si lo solicita una décima parte de los miembros de cualquiera de las Cámaras"
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.98,
+      "incidencias": [
+        "No se aprecia pie normativo en la imagen.",
+        "La opción correcta se infiere por el recuadro resaltado en verde."
+      ],
+      "pagina_pdf": 10,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 5.81,
+      "error_extraccion": null
+    },
+    {
+      "numero": 1,
+      "enunciado": "Según el artículo 8 de la Constitución española de 1978 ¿a quién le corresponde la defensa del orden constitucional?",
+      "opciones": {
+        "A": "Al Tribunal Constitucional.",
+        "B": "A las Fuerzas Armadas.",
+        "C": "A las Cortes Generales.",
+        "D": "Al Gobierno y a las Cortes Generales"
+      },
+      "respuesta_correcta": "B",
+      "pie_completo": null,
+      "articulo": "8",
+      "norma": "Constitución española de 1978",
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.98,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "El resaltado verde de la opción correcta no se distingue claramente; se ha inferido por contexto."
+      ],
+      "pagina_pdf": 11,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 1.86,
+      "error_extraccion": null
+    },
+    {
+      "numero": 12,
+      "enunciado": "¿Puede el Senado oponer su veto al proyecto de ley remitido por el Congreso de los Diputados?: (Aux.Adtivo.AGE 2001)",
+      "opciones": {
+        "A": "Sí, por mayoría absoluta",
+        "B": "Sí, en el plazo de tres meses desde la recepción del texto",
+        "C": "No, puesto que únicamente cabe la introducción de enmiendas",
+        "D": "Sí, por mayoría simple"
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.95,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "La opción resaltada en verde no se distingue con total seguridad, pero parece corresponder a la D."
+      ],
+      "pagina_pdf": 12,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.19,
+      "error_extraccion": null
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Cuál de las siguientes aseveraciones es verdadera?:",
+      "opciones": {
+        "A": "Las Comunidades Autónomas designarán, además, un Senador y dos más por cada millón de habitantes de su respectivo territorio",
+        "B": "Las Comunidades Autónomas designarán, además, un Senador y otro más por cada millón de habitantes de su respectivo territorio",
+        "C": "Las Comunidades Autónomas designarán, además, dos Senadores y otro más por cada millón de habitantes de su respectivo territorio",
+        "D": "Ninguna de las anteriores"
+      },
+      "respuesta_correcta": "B",
+      "pie_completo": null,
+      "articulo": "27",
+      "norma": "Constitución Española de 1978",
+      "titulo_o_parte": "Título 1",
+      "confianza_extraccion": 0.97,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "El artículo y la norma se han inferido por el contenido de la pregunta, no extraídos del pie."
+      ],
+      "pagina_pdf": 13,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 2.43,
+      "error_extraccion": null
+    },
+    {
+      "numero": 14,
+      "enunciado": "¿Cuál de las siguientes no es una competencia exclusiva de la Generalitat, de acuerdo con el artículo 49 del Estatuto de Autonomía de la Comunitat Valenciana?",
+      "opciones": {
+        "A": "Cultura",
+        "B": "Pesca en aguas interiores, marisqueo, acuicultura, caza y pesca fluvial y lacustre. Cofradías de pescadores",
+        "C": "Servicios Sociales",
+        "D": "Régimen minero y energético"
+      },
+      "respuesta_correcta": "B",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.95,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "El artículo y la norma no pueden extraerse exclusivamente del pie porque no aparece."
+      ],
+      "pagina_pdf": 14,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.4,
+      "error_extraccion": null
+    },
+    {
+      "numero": 15,
+      "enunciado": "¿Cuál de las siguientes aseveraciones es verdadera?:",
+      "opciones": {
+        "A": "Según el Estatuto, mediante Ley del Estado se creará el Comité Valenciano para los Asuntos Europeos, órgano de carácter consultivo, encargado de asesorar y realizar estudios y propuestas para mejorar la participación en las cuestiones europeas y planteen acciones estratégicas de la Comunitat Valenciana",
+        "B": "Según el Estatuto, mediante Ley orgánica se creará el Comité Valenciano para los Asuntos Europeos, órgano de carácter consultivo, encargado de asesorar y realizar estudios y propuestas para mejorar la participación en las cuestiones europeas y plantear acciones estratégicas de la Comunitat Valenciana",
+        "C": "Según el Estatuto, una Ley creará el Comité Valenciano para los Asuntos Europeos, órgano de carácter consultivo, encargado de asesorar y realizar estudios y propuestas para mejorar la participación en las cuestiones europeas y plantear acciones estratégicas de la Comunitat Valenciana",
+        "D": "Ninguna de las anteriores"
+      },
+      "respuesta_correcta": null,
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.9,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "No es posible determinar con seguridad la opción resaltada en verde."
+      ],
+      "pagina_pdf": 15,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.96,
+      "error_extraccion": null
+    },
+    {
+      "numero": 16,
+      "enunciado": "Es de competencia exclusiva de la Generalitat la regulación y administración de la enseñanza en toda su extensión, niveles y grados, modalidades y especialidades:",
+      "opciones": {
+        "A": "Sin perjuicio de lo que disponen el artículo 23 de la Constitución Española y las Leyes Orgánicas que, de acuerdo con el apartado 1 del artículo 81 de aquélla, lo desarrollan, de las facultades que atribuye al Estado el número 27 del apartado 1 del artículo 149 de la Constitución Española, y de la alta inspección necesaria para su cumplimiento y garantía.",
+        "B": "Sin perjuicio de lo que disponen el artículo 30 de la Constitución Española y las Leyes Orgánicas que, de acuerdo con el apartado 1 del artículo 81 de aquélla, lo desarrollan, de las facultades que atribuye al Estado el número 27 del apartado 1 del artículo 149 de la Constitución Española, y de la alta inspección necesaria para su cumplimiento y garantía.",
+        "C": "Sin perjuicio de lo que disponen el artículo 27 de la Constitución Española y las Leyes Orgánicas que, de acuerdo con el apartado 1 del artículo 81 de aquélla, lo desarrollan, de las facultades que atribuye al Estado el número 30 del apartado 1 del artículo 149 de la Constitución Española, y de la alta inspección necesaria para su cumplimiento y garantía.",
+        "D": "Ninguna de las anteriores."
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.96,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen, por lo que no es posible extraer con seguridad la norma, el artículo ni el título o parte."
+      ],
+      "pagina_pdf": 16,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 4.25,
+      "error_extraccion": null
+    },
+    {
+      "numero": 17,
+      "enunciado": "Se cede a la Comunitat Valenciana el rendimiento de los siguientes tributos:",
+      "opciones": {
+        "A": "Impuesto sobre Hidrocarburos.",
+        "B": "Impuesto Especial sobre la Cerveza y Bebidas Fermentadas, con carácter parcial, en el porcentaje del 58 por ciento",
+        "C": "Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos, con carácter parcial, en el porcentaje del 58 por ciento.",
+        "D": "Ninguna de las anteriores."
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.98,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "La opción correcta se infiere por el recuadro resaltado en verde."
+      ],
+      "pagina_pdf": 17,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.34,
+      "error_extraccion": null
+    },
+    {
+      "numero": 1,
+      "enunciado": "La Comunitat Valenciana tiene como objetivo la consecución del autogobierno en los términos de este Estatuto, reforzar la democracia y garantizar la participación de todos los ciudadanos:",
+      "opciones": {
+        "A": "En la realización de sus objetivos.",
+        "B": "En la realización de sus intereses.",
+        "C": "En la realización de sus fines.",
+        "D": "Ninguna de las anteriores."
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.94,
+      "incidencias": [
+        "No se aprecia pie normativo en la imagen.",
+        "La opción correcta se infiere por el recuadro resaltado en verde."
+      ],
+      "pagina_pdf": 18,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.71,
+      "error_extraccion": null
+    },
+    {
+      "numero": 19,
+      "enunciado": "¿Cuántos capítulos comprende el Título III?",
+      "opciones": {
+        "A": "IV Capítulos.",
+        "B": "VII Capítulos.",
+        "C": "V Capítulos.",
+        "D": "VIII Capítulos."
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": "Título III",
+      "confianza_extraccion": 0.98,
+      "incidencias": [
+        "No se aprecia pie normativo en la imagen; no se puede extraer norma ni artículo exclusivamente del pie."
+      ],
+      "pagina_pdf": 19,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 1.53,
+      "error_extraccion": null
+    }
+  ]
+}

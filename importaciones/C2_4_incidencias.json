@@ -1,0 +1,116 @@
+{
+  "archivo_origen": "C2_4.pdf",
+  "resumen": {
+    "procesadas": 85,
+    "importadas": 68,
+    "omitidas_error": 0,
+    "duplicadas": 17,
+    "validadas": 45,
+    "a_revisar": 7,
+    "rechazadas": 16
+  },
+  "incidencias": [
+    {
+      "pagina_pdf": 9,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 846,
+      "enunciado": "Señale el enunciado CORRECTO, de acuerdo con el artículo 154 de la Constitución Española de 1978:"
+    },
+    {
+      "pagina_pdf": 13,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1793,
+      "enunciado": "De conformidad con lo establecido en la Ley 5/1983, de 30 de diciembre, del Consell, el nivel directivo de la Conselleria lo integran:"
+    },
+    {
+      "pagina_pdf": 14,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1901,
+      "enunciado": "Señale la respuesta correcta. Según la Ley 5/1983, de 30 de diciembre, del Consell:"
+    },
+    {
+      "pagina_pdf": 23,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2179,
+      "enunciado": "Sobre la igualdad y las mujeres con discapacidad, la ley 9/2003 de 2 de abril dispone que"
+    },
+    {
+      "pagina_pdf": 24,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3013,
+      "enunciado": "De acuerdo con la Ley 4/2023, de 13 de abril, de Participación Ciudadana y Fomento del Asociacionismo de la Comunitat Valenciana, señale el enunciado correcto respecto a las iniciativas ciudadanas:"
+    },
+    {
+      "pagina_pdf": 26,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3015,
+      "enunciado": "¿Qué ocurre si se efectúa una previa disociación de los datos de carácter personal? Señale la respuesta incorrecta."
+    },
+    {
+      "pagina_pdf": 45,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2786,
+      "enunciado": "Indique la respuesta incorrecta conforme la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público."
+    },
+    {
+      "pagina_pdf": 52,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2799,
+      "enunciado": "De acuerdo con el art. 25 de la Ley 9/2017, de contratos del Sector Público (LCSP), los contratos administrativos se regirán, en cuanto a su preparación, adjudicación, efectos, modificación y extinción, por:"
+    },
+    {
+      "pagina_pdf": 53,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2200,
+      "enunciado": "Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, son contratos de obras aquellos que tienen por objeto uno de los siguientes:"
+    },
+    {
+      "pagina_pdf": 66,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2562,
+      "enunciado": "De acuerdo con la Ley 1/2015, de 6 de febrero, de Hacienda Pública, Sector Público Instrumental y Subvenciones, señale la respuesta correcta: La persona titular de la conselleria con competencias en materia de hacienda podrá acordar:"
+    },
+    {
+      "pagina_pdf": 70,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2566,
+      "enunciado": "La tramitación de expedientes de gastos podrá iniciarse en el ejercicio inmediato anterior siempre que se cumpla alguna de las siguientes circunstancias:"
+    },
+    {
+      "pagina_pdf": 76,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2635,
+      "enunciado": "En virtud del artículo 2 del Decreto 30/2025, indique cuál de las siguientes entidades no queda incluida en su ámbito de aplicación:"
+    },
+    {
+      "pagina_pdf": 77,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2889,
+      "enunciado": "Señale la opción incorrecta. Las ciudadanas y los ciudadanos, en sus relaciones con el sistema de atención a la ciudadanía, podrán:"
+    },
+    {
+      "pagina_pdf": 80,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3148,
+      "enunciado": "¿Cuál de los siguientes principios no rige la atención a la ciudadanía, de conformidad con el artículo 4 del Decreto 30/2025?:"
+    },
+    {
+      "pagina_pdf": 81,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2542,
+      "enunciado": "¿Cuál de las siguientes afirmaciones se ajusta al régimen de las sedes electrónicas según lo previsto en el Decreto 54/2025, de Simplificación Administrativa y Transformación Digital?:"
+    },
+    {
+      "pagina_pdf": 82,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3237,
+      "enunciado": "Según lo previsto en el Decreto 54/2025, señale la respuesta correcta en relación con las apps móviles específicas:"
+    },
+    {
+      "pagina_pdf": 84,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2541,
+      "enunciado": "De acuerdo con lo establecido en la normativa aplicable en materia de simplificación administrativa y transformación digital, señale cuál de las siguientes formas de comunicación no se considera como comunicación informal con la ciudadanía:"
+    }
+  ]
+}

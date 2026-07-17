@@ -1,0 +1,74 @@
+{
+  "archivo_origen": "C2_preuba_2.pdf",
+  "resumen": {
+    "procesadas": 11,
+    "importadas": 1,
+    "omitidas_error": 0,
+    "duplicadas": 10,
+    "validadas": 1,
+    "a_revisar": 0,
+    "rechazadas": 0
+  },
+  "incidencias": [
+    {
+      "pagina_pdf": 1,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 491,
+      "enunciado": "Señale la respuesta correcta. Según la Constitución, se reconoce:"
+    },
+    {
+      "pagina_pdf": 2,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3069,
+      "enunciado": "Los decretos leyes:"
+    },
+    {
+      "pagina_pdf": 3,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2995,
+      "enunciado": "Según el artículo 150.3 de la Constitución Española, la apreciación de la necesidad de dictar leyes que establezcan los principios necesarios para armonizar las disposiciones normativas de las Comunidades Autónomas corresponde a: (AGE 2003)"
+    },
+    {
+      "pagina_pdf": 5,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3071,
+      "enunciado": "¿Cuál de las siguientes aseveraciones es verdadera?:"
+    },
+    {
+      "pagina_pdf": 6,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3072,
+      "enunciado": "La libertad de cátedra es un derecho reconocido en la Constitución Española: (Aux.Adtivo.Univ Sevilla 2009)"
+    },
+    {
+      "pagina_pdf": 7,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3073,
+      "enunciado": "Según dispone el Título VI de la Constitución Española, señale la respuesta incorrecta:"
+    },
+    {
+      "pagina_pdf": 8,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3074,
+      "enunciado": "¿Cuándo podrá una ley de bases autorizar a la modificación de la propia ley de bases?"
+    },
+    {
+      "pagina_pdf": 9,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2142,
+      "enunciado": "El Título Quinto de la Constitución:"
+    },
+    {
+      "pagina_pdf": 10,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3075,
+      "enunciado": "Forman parte de la Generalidad Valenciana:"
+    },
+    {
+      "pagina_pdf": 11,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3076,
+      "enunciado": "¿Cuál de las siguientes aseveraciones es la correcta en relación con el EACV?"
+    }
+  ]
+}

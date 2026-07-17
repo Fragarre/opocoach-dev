@@ -1,0 +1,50 @@
+{
+  "archivo_origen": "C2_1.pdf",
+  "resumen": {
+    "procesadas": 85,
+    "importadas": 79,
+    "omitidas_error": 0,
+    "duplicadas": 6,
+    "validadas": 52,
+    "a_revisar": 10,
+    "rechazadas": 17
+  },
+  "incidencias": [
+    {
+      "pagina_pdf": 31,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2125,
+      "enunciado": "En un procedimiento administrativo, la comparecencia en el trámite de información pública:"
+    },
+    {
+      "pagina_pdf": 49,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1550,
+      "enunciado": "Deberá elaborarse un proyecto y tramitarse como la Ley 9/2017 de Contratos del Sector Público dispone para los contratos de obras, el contrato mixto en que un elemento del contrato sea una obra y esta supere:"
+    },
+    {
+      "pagina_pdf": 50,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2206,
+      "enunciado": "A efectos de la LCSP, ¿qué debe entenderse por contrato mixto?"
+    },
+    {
+      "pagina_pdf": 52,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2800,
+      "enunciado": "¿Cuál de los siguientes principios rectores de la contratación pública ha sido introducido novedosamente por la LCSP-17?"
+    },
+    {
+      "pagina_pdf": 70,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1723,
+      "enunciado": "Según el art 58 de la Ley 1/2015, de 6 de febrero, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones, la ejecución de los créditos consignados en los presupuestos comprenderá las siguientes operaciones: (Señale la respuesta correcta)"
+    },
+    {
+      "pagina_pdf": 81,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2631,
+      "enunciado": "¿Cuál de las siguientes afirmaciones se ajusta al tenor literal de lo establecido en el Decreto 54/2025 de simplificación administrativa y transformación digital respecto a puntos de acceso electrónico de la Generalitat?:"
+    }
+  ]
+}

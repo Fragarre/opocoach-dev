@@ -1,0 +1,92 @@
+{
+  "archivo_origen": "A1_3.pdf",
+  "resumen": {
+    "procesadas": 252,
+    "importadas": 239,
+    "omitidas_error": 0,
+    "duplicadas": 13,
+    "validadas": 116,
+    "a_revisar": 18,
+    "rechazadas": 105
+  },
+  "incidencias": [
+    {
+      "pagina_pdf": 28,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 862,
+      "enunciado": "Señale el enunciado CORRECTO. Según el artículo 11 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, “el Portal de la Transparencia contendrá información publicada de acuerdo con las prescripciones técnicas que se establezcan reglamentariamente que deberán adecuarse a los siguientes principios”:"
+    },
+    {
+      "pagina_pdf": 76,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 813,
+      "enunciado": "Señale el enunciado CORRECTO, de acuerdo con el artículo 138 de la Ley 4/2021, de 16 de abril, de la Generalitat, de la función pública valenciana. El personal funcionario de carrera puede hallarse en alguna de las siguientes situaciones administrativas:"
+    },
+    {
+      "pagina_pdf": 77,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 694,
+      "enunciado": "De acuerdo con el artículo 77 de la Ley 4/2021, de 16 de abril, de la Función Pública Valenciana, ¿cuál de los siguientes NO es un derecho individual del empleado público que se ejerce de forma colectiva?"
+    },
+    {
+      "pagina_pdf": 88,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 823,
+      "enunciado": "Señale el enunciado INCORRECTO, de acuerdo con el artículo 37 de la Ley 1/2015, de 6 de febrero, de la Generalitat, de hacienda pública, del sector público instrumental y de subvenciones, en referencia a la clasificación económica en la estructura de los estados de gastos de los presupuestos de la Generalitat:"
+    },
+    {
+      "pagina_pdf": 130,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 513,
+      "enunciado": "Señale la respuesta correcta. Según la Ley 5/1983, de 30 de diciembre, del Consell, en relación con los debates generales sobre la acción política y de gobierno:"
+    },
+    {
+      "pagina_pdf": 141,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 771,
+      "enunciado": "Indique la afirmación INCORRECTA. Según el Tratado de la Unión Europea, la Comisión Europea:"
+    },
+    {
+      "pagina_pdf": 157,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 664,
+      "enunciado": "Señale la respuesta CORRECTA. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, en materia de responsabilidad patrimonial de las administraciones públicas:"
+    },
+    {
+      "pagina_pdf": 170,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1112,
+      "enunciado": "Según establece el artículo 96 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, salvo que reste menos para su tramitación ordinaria, los procedimientos administrativos tramitados de manera simplificada deberán ser resueltos en:"
+    },
+    {
+      "pagina_pdf": 196,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 190,
+      "enunciado": "Señale la respuesta correcta. Según la Ley 1/2015, de 6 de febrero, de la Generalitat, de hacienda pública, del sector público instrumental y de subvenciones:"
+    },
+    {
+      "pagina_pdf": 198,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 920,
+      "enunciado": "Señale la respuesta incorrecta. Según el artículo 133 de la Ley 1/2015, de 6 de febrero, de la Generalitat, de hacienda pública, del sector público instrumental y de subvenciones, sobre contenido de las cuentas anuales de las entidades que deben aplicar los principios contables públicos:"
+    },
+    {
+      "pagina_pdf": 234,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 349,
+      "enunciado": "De acuerdo con el Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores ¿cuál de las siguientes fuentes ocupa el último lugar en el orden de aplicación establecido en el artículo 3?"
+    },
+    {
+      "pagina_pdf": 242,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1605,
+      "enunciado": "De acuerdo con la Ley 25/2018, de 10 de diciembre, reguladora de la actividad de los grupos de interés de la Comunitat Valenciana, señale el enunciado correcto:"
+    },
+    {
+      "pagina_pdf": 249,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 371,
+      "enunciado": "Señale la opción INCORRECTA. Según el artículo 4 de la Ley 13/2010, de 23 de noviembre, de la Generalitat, de Protección Civil y Gestión de Emergencias, los ciudadanos tienen derecho a:"
+    }
+  ]
+}

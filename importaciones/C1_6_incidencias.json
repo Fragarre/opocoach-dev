@@ -1,0 +1,542 @@
+{
+  "archivo_origen": "C1_6.pdf",
+  "resumen": {
+    "procesadas": 94,
+    "importadas": 6,
+    "omitidas_error": 0,
+    "duplicadas": 88,
+    "validadas": 4,
+    "a_revisar": 1,
+    "rechazadas": 1
+  },
+  "incidencias": [
+    {
+      "pagina_pdf": 1,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1776,
+      "enunciado": "El artículo 75 de la Constitución Española establece que las Cámaras podrán delegar en las Comisiones Legislativas Permanentes, la aprobación de proyectos o proposiciones de ley, quedando exceptuados:"
+    },
+    {
+      "pagina_pdf": 3,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1778,
+      "enunciado": "¿Cuál de las siguientes aseveraciones no es correcta, de acuerdo con lo establecido en la CE?"
+    },
+    {
+      "pagina_pdf": 4,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1779,
+      "enunciado": "Los recursos de las Comunidades Autónomas estarán constituidos por:"
+    },
+    {
+      "pagina_pdf": 5,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1780,
+      "enunciado": "Señale la respuesta incorrecta de conformidad con la Constitución:"
+    },
+    {
+      "pagina_pdf": 6,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1781,
+      "enunciado": "El Gobierno y cada uno de sus miembros están sometidos a las interpelaciones y preguntas que se le formulen en las Cámaras. Para esta clase de debates, interpelaciones y preguntas, los Reglamentos establecerán un tiempo mínimo:"
+    },
+    {
+      "pagina_pdf": 7,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1782,
+      "enunciado": "De acuerdo con la Constitución Española, señale la opción correcta:"
+    },
+    {
+      "pagina_pdf": 8,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1783,
+      "enunciado": "¿Cuál de las siguientes aseveraciones es verdadera?:"
+    },
+    {
+      "pagina_pdf": 9,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1784,
+      "enunciado": "En la Constitución Española la organización territorial del Estado se regula en:"
+    },
+    {
+      "pagina_pdf": 11,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1786,
+      "enunciado": "El Presidente de la Generalitat será:"
+    },
+    {
+      "pagina_pdf": 12,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1787,
+      "enunciado": "En la Comunidad de Valencia, la potestad legislativa dentro de la Comunidad corresponde a:"
+    },
+    {
+      "pagina_pdf": 13,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1788,
+      "enunciado": "Señale la respuesta correcta a tenor de lo que dispone la Ley Orgánica 5/1982, de 1 de julio, de Estatuto de Autonomía de la Comunidad Valenciana."
+    },
+    {
+      "pagina_pdf": 14,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1789,
+      "enunciado": "Qué afirmación es correcta:"
+    },
+    {
+      "pagina_pdf": 15,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1790,
+      "enunciado": "En relación con la Ley 5/1983, de Consell, ¿cuál de las siguientes aseveraciones es la correcta?"
+    },
+    {
+      "pagina_pdf": 16,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1791,
+      "enunciado": "Según la Ley 5/1983, de 30 de diciembre, del Consell, los consellers cesan en sus funciones: (Oficial Estabilización C2)"
+    },
+    {
+      "pagina_pdf": 17,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1792,
+      "enunciado": "El nivel administrativo se organiza en:"
+    },
+    {
+      "pagina_pdf": 18,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1793,
+      "enunciado": "De conformidad con lo establecido en la Ley 5/1983, de 30 de diciembre, del Consell, el nivel directivo de la Conselleria lo integran:"
+    },
+    {
+      "pagina_pdf": 19,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1794,
+      "enunciado": "Elegido el President de la Generalitat, el presidente de Les Corts lo comunicará al Rey, a los efectos de su nombramiento."
+    },
+    {
+      "pagina_pdf": 20,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1795,
+      "enunciado": "De acuerdo con el artículo 6 del Tratado de la Unión Europea, la Carta de los Derechos Fundamentales de la Unión Europea:"
+    },
+    {
+      "pagina_pdf": 21,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1796,
+      "enunciado": "De conformidad con el Tratado de Funcionamiento de la Unión Europea, indique cuál de los siguientes actos jurídicos de la Unión no es vinculante:"
+    },
+    {
+      "pagina_pdf": 22,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1797,
+      "enunciado": "El art. 297 del TFUE establece que los actos no legislativos adoptados en forma de reglamentos, directivas y decisiones, cuando éstas últimas no indiquen destinatario, serán firmadas por:"
+    },
+    {
+      "pagina_pdf": 23,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1798,
+      "enunciado": "Señale cuál de los siguientes enunciados es correcto, de acuerdo con la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres:"
+    },
+    {
+      "pagina_pdf": 24,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1799,
+      "enunciado": "Conforme a lo dispuesto en el artículo 12.1 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, podrá recabar de los tribunales la tutela del derecho a la igualdad entre mujeres y hombres, de acuerdo con lo establecido en el artículo 53.2 de la Constitución, incluso tras la terminación de la relación en la que supuestamente se ha producido la discriminación:"
+    },
+    {
+      "pagina_pdf": 26,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1801,
+      "enunciado": "Las empresas que formalicen contratos de interinidad para sustituir a trabajadoras víctimas de violencia de género que hayan suspendido su contrato de trabajo o ejercitado su derecho a la movilidad geográfica o al cambio de centro de trabajo, tendrán derecho a una bonificación del 100 por 100 de las cuotas empresariales a la Seguridad Social por contingencias comunes durante _____ en los supuestos de movilidad geográfica o cambio de centro de trabajo"
+    },
+    {
+      "pagina_pdf": 27,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1802,
+      "enunciado": "Señale la afirmación incorrecta en relación a la solicitud de acceso a la información pública"
+    },
+    {
+      "pagina_pdf": 28,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 862,
+      "enunciado": "Señale el enunciado CORRECTO. Según el artículo 11 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, “el Portal de la Transparencia contendrá información publicada de acuerdo con las prescripciones técnicas que se establezcan reglamentariamente que deberán adecuarse a los siguientes principios”:"
+    },
+    {
+      "pagina_pdf": 29,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1803,
+      "enunciado": "Señale la respuesta correcta. Según la Ley 1/2022, de 13 de abril, de Transparencia y Buen Gobierno de la Comunitat Valenciana:"
+    },
+    {
+      "pagina_pdf": 30,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1804,
+      "enunciado": "De acuerdo con la Ley 1/2022, de 13 de abril, de Transparencia y Buen Gobierno de la Comunitat Valenciana, que información NO debe publicarse:"
+    },
+    {
+      "pagina_pdf": 32,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1806,
+      "enunciado": "Señale la respuesta correcta conforme la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas."
+    },
+    {
+      "pagina_pdf": 33,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1807,
+      "enunciado": "Según el art. 14 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, están obligados a relacionarse electrónicamente con la Administración (señale la INCORRECTA):(C2 ANTEQUERA 2022 OFICIAL)"
+    },
+    {
+      "pagina_pdf": 35,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1809,
+      "enunciado": "Conforme a lo dispuesto en el capítulo III del Título III sobre nulidad y anulabilidad de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la realización de actuaciones administrativas fuera del tiempo establecido para ellas:"
+    },
+    {
+      "pagina_pdf": 36,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1810,
+      "enunciado": "¿Cuál de los siguientes derechos no se corresponde con el de las personas en sus relaciones con las AAPP?"
+    },
+    {
+      "pagina_pdf": 37,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1811,
+      "enunciado": "La obligación de dictar resolución expresa se sujetará al siguiente régimen:"
+    },
+    {
+      "pagina_pdf": 38,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1812,
+      "enunciado": "Señale la afirmación correcta, según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:"
+    },
+    {
+      "pagina_pdf": 39,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1813,
+      "enunciado": "Según la LPACAP, ¿podrán los interesados formular alegaciones y aportar documentos en cualquier fase de procedimiento?"
+    },
+    {
+      "pagina_pdf": 40,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1814,
+      "enunciado": "Los asientos del registro electrónico general se anotarán respetando el orden temporal de:"
+    },
+    {
+      "pagina_pdf": 41,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1815,
+      "enunciado": "Conforme la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas indique la respuesta correcta."
+    },
+    {
+      "pagina_pdf": 42,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1816,
+      "enunciado": "En los casos de abstención, los interesados podrán promover:"
+    },
+    {
+      "pagina_pdf": 43,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1817,
+      "enunciado": "Según la Ley 40/2015, en la encomienda de gestión:"
+    },
+    {
+      "pagina_pdf": 44,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1818,
+      "enunciado": "Señale cuál de los siguientes enunciados es correcto de conformidad con la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público:"
+    },
+    {
+      "pagina_pdf": 45,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1819,
+      "enunciado": "Conforme la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público indique la respuesta correcta"
+    },
+    {
+      "pagina_pdf": 47,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1821,
+      "enunciado": "La delegación de firma: (C2 OPE 2023)"
+    },
+    {
+      "pagina_pdf": 48,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1822,
+      "enunciado": "Según lo previsto en la Ley 38/2003, de 17 de noviembre, General de Subvenciones, indique la respuesta correcta:"
+    },
+    {
+      "pagina_pdf": 49,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1823,
+      "enunciado": "Según la Ley 38/2003, de 17 de noviembre, General de Subvenciones, con carácter previo a la convocatoria de una subvención o a la concesión directa de la misma deberá efectuarse:"
+    },
+    {
+      "pagina_pdf": 50,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1824,
+      "enunciado": "De acuerdo con lo establecido en el artículo 160 de la Ley 1/2015, de 6 de febrero, de Hacienda Pública, Sector Público Instrumental y Subvenciones, señale la alternativa incorrecta, en relación con los órganos competentes:"
+    },
+    {
+      "pagina_pdf": 51,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1825,
+      "enunciado": "Señale la respuesta correcta. De acuerdo con la Ley 1/2015, de 6 de febrero, de la Generalitat, de hacienda pública, del sector público instrumental y de subvenciones, en materia de subvenciones:"
+    },
+    {
+      "pagina_pdf": 52,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1826,
+      "enunciado": "Señale cuál de los siguientes enunciados es correcto:"
+    },
+    {
+      "pagina_pdf": 53,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1827,
+      "enunciado": "Indicar la respuesta incorrecta en consonancia con lo que establece la Ley 9/2017:"
+    },
+    {
+      "pagina_pdf": 54,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1828,
+      "enunciado": "¿A efectos la LCSP, cuál es la naturaleza jurídica de RENFE Mercancías SME SA?"
+    },
+    {
+      "pagina_pdf": 55,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1829,
+      "enunciado": "De acuerdo con la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los contratos que tienen por objeto la adquisición, el arrendamiento financiero, o el arrendamiento, con o sin opción de compra, de productos o bienes muebles, son contratos de: (Bolsa arquitectos Ayuntamiento de Vinaroz 2020)"
+    },
+    {
+      "pagina_pdf": 56,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1830,
+      "enunciado": "Se celebra un contrato mixto que comprende un contrato de suministros y un contrato de servicios. ¿De qué modo se actuará?"
+    },
+    {
+      "pagina_pdf": 57,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1831,
+      "enunciado": "La publicación de los pliegos en la Plataforma se llevará a cabo:"
+    },
+    {
+      "pagina_pdf": 58,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1832,
+      "enunciado": "Según lo previsto en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, no es cierto, respecto a los contratos de concesiones, que:"
+    },
+    {
+      "pagina_pdf": 59,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1833,
+      "enunciado": "La publicación de la información relativa a los contratos menores en el perfil de contratante"
+    },
+    {
+      "pagina_pdf": 60,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1834,
+      "enunciado": "Los contratos que tienen por objeto la adquisición, el arrendamiento financiero, o el arrendamiento, con o sin opción de compra, de productos o bienes muebles, son:"
+    },
+    {
+      "pagina_pdf": 61,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1835,
+      "enunciado": "Indique la respuesta incorrecta conforme el Decreto 54/2025, de 15 de abril, del Consell, de simplificación administrativa y transformación digital."
+    },
+    {
+      "pagina_pdf": 62,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1836,
+      "enunciado": "En virtud del artículo 11 del Decreto 54/2025 de simplificación administrativa y transformación digital, señale la respuesta correcta sobre los portales específicos:"
+    },
+    {
+      "pagina_pdf": 63,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1837,
+      "enunciado": "Indique la respuesta correcta conforme el Decreto 54/2025, de 15 de abril, del Consell, de simplificación administrativa y transformación digital."
+    },
+    {
+      "pagina_pdf": 64,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1838,
+      "enunciado": "Conforme a la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, indique la respuesta correcta: (Oficial Estabilización C2)"
+    },
+    {
+      "pagina_pdf": 65,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1839,
+      "enunciado": "¿Cuál de estos derechos no está reconocido por la Ley orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales?"
+    },
+    {
+      "pagina_pdf": 66,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1840,
+      "enunciado": "¿Cuál de las siguientes afirmaciones se ajusta al tenor literal de lo establecido en el Decreto 30/2025?:"
+    },
+    {
+      "pagina_pdf": 67,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1841,
+      "enunciado": "¿Cuál de las siguientes opciones no corresponde a una característica relativa la información facilitada a través del sistema de atención a la ciudadanía?:"
+    },
+    {
+      "pagina_pdf": 68,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1842,
+      "enunciado": "Según el artículo 12 del Decreto 30/2025, los sitios web y portales de la Administración de la Generalitat que publiquen información extraída del SIAC:"
+    },
+    {
+      "pagina_pdf": 69,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1843,
+      "enunciado": "¿Cuál es el objeto del EBEP? Señale la afirmación correcta:"
+    },
+    {
+      "pagina_pdf": 70,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1844,
+      "enunciado": "Señale la respuesta incorrecta:"
+    },
+    {
+      "pagina_pdf": 71,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1845,
+      "enunciado": "Por razón de las faltas cometidas por el personal funcionario y laboral, ¿qué sanción podría imponerse?"
+    },
+    {
+      "pagina_pdf": 72,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1846,
+      "enunciado": "¿En qué supuestos podrá renunciarse a la condición de funcionario de carrera?"
+    },
+    {
+      "pagina_pdf": 73,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1847,
+      "enunciado": "Indique la respuesta correcta conforme la ley 4/2021, de 16 de abril, de la Función Pública Valenciana."
+    },
+    {
+      "pagina_pdf": 74,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1848,
+      "enunciado": "De conformidad con lo previsto en la Ley de Función Pública Valenciana la duración máxima de una comisión de servicios será: (Técnico de Gestión de Administración General)"
+    },
+    {
+      "pagina_pdf": 75,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1849,
+      "enunciado": "Las retribuciones básicas estarán integradas exclusivamente por:"
+    },
+    {
+      "pagina_pdf": 76,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 813,
+      "enunciado": "Señale el enunciado CORRECTO, de acuerdo con el artículo 138 de la Ley 4/2021, de 16 de abril, de la Generalitat, de la función pública valenciana. El personal funcionario de carrera puede hallarse en alguna de las siguientes situaciones administrativas:"
+    },
+    {
+      "pagina_pdf": 77,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 694,
+      "enunciado": "De acuerdo con el artículo 77 de la Ley 4/2021, de 16 de abril, de la Función Pública Valenciana, ¿cuál de los siguientes NO es un derecho individual del empleado público que se ejerce de forma colectiva?"
+    },
+    {
+      "pagina_pdf": 78,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1850,
+      "enunciado": "Según el Decreto 42/2019, de 22 de Marzo, del Consell, de regulación de las condiciones de trabajo del personal funcionario de la Administración de la Generalitat, el fallecimiento del cónyuge, pareja de hecho o de un familiar dentro del primer grado de consanguinidad o afinidad, da derecho a un permiso:"
+    },
+    {
+      "pagina_pdf": 79,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1851,
+      "enunciado": "Según el Decreto 42/2019, del Consell, de regulación de las condiciones de trabajo del personal funcionario de la Administración de la Generalitat:"
+    },
+    {
+      "pagina_pdf": 80,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1852,
+      "enunciado": "Señala la respuesta CORRECTA. Según el Decreto 42/2019, de 22 de marzo, del Consell, de regulación de las condiciones de trabajo del personal funcionario de la Administración de la Generalitat:"
+    },
+    {
+      "pagina_pdf": 81,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1853,
+      "enunciado": "Cuando por razones de enfermedad muy grave sea preciso atender el cuidado del cónyuge, pareja de hecho o de un familiar de primer grado:"
+    },
+    {
+      "pagina_pdf": 82,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1854,
+      "enunciado": "Señale la respuesta incorrecta de acuerdo con el art. 3, para el ejercicio de una segunda actividad será indispensable:"
+    },
+    {
+      "pagina_pdf": 83,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1855,
+      "enunciado": "¿Cuál de las actividades siguientes está exceptuada del régimen de incompatibilidades establecido por la Ley 53/1984, de 26 de diciembre, de incompatibilidades del personal al servicio de las administraciones públicas?"
+    },
+    {
+      "pagina_pdf": 84,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1856,
+      "enunciado": "Señale la respuesta incorrecta según lo establecido en la Ley 1/2015, de 6 de febrero, de Hacienda Pública, Sector Público Instrumental y Subvenciones:"
+    },
+    {
+      "pagina_pdf": 85,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1857,
+      "enunciado": "A qué ejercicio se aplicará la retención adicional del 10% del importe de adjudicación, en los contratos de obra de carácter plurianual, con excepción de los realizados bajo la modalidad de abono total del precio:"
+    },
+    {
+      "pagina_pdf": 86,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1858,
+      "enunciado": "Indica cuál es el límite cuantitativo que se aplica a los anticipos de tesorería:"
+    },
+    {
+      "pagina_pdf": 87,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1859,
+      "enunciado": "De acuerdo con la Ley 1/2015, de 6 de febrero, de la Generalitat, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones, respecto a los fines de la contabilidad del sector público de la Generalitat, señale la respuesta incorrecta:"
+    },
+    {
+      "pagina_pdf": 88,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 823,
+      "enunciado": "Señale el enunciado INCORRECTO, de acuerdo con el artículo 37 de la Ley 1/2015, de 6 de febrero, de la Generalitat, de hacienda pública, del sector público instrumental y de subvenciones, en referencia a la clasificación económica en la estructura de los estados de gastos de los presupuestos de la Generalitat:"
+    },
+    {
+      "pagina_pdf": 89,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1860,
+      "enunciado": "Según la Ley 1/2015, y en relación con los compromisos de gasto de carácter plurianual, ¿cuál de estas respuestas es correcta?"
+    },
+    {
+      "pagina_pdf": 90,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1861,
+      "enunciado": "La estructura presupuestaria que se basa en las actividades a desarrollar da lugar a la clasificación:"
+    },
+    {
+      "pagina_pdf": 91,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1862,
+      "enunciado": "Señale la respuesta incorrecta. Según lo establecido en la Ley 1/2015, de 6 de febrero, de la Generalitat, de hacienda pública, del sector público instrumental y de subvenciones:"
+    },
+    {
+      "pagina_pdf": 92,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1863,
+      "enunciado": "De acuerdo con lo establecido en el Decreto 77/2019, de 7 de junio, del Consell, de regulación del procedimiento de gestión del presupuesto de la Generalitat, al inicio de la tramitación de un expediente de gastos de carácter plurianual, el centro gestor emitirá:"
+    },
+    {
+      "pagina_pdf": 93,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1864,
+      "enunciado": "El Tribunal de Cuentas fiscalizará en particular:"
+    },
+    {
+      "pagina_pdf": 94,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1865,
+      "enunciado": "¿Cuál de las siguientes aseveraciones es verdadera?:"
+    }
+  ]
+}

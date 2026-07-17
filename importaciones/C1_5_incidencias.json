@@ -1,0 +1,146 @@
+{
+  "archivo_origen": "C1_5.pdf",
+  "resumen": {
+    "procesadas": 94,
+    "importadas": 72,
+    "omitidas_error": 0,
+    "duplicadas": 22,
+    "validadas": 53,
+    "a_revisar": 6,
+    "rechazadas": 13
+  },
+  "incidencias": [
+    {
+      "pagina_pdf": 8,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 836,
+      "enunciado": "Señale el enunciado CORRECTO, de acuerdo con el artículo 59 de la Constitución Española de 1978:"
+    },
+    {
+      "pagina_pdf": 12,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 429,
+      "enunciado": "Señale la opción CORRECTA. Según el Estatuto de Autonomía de la Comunitat Valenciana, en relación a la Administración de Justicia, exceptuada la militar, corresponde a la Generalitat:"
+    },
+    {
+      "pagina_pdf": 17,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1792,
+      "enunciado": "El nivel administrativo se organiza en:"
+    },
+    {
+      "pagina_pdf": 19,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2090,
+      "enunciado": "Señale la afirmación incorrecta en relación con las Comisiones Delegadas:"
+    },
+    {
+      "pagina_pdf": 21,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1916,
+      "enunciado": "En relación con el procedimiento legislativo ordinario, determine cuál de las siguientes respuestas es falsa:"
+    },
+    {
+      "pagina_pdf": 22,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2427,
+      "enunciado": "Las Directivas de la Unión Europea:"
+    },
+    {
+      "pagina_pdf": 36,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 131,
+      "enunciado": "Señale el enunciado correcto. Según la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas:"
+    },
+    {
+      "pagina_pdf": 44,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 442,
+      "enunciado": "Señale la respuesta correcta. Según el artículo 5 de la Ley 40/2015, de 1 de octubre, de régimen jurídico del sector público, la creación de un órgano administrativo:"
+    },
+    {
+      "pagina_pdf": 46,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1521,
+      "enunciado": "De conformidad con el artículo 8 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la competencia es:"
+    },
+    {
+      "pagina_pdf": 49,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1823,
+      "enunciado": "Según la Ley 38/2003, de 17 de noviembre, General de Subvenciones, con carácter previo a la convocatoria de una subvención o a la concesión directa de la misma deberá efectuarse:"
+    },
+    {
+      "pagina_pdf": 60,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1827,
+      "enunciado": "Indicar la respuesta incorrecta en consonancia con lo que establece la Ley 9/2017:"
+    },
+    {
+      "pagina_pdf": 62,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2805,
+      "enunciado": "De acuerdo con lo establecido en la normativa aplicable en materia de simplificación administrativa y transformación digital, señale la respuesta correcta en relación con la carpeta ciudadana:"
+    },
+    {
+      "pagina_pdf": 63,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2807,
+      "enunciado": "En el marco del Decreto 54/2025, del Consell, de simplificación administrativa y transformación digital, señale cuál de las siguientes afirmaciones es incorrecta:"
+    },
+    {
+      "pagina_pdf": 64,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 800,
+      "enunciado": "Señale el enunciado CORRECTO. La ley orgánica que regula la protección de datos de carácter personal es:"
+    },
+    {
+      "pagina_pdf": 71,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2551,
+      "enunciado": "Señala la respuesta CORRECTA sobre el régimen disciplinario regulado en la Ley 4/2021, de 16 de abril, de la Función Pública Valenciana:"
+    },
+    {
+      "pagina_pdf": 72,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1742,
+      "enunciado": "Señale la incorrecta de acuerdo con el art. 5. Las previsiones de la presente ley y de su normativa reglamentaria de desarrollo referidas a la Administración de la Generalitat, serán de aplicación asimismo a:"
+    },
+    {
+      "pagina_pdf": 76,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1582,
+      "enunciado": "Según el artículo 67 de la Ley 4/2021, de la Función Pública Valenciana:"
+    },
+    {
+      "pagina_pdf": 77,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1738,
+      "enunciado": "La Ley 4/2021, de 16 de abril, de la Generalitat, de la Función Pública Valenciana, en su artículo 4 regula el personal con legislación específica y establece que las disposiciones de esta ley solo se aplicarán directamente cuando así lo disponga su legislación específica, de entre otros, al personal:"
+    },
+    {
+      "pagina_pdf": 78,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2648,
+      "enunciado": "El cómputo anual de la jornada se calculará descontando a las horas anuales equivalentes a 52 semanas y un día de trabajo, las horas correspondientes a los siguientes conceptos (señala la respuesta INCORRECTA):"
+    },
+    {
+      "pagina_pdf": 83,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1754,
+      "enunciado": "Señala la respuesta correcta:"
+    },
+    {
+      "pagina_pdf": 88,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2566,
+      "enunciado": "La tramitación de expedientes de gastos podrá iniciarse en el ejercicio inmediato anterior siempre que se cumpla alguna de las siguientes circunstancias:"
+    },
+    {
+      "pagina_pdf": 93,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2570,
+      "enunciado": "No corresponderá a la jurisdicción contable el enjuiciamiento de:"
+    }
+  ]
+}

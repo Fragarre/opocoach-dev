@@ -1,0 +1,61 @@
+{
+  "archivo_origen": "C1_3.pdf",
+  "resumen": {
+    "procesadas": 95,
+    "importadas": 87,
+    "omitidas_error": 1,
+    "duplicadas": 7,
+    "validadas": 61,
+    "a_revisar": 9,
+    "rechazadas": 17
+  },
+  "incidencias": [
+    {
+      "pagina_pdf": 29,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 118,
+      "enunciado": "Según la Ley 1/2022, de 13 de abril, de transparencia y buen gobierno de la Comunitat Valenciana, indique la respuesta correcta con relación a las exigencias de calidad normativa:"
+    },
+    {
+      "pagina_pdf": 31,
+      "tipo": "ERROR_EXTRACCION",
+      "motivo": "La pregunta no tiene enunciado."
+    },
+    {
+      "pagina_pdf": 46,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1678,
+      "enunciado": "Cual de estas afirmaciones no es correcta: (Auxiliares administrativos Requena)"
+    },
+    {
+      "pagina_pdf": 51,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 601,
+      "enunciado": "Señale la respuesta correcta. Según lo establecido en el Título X de Ley 1/2015, de 6 de febrero, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones:"
+    },
+    {
+      "pagina_pdf": 61,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2533,
+      "enunciado": "¿Cuál de las siguientes entidades es un poder adjudicador del artículo 3 LCSP?"
+    },
+    {
+      "pagina_pdf": 65,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2322,
+      "enunciado": "Señale el enunciado correcto. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, cuando así proceda en atención a la naturaleza de los hechos y teniendo debidamente en cuenta los criterios establecidos en el Reglamento (UE) 2016/679, la Agencia Española de Protección de Datos podrá dirigir un apercibimiento, así como ordenar al responsable o encargado del tratamiento que adopten las medidas correctivas encaminadas a poner fin al posible incumplimiento:"
+    },
+    {
+      "pagina_pdf": 77,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1739,
+      "enunciado": "En relación a la situación servicio activo regulada en el art. 140 de la Ley 4/2021,de 16 de abril, de Función Pública Valenciana indique cuál de los siguientes enunciados es CORRECTO:"
+    },
+    {
+      "pagina_pdf": 83,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1995,
+      "enunciado": "De acuerdo con el art.7.2 de la Ley 53/1984, de 26 de diciembre, de incompatibilidades del personal al servicio de las Administraciones Públicas los servicios prestados en el segundo puesto o actividad:"
+    }
+  ]
+}

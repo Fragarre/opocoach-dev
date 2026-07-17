@@ -1,0 +1,140 @@
+{
+  "archivo_origen": "C2_6.pdf",
+  "resumen": {
+    "procesadas": 84,
+    "importadas": 63,
+    "omitidas_error": 0,
+    "duplicadas": 21,
+    "validadas": 41,
+    "a_revisar": 7,
+    "rechazadas": 15
+  },
+  "incidencias": [
+    {
+      "pagina_pdf": 16,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2347,
+      "enunciado": "Señale la afirmación correcta en relación al artículo 44.1 de la Ley 5/1983, de 30 de diciembre, de Gobierno Valenciano:"
+    },
+    {
+      "pagina_pdf": 17,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1656,
+      "enunciado": "¿Cuál de las siguientes aseveraciones no es verdadera?:"
+    },
+    {
+      "pagina_pdf": 19,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1665,
+      "enunciado": "En relación con los actos jurídicos de la Unión Europea, indica la alternativa correcta:"
+    },
+    {
+      "pagina_pdf": 23,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1921,
+      "enunciado": "No son principios generales que inspiran a la Ley 9/2003, para la igualdad entre mujeres y hombres, los siguientes"
+    },
+    {
+      "pagina_pdf": 28,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 463,
+      "enunciado": "Señale la respuesta correcta. De acuerdo con el artículo 7 de la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, el tratamiento de los datos de los menores de catorce años, fundado en el consentimiento:"
+    },
+    {
+      "pagina_pdf": 38,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1806,
+      "enunciado": "Señale la respuesta correcta conforme la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas."
+    },
+    {
+      "pagina_pdf": 39,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1529,
+      "enunciado": "Indique conforme la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la respuesta correcta. Respecto al acuerdo de iniciación en los procedimientos de naturaleza sancionadora:"
+    },
+    {
+      "pagina_pdf": 45,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2615,
+      "enunciado": "De acuerdo con lo establecido en el artículo 5 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público:"
+    },
+    {
+      "pagina_pdf": 48,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 676,
+      "enunciado": "Señale la opción CORRECTA. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los contratos menores:"
+    },
+    {
+      "pagina_pdf": 51,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3142,
+      "enunciado": "Son contratos de servicios:"
+    },
+    {
+      "pagina_pdf": 57,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1849,
+      "enunciado": "Las retribuciones básicas estarán integradas exclusivamente por:"
+    },
+    {
+      "pagina_pdf": 60,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 685,
+      "enunciado": "¿Cuál de las siguientes causas dará lugar a la finalización de nombramiento de personal funcionario interino, según, la Ley 4/2021, de 16 de abril de la Generalitat, de la Función Pública Valenciana?"
+    },
+    {
+      "pagina_pdf": 74,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2903,
+      "enunciado": "Los Presupuestos de la Generalitat no estarán integrados por:"
+    },
+    {
+      "pagina_pdf": 75,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2635,
+      "enunciado": "En virtud del artículo 2 del Decreto 30/2025, indique cuál de las siguientes entidades no queda incluida en su ámbito de aplicación:"
+    },
+    {
+      "pagina_pdf": 76,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2889,
+      "enunciado": "Señale la opción incorrecta. Las ciudadanas y los ciudadanos, en sus relaciones con el sistema de atención a la ciudadanía, podrán:"
+    },
+    {
+      "pagina_pdf": 77,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3303,
+      "enunciado": "De acuerdo con el Decreto 30/2025, por el que se regula la atención a la ciudadanía y las oficinas de asistencia en materia de registro, indique cuál de las siguientes afirmaciones no es verdadera:"
+    },
+    {
+      "pagina_pdf": 80,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1836,
+      "enunciado": "En virtud del artículo 11 del Decreto 54/2025 de simplificación administrativa y transformación digital, señale la respuesta correcta sobre los portales específicos:"
+    },
+    {
+      "pagina_pdf": 81,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2717,
+      "enunciado": "Indique la opción incorrecta. De conformidad con el Decreto 54/2025, el Portal corporativo permitirá el acceso, al menos, a la siguiente información, recursos y servicios:"
+    },
+    {
+      "pagina_pdf": 82,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3237,
+      "enunciado": "Según lo previsto en el Decreto 54/2025, señale la respuesta correcta en relación con las apps móviles específicas:"
+    },
+    {
+      "pagina_pdf": 83,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3065,
+      "enunciado": "¿Cuál de las siguientes opciones está contemplada expresamente como parte del acceso a la carpeta ciudadana de la Generalitat, de conformidad con el artículo 17 del Decreto 54/2025, de simplificación administrativa y transformación digital?:"
+    },
+    {
+      "pagina_pdf": 84,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3067,
+      "enunciado": "¿Qué determina el nivel de obligatoriedad de la tramitación electrónica?"
+    }
+  ]
+}

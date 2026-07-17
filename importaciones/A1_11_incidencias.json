@@ -1,0 +1,158 @@
+{
+  "archivo_origen": "A1_11.pdf",
+  "resumen": {
+    "procesadas": 156,
+    "importadas": 132,
+    "omitidas_error": 0,
+    "duplicadas": 24,
+    "validadas": 29,
+    "a_revisar": 7,
+    "rechazadas": 96
+  },
+  "incidencias": [
+    {
+      "pagina_pdf": 1,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 737,
+      "enunciado": "Señale la opción CORRECTA. Según el artículo 17 de la Constitución, respecto a la detención preventiva:"
+    },
+    {
+      "pagina_pdf": 5,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3409,
+      "enunciado": "El derecho a la negociación colectiva laboral:"
+    },
+    {
+      "pagina_pdf": 9,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1779,
+      "enunciado": "Los recursos de las Comunidades Autónomas estarán constituidos por:"
+    },
+    {
+      "pagina_pdf": 11,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2490,
+      "enunciado": "La moción de censura no podrá ser votada hasta que, desde su presentación, hayan transcurrido:"
+    },
+    {
+      "pagina_pdf": 16,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3682,
+      "enunciado": "De acuerdo con el artículo 66 de la Ley 40/2015 , los Directores Generales son nombrados y separados por: (TAG Ayuntamiento de Paracuellos 2017)"
+    },
+    {
+      "pagina_pdf": 27,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3413,
+      "enunciado": "De acuerdo con lo establecido en el artículo 22 del Estatuto de Autonomía de la Comunitat Valenciana no son funciones de Les Corts:"
+    },
+    {
+      "pagina_pdf": 37,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1790,
+      "enunciado": "En relación con la Ley 5/1983, de Consell, ¿cuál de las siguientes aseveraciones es la correcta?"
+    },
+    {
+      "pagina_pdf": 52,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1514,
+      "enunciado": "De acuerdo con lo establecido en los Tratados, la Unión garantizará la ausencia de controles de las personas en las fronteras interiores y desarrollará una política común de asilo, inmigración y control de las fronteras exteriores que esté basada en __________ entre Estados miembros y sea equitativa respecto de los nacionales de terceros países."
+    },
+    {
+      "pagina_pdf": 59,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3277,
+      "enunciado": "La Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público (en adelante LRJSP) establece y regula:"
+    },
+    {
+      "pagina_pdf": 65,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 779,
+      "enunciado": "Señale el enunciado INCORRECTO, de acuerdo con el artículo 39 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas:"
+    },
+    {
+      "pagina_pdf": 67,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3730,
+      "enunciado": "El interesado en el procedimiento administrativo tiene derecho:"
+    },
+    {
+      "pagina_pdf": 68,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 431,
+      "enunciado": "Señale la respuesta correcta. Según la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas:"
+    },
+    {
+      "pagina_pdf": 70,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3338,
+      "enunciado": "¿Cuál de las siguientes respuestas es correcta?"
+    },
+    {
+      "pagina_pdf": 72,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1809,
+      "enunciado": "Conforme a lo dispuesto en el capítulo III del Título III sobre nulidad y anulabilidad de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la realización de actuaciones administrativas fuera del tiempo establecido para ellas:"
+    },
+    {
+      "pagina_pdf": 82,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1943,
+      "enunciado": "Conforme la Ley de 16 de diciembre de 1954 sobre expropiación forzosa señale cuál de las siguientes afirmaciones es correcta."
+    },
+    {
+      "pagina_pdf": 89,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3514,
+      "enunciado": "¿Cuál de las siguientes irregularidades no determina la nulidad de pleno derecho de un contrato adjudicado por la Entidad Metropolitana para el Tratamiento de Residuos (EMTRE) a Business Initiatives Consulting SL (Biconsulting) para la evaluación de la calidad del agua?"
+    },
+    {
+      "pagina_pdf": 93,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3443,
+      "enunciado": "Señale la respuesta correcta en relación con la aprobación del expediente:"
+    },
+    {
+      "pagina_pdf": 95,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3280,
+      "enunciado": "¿Cuál de los siguientes negocios en un contrato administrativo especial a efectos de la LCSP"
+    },
+    {
+      "pagina_pdf": 98,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2718,
+      "enunciado": "En relación con la gestión de incidencias técnicas en los sistemas electrónicos de la Generalitat, indique cuál de las siguientes aseveraciones es verdadera según lo establecido en la normativa aplicable en materia de simplificación administrativa y transformación digital:"
+    },
+    {
+      "pagina_pdf": 99,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2306,
+      "enunciado": "Según la Ley 1/2015, respecto de los gastos de tramitación anticipada, señale la respuesta correcta:"
+    },
+    {
+      "pagina_pdf": 103,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 823,
+      "enunciado": "Señale el enunciado INCORRECTO, de acuerdo con el artículo 37 de la Ley 1/2015, de 6 de febrero, de la Generalitat, de hacienda pública, del sector público instrumental y de subvenciones, en referencia a la clasificación económica en la estructura de los estados de gastos de los presupuestos de la Generalitat:"
+    },
+    {
+      "pagina_pdf": 121,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2980,
+      "enunciado": "Señale la respuesta incorrecta respecto a la evaluación del desempeño:"
+    },
+    {
+      "pagina_pdf": 131,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1992,
+      "enunciado": "¿Cuál de las siguientes aseveraciones es verdadera?"
+    },
+    {
+      "pagina_pdf": 144,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3798,
+      "enunciado": "Señale el enunciado correcto. Según la ley 4/2023, de 13 de abril, de Participación Ciudadana y Fomento del Asociacionismo de la Comunitat Valenciana:"
+    }
+  ]
+}

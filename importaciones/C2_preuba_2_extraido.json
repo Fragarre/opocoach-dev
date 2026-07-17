@@ -1,0 +1,245 @@
+{
+  "archivo_origen": "C2_preuba_2.pdf",
+  "referencia_origen": "C2_preuba_2",
+  "total_paginas_pdf": 11,
+  "pagina_desde": 1,
+  "pagina_hasta": 11,
+  "modelo_extraccion": "gpt-5.4-mini",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Señale la respuesta correcta. Según la Constitución, se reconoce:",
+      "opciones": {
+        "A": "El derecho de los ciudadanos a acceder en condiciones de igualdad a las funciones y cargos públicos, sin necesidad de cumplir requisito alguno.",
+        "B": "El derecho de petición de todos los ciudadanos de forma individual, por escrito o de forma oral, con los efectos que determine una ley orgánica.",
+        "C": "El derecho a la propiedad colectiva y a la herencia.",
+        "D": "El derecho a comunicar o recibir libremente información veraz por cualquier medio de difusión."
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": "Artículo 20 de Título 1 de Constitución Española de 1978",
+      "articulo": "20",
+      "norma": "Constitución Española de 1978",
+      "titulo_o_parte": "Título 1",
+      "confianza_extraccion": 0.99,
+      "incidencias": [],
+      "pagina_pdf": 1,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 3.46,
+      "error_extraccion": null
+    },
+    {
+      "numero": 2,
+      "enunciado": "Los decretos leyes:",
+      "opciones": {
+        "A": "Son disposiciones legislativas provisionales dictadas por el Gobierno en caso de extraordinaria y urgente necesidad.",
+        "B": "Son disposiciones normativas con rango de ley dictadas por el Gobierno, por delegación de las Cortes Generales sobre cualquier materia.",
+        "C": "Son disposiciones normativas con rango de ley dictadas por el Gobierno, por delegación de las Cortes Generales sobre materias determinadas no reservadas a Ley Orgánica.",
+        "D": "Son las disposiciones reglamentarias de mayor rango jerárquico."
+      },
+      "respuesta_correcta": "A",
+      "pie_completo": "Artículo 86 de Título 3 de Constitución Española de 1978",
+      "articulo": "86",
+      "norma": "Constitución Española de 1978",
+      "titulo_o_parte": "Título 3",
+      "confianza_extraccion": 0.99,
+      "incidencias": [],
+      "pagina_pdf": 2,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 2.62,
+      "error_extraccion": null
+    },
+    {
+      "numero": 3,
+      "enunciado": "Según el artículo 150.3 de la Constitución Española, la apreciación de la necesidad de dictar leyes que establezcan los principios necesarios para armonizar las disposiciones normativas de las Comunidades Autónomas corresponde a: (AGE 2003)",
+      "opciones": {
+        "A": "El Congreso por mayoría de 3/5 de sus miembros",
+        "B": "El Consejo de Ministros",
+        "C": "El Senado en calidad de Cámara de representación territorial",
+        "D": "Las Cortes Generales por mayoría absoluta de cada Cámara"
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": "Artículo 150 de Título 8 de Constitución Española de 1978",
+      "articulo": "150",
+      "norma": "Constitución Española de 1978",
+      "titulo_o_parte": "Título 8",
+      "confianza_extraccion": 0.99,
+      "incidencias": [],
+      "pagina_pdf": 3,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 2.58,
+      "error_extraccion": null
+    },
+    {
+      "numero": 4,
+      "enunciado": "¿Cuál de las siguientes aseveraciones no es verdadera?:",
+      "opciones": {
+        "A": "Cuando una proposición de ley fuere contraria a una delegación legislativa en vigor, el Gobierno está facultado para oponerse a su tramitación",
+        "B": "Cuando una enmienda fuere contraria a una delegación legislativa en vigor, el Gobierno está facultado para oponerse a su tramitación",
+        "C": "Si el Gobierno se opone a la tramitación de una proposición de ley o una enmienda por ser contraria a una delegación legislativa en vigor, podrá presentarse un proyecto de ley para la derogación total o parcial de la ley de delegación",
+        "D": "Ninguna. Todas las anteriores aseveraciones son verdaderas"
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": "Artículo 84 de Título 3 de Constitución Española de 1978",
+      "articulo": "84",
+      "norma": "Constitución Española de 1978",
+      "titulo_o_parte": "Título 3",
+      "confianza_extraccion": 0.99,
+      "incidencias": [],
+      "pagina_pdf": 4,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 2.64,
+      "error_extraccion": null
+    },
+    {
+      "numero": 5,
+      "enunciado": "¿Cuál de las siguientes aseveraciones es verdadera?:",
+      "opciones": {
+        "A": "Según la vigente Constitución Española, la delegación legislativa de las Cortes en el Gobierno deberá otorgarse mediante una ley orgánica cuando se trate de refundir varios textos legales en uno solo",
+        "B": "La delegación legislativa de las Cortes en el Gobierno deberá otorgarse mediante una ley ordinaria cuando se trate de refundir varios textos legales en uno solo",
+        "C": "La delegación legislativa de las Cortes en el Gobierno deberá otorgarse mediante una ley de bases cuando se trate de refundir varios textos legales en uno solo",
+        "D": "Ninguna de las anteriores"
+      },
+      "respuesta_correcta": "B",
+      "pie_completo": "Artículo 82 de Título 3 de Constitución Española de 1978",
+      "articulo": "82",
+      "norma": "Constitución Española de 1978",
+      "titulo_o_parte": "Título 3",
+      "confianza_extraccion": 0.99,
+      "incidencias": [],
+      "pagina_pdf": 5,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 2.44,
+      "error_extraccion": null
+    },
+    {
+      "numero": 6,
+      "enunciado": "La libertad de cátedra es un derecho reconocido en la Constitución Española: (Aux.Adtivo.Univ Sevilla 2009)",
+      "opciones": {
+        "A": "Si, si bien su ejercicio está condicionado a la autorización administrativa previa.",
+        "B": "No. Sin embargo está amparado por la jurisprudencia del Tribunal Constitucional.",
+        "C": "Sí. En su Artículo 20.",
+        "D": "No. Sin embargo es un derecho reconocido por el Parlamento Europeo y, por lo tanto, aplicable en España"
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": "Artículo 20 de Título 1 de Constitución Española de 1978",
+      "articulo": "20",
+      "norma": "Constitución Española de 1978",
+      "titulo_o_parte": "Título 1",
+      "confianza_extraccion": 0.99,
+      "incidencias": [],
+      "pagina_pdf": 6,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 1.92,
+      "error_extraccion": null
+    },
+    {
+      "numero": 1,
+      "enunciado": "Según dispone el Título VI de la Constitución Española, señale la respuesta incorrecta:",
+      "opciones": {
+        "A": "El ejercicio de la potestad jurisdiccional en todo tipo de procesos, juzgando y haciendo ejecutar la juzgado, corresponde exclusivamente a las Juzgados y Tribunales determinados por el Consejo General del Poder Judicial.",
+        "B": "La justicia emana del pueblo y se administra en nombre del Rey por Jueces y Magistrados integrantes del poder judicial, independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley.",
+        "C": "La organización y funcionamiento de los tribunales se basa en el principio de unidad jurisdiccional.",
+        "D": "Se prohíben los Tribunales de excepción."
+      },
+      "respuesta_correcta": "A",
+      "pie_completo": "Artículo 117 de Título 6 de Constitución Española de 1978",
+      "articulo": "117",
+      "norma": "Constitución Española de 1978",
+      "titulo_o_parte": "Título 6",
+      "confianza_extraccion": 0.98,
+      "incidencias": [
+        "La opción A contiene el texto visible 'hacer ejecutar la juzgado', transcrito literalmente aunque parece una errata.",
+        "La opción A muestra 'las Juzgados y Tribunales' tal como aparece en la imagen.",
+        "El pie aparece como 'Título 6' en la imagen, aunque la formulación normativa habitual es Título VI."
+      ],
+      "pagina_pdf": 7,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 3.3,
+      "error_extraccion": null
+    },
+    {
+      "numero": 8,
+      "enunciado": "¿Cuándo podrá una ley de bases autorizar a la modificación de la propia ley de bases?",
+      "opciones": {
+        "A": "Siempre que la modificación no tenga carácter retroactivo.",
+        "B": "En aquellos casos en que el objeto de la ley de bases no sea la refundición de varios textos legales en uno solo.",
+        "C": "Cuando el objeto de la ley de bases sea la refundición de textos legales que previsiblemente pudieran resultar afectados por la tramitación de iniciativas legislativas en curso.",
+        "D": "En ningún caso."
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": "Artículo 83 de Título 3 de Constitución Española de 1978",
+      "articulo": "83",
+      "norma": "Constitución Española de 1978",
+      "titulo_o_parte": "Título 3",
+      "confianza_extraccion": 0.99,
+      "incidencias": [],
+      "pagina_pdf": 8,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 2.25,
+      "error_extraccion": null
+    },
+    {
+      "numero": 9,
+      "enunciado": "El Título Quinto de la Constitución:",
+      "opciones": {
+        "A": "Está dividido en dos Capítulos.",
+        "B": "Está dividido en tres Capítulos.",
+        "C": "Está dividido en cuatro Capítulos.",
+        "D": "Carece de Capítulos."
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": "Artículo 108 de Título 5 de Constitución Española de 1978",
+      "articulo": "108",
+      "norma": "Constitución Española de 1978",
+      "titulo_o_parte": "Título 5",
+      "confianza_extraccion": 0.99,
+      "incidencias": [],
+      "pagina_pdf": 9,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 1.77,
+      "error_extraccion": null
+    },
+    {
+      "numero": 10,
+      "enunciado": "Forman parte de la Generalidad Valenciana:",
+      "opciones": {
+        "A": "Les Corts, el Presidente, el Consell y las demás instituciones que determine el Estado",
+        "B": "Les Corts, el Presidente, el Gobierno valenciano y la mesa",
+        "C": "El presidente, vicepresidentes y el Consell",
+        "D": "Les Corts, el Presidente y el Consell"
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": "Artículo 20 de Título 3 de Estatuto Autonomía Comunidad Valenciana",
+      "articulo": "20",
+      "norma": "Estatuto Autonomía Comunidad Valenciana",
+      "titulo_o_parte": "Título 3",
+      "confianza_extraccion": 0.99,
+      "incidencias": [],
+      "pagina_pdf": 10,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 2.11,
+      "error_extraccion": null
+    },
+    {
+      "numero": 11,
+      "enunciado": "¿Cuál de las siguientes aseveraciones es la correcta en relación con el EACV?",
+      "opciones": {
+        "A": "Las instituciones de la Generalitat podrán establecerse y celebrar reuniones en cualquiera de los municipios de la Comunitat Valenciana, de acuerdo con lo que la Ley disponga.",
+        "B": "La sede del Consell será la ciudad de Valencia, y sus organismos, servicios y dependencias se establecerán en diferentes lugares del territorio de la Comunitat Valenciana, de acuerdo con criterios de descentralización y coordinación de funciones.",
+        "C": "La Generalitat, en el ámbito de sus competencias, garantizará a todas las personas el derecho a un trabajo digno, bien remunerado, estable y en condiciones de igualdad y calidad, que permita la conciliación de la vida laboral y familiar y el desarrollo humano y profesional de los trabajadores.",
+        "D": "Ninguna de las anteriores."
+      },
+      "respuesta_correcta": "A",
+      "pie_completo": "Artículo 5 de Título 1 de Estatuto Autonomía Comunidad Valenciana",
+      "articulo": "5",
+      "norma": "Estatuto Autonomía Comunidad Valenciana",
+      "titulo_o_parte": "Título 1",
+      "confianza_extraccion": 0.99,
+      "incidencias": [],
+      "pagina_pdf": 11,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 2.8,
+      "error_extraccion": null
+    }
+  ]
+}

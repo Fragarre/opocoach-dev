@@ -1,0 +1,50 @@
+{
+  "archivo_origen": "C1_4.pdf",
+  "resumen": {
+    "procesadas": 95,
+    "importadas": 89,
+    "omitidas_error": 0,
+    "duplicadas": 6,
+    "validadas": 62,
+    "a_revisar": 9,
+    "rechazadas": 18
+  },
+  "incidencias": [
+    {
+      "pagina_pdf": 12,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2582,
+      "enunciado": "Señale la respuesta incorrecta:"
+    },
+    {
+      "pagina_pdf": 18,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2496,
+      "enunciado": "Respecto de la organización, competencias y estructura de la Administración Pública de la Generalitat, regulada por la Ley 5/1983, de 30 de diciembre, del Consell, señale la respuesta correcta:"
+    },
+    {
+      "pagina_pdf": 39,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1691,
+      "enunciado": "De acuerdo con el artículo 56 de la Ley 39/2015, de 1 de octubre, iniciado un procedimiento, el órgano administrativo competente para resolver podrá:"
+    },
+    {
+      "pagina_pdf": 69,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2636,
+      "enunciado": "¿Cuál de las siguientes aseveraciones es verdadera, de acuerdo con lo dispuesto en el Decreto 30/2025, sobre la gestión de la calidad del sistema de atención a la ciudadanía?:"
+    },
+    {
+      "pagina_pdf": 88,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1724,
+      "enunciado": "En marzo de 2022, en la Agencia Valenciana De Fomento Y Garantía Agraria (AVFGA), un organismo autónomo, surgió la necesidad de concesión de un crédito extraordinario equivalente al 3% de los créditos consignados en sus presupuestos. Posteriormente, en octubre de 2022, surgió de nuevo esta necesidad de concesión de un crédito extraordinario por importe del 4% de los créditos consignados en sus presupuestos. Según lo establecido en la Ley 1/2015, de 6 de febrero, de Hacienda Pública, Sector Público Instrumental y Subvenciones, ¿quién será competente para autorizar ese segundo crédito extraordinario?"
+    },
+    {
+      "pagina_pdf": 95,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1865,
+      "enunciado": "¿Cuál de las siguientes aseveraciones es verdadera?:"
+    }
+  ]
+}

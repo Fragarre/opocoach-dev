@@ -1,0 +1,25 @@
+{
+  "archivo_origen": "A1_2.pdf",
+  "resumen": {
+    "procesadas": 161,
+    "importadas": 159,
+    "omitidas_error": 1,
+    "duplicadas": 1,
+    "validadas": 50,
+    "a_revisar": 10,
+    "rechazadas": 99
+  },
+  "incidencias": [
+    {
+      "pagina_pdf": 120,
+      "tipo": "ERROR_EXTRACCION",
+      "motivo": "La pregunta no tiene enunciado."
+    },
+    {
+      "pagina_pdf": 131,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1586,
+      "enunciado": "Señale cuál de las siguientes afirmaciones es verdadera:"
+    }
+  ]
+}

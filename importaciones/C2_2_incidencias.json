@@ -1,0 +1,187 @@
+{
+  "archivo_origen": "C2_2.pdf",
+  "resumen": {
+    "procesadas": 96,
+    "importadas": 67,
+    "omitidas_error": 0,
+    "duplicadas": 29,
+    "validadas": 42,
+    "a_revisar": 9,
+    "rechazadas": 16
+  },
+  "incidencias": [
+    {
+      "pagina_pdf": 1,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 491,
+      "enunciado": "Señale la respuesta correcta. Según la Constitución, se reconoce:"
+    },
+    {
+      "pagina_pdf": 2,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3069,
+      "enunciado": "Los decretos leyes:"
+    },
+    {
+      "pagina_pdf": 3,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2995,
+      "enunciado": "Según el artículo 150.3 de la Constitución Española, la apreciación de la necesidad de dictar leyes que establezcan los principios necesarios para armonizar las disposiciones normativas de las Comunidades Autónomas corresponde a: (AGE 2003)"
+    },
+    {
+      "pagina_pdf": 4,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3090,
+      "enunciado": "¿Cuál de las siguientes aseveraciones no es verdadera?:"
+    },
+    {
+      "pagina_pdf": 5,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3071,
+      "enunciado": "¿Cuál de las siguientes aseveraciones es verdadera?:"
+    },
+    {
+      "pagina_pdf": 6,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3072,
+      "enunciado": "La libertad de cátedra es un derecho reconocido en la Constitución Española: (Aux.Adtivo.Univ Sevilla 2009)"
+    },
+    {
+      "pagina_pdf": 7,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3073,
+      "enunciado": "Según dispone el Título VI de la Constitución Española, señale la respuesta incorrecta:"
+    },
+    {
+      "pagina_pdf": 8,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3074,
+      "enunciado": "¿Cuándo podrá una ley de bases autorizar a la modificación de la propia ley de bases?"
+    },
+    {
+      "pagina_pdf": 9,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2142,
+      "enunciado": "El Título Quinto de la Constitución:"
+    },
+    {
+      "pagina_pdf": 10,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3075,
+      "enunciado": "Forman parte de la Generalidad Valenciana:"
+    },
+    {
+      "pagina_pdf": 11,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3076,
+      "enunciado": "¿Cuál de las siguientes aseveraciones es la correcta en relación con el EACV?"
+    },
+    {
+      "pagina_pdf": 12,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2921,
+      "enunciado": "Según el artículo 8 de la Constitución española de 1978 ¿a quién le corresponde la defensa del orden constitucional?"
+    },
+    {
+      "pagina_pdf": 25,
+      "tipo": "DUPLICADA_LOTE",
+      "enunciado": "La Ley 5/1983, de 30 diciembre, del Consell, consta de:"
+    },
+    {
+      "pagina_pdf": 28,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2499,
+      "enunciado": "Señale la afirmación correcta en relación con las leyes de delegación:"
+    },
+    {
+      "pagina_pdf": 36,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3013,
+      "enunciado": "De acuerdo con la Ley 4/2023, de 13 de abril, de Participación Ciudadana y Fomento del Asociacionismo de la Comunitat Valenciana, señale el enunciado correcto respecto a las iniciativas ciudadanas:"
+    },
+    {
+      "pagina_pdf": 39,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2808,
+      "enunciado": "Cuando sea necesaria la publicación de un acto administrativo que contuviese datos personales del afectado:"
+    },
+    {
+      "pagina_pdf": 44,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2432,
+      "enunciado": "El derecho a obtener información y orientación acerca de los requisitos jurídicos o técnicos que las disposiciones vigentes impongan a los proyectos, actuaciones o solicitudes que se propongan realizar:"
+    },
+    {
+      "pagina_pdf": 54,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2786,
+      "enunciado": "Indique la respuesta incorrecta conforme la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público."
+    },
+    {
+      "pagina_pdf": 57,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2791,
+      "enunciado": "Según Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público ¿dónde se entenderán adoptados los acuerdos de un órgano colegiado, cuando se asista a distancia? (Señale la respuesta correcta)."
+    },
+    {
+      "pagina_pdf": 63,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 453,
+      "enunciado": "Señale la respuesta correcta. Según el artículo 26 de la Ley 9/2017, de 8 de noviembre, de contratos del sector público, los contratos privados que celebren las administraciones públicas se regirán:"
+    },
+    {
+      "pagina_pdf": 64,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2797,
+      "enunciado": "¿Cuál de las siguientes entidades tiene la consideración de poder adjudicador distinto a una Administración Pública a efectos de la LCSP?"
+    },
+    {
+      "pagina_pdf": 79,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2743,
+      "enunciado": "Según la Ley 1/2015, de 6 de febrero, de Hacienda Pública, Sector Público Instrumental y Subvenciones, podrán dar lugar a generación de créditos:"
+    },
+    {
+      "pagina_pdf": 80,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2969,
+      "enunciado": "Señale la respuesta correcta según lo establecido en la Ley 1/2015, de 6 de febrero, de Hacienda Pública, Sector Público Instrumental y Subvenciones. La tramitación de expedientes de gastos podrá iniciarse en el ejercicio inmediato anterior siempre que se cumpla alguna de las siguientes circunstancias:"
+    },
+    {
+      "pagina_pdf": 87,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 189,
+      "enunciado": "¿En cuál de los siguientes supuestos no ha de recabarse el informe previo de la conselleria con competencias en materia de hacienda, previsto en el artículo 26 de la Ley 1/2015, de 6 de febrero, de la Generalitat, de hacienda pública, del sector público instrumental y de subvenciones, y en el ámbito de la Administración de la Generalitat y de su sector público instrumental?"
+    },
+    {
+      "pagina_pdf": 88,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2889,
+      "enunciado": "Señale la opción incorrecta. Las ciudadanas y los ciudadanos, en sus relaciones con el sistema de atención a la ciudadanía, podrán:"
+    },
+    {
+      "pagina_pdf": 91,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1842,
+      "enunciado": "Según el artículo 12 del Decreto 30/2025, los sitios web y portales de la Administración de la Generalitat que publiquen información extraída del SIAC:"
+    },
+    {
+      "pagina_pdf": 92,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3067,
+      "enunciado": "¿Qué determina el nivel de obligatoriedad de la tramitación electrónica?"
+    },
+    {
+      "pagina_pdf": 94,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3068,
+      "enunciado": "Conforme el artículo 19 del Decreto 54/2025, de 15 de abril, del Consell, de simplificación administrativa y transformación digital, señale cuál de las siguientes aseveraciones es verdadera:"
+    },
+    {
+      "pagina_pdf": 96,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2807,
+      "enunciado": "En el marco del Decreto 54/2025, del Consell, de simplificación administrativa y transformación digital, señale cuál de las siguientes afirmaciones es incorrecta:"
+    }
+  ]
+}

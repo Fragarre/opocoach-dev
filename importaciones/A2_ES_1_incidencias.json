@@ -1,0 +1,26 @@
+{
+  "archivo_origen": "A2_ES_1.pdf",
+  "resumen": {
+    "procesadas": 40,
+    "importadas": 38,
+    "omitidas_error": 0,
+    "duplicadas": 2,
+    "validadas": 24,
+    "a_revisar": 3,
+    "rechazadas": 11
+  },
+  "incidencias": [
+    {
+      "pagina_pdf": 13,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1655,
+      "enunciado": "Tal y como establece el artículo 8 de la Ley 5/1983 de 30 de diciembre, de Gobierno, el President de la Generalitat cesa por las siguientes causas:"
+    },
+    {
+      "pagina_pdf": 34,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2274,
+      "enunciado": "A tenor de lo establecido en la Ley 9/2003, de 2 de abril, de la Generalitat, para la Igualdad entre Mujeres y Hombres, indique cuál de las siguientes afirmaciones es INCORRECTA:"
+    }
+  ]
+}

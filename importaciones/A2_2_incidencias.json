@@ -1,0 +1,143 @@
+{
+  "archivo_origen": "A2_2.pdf",
+  "resumen": {
+    "procesadas": 197,
+    "importadas": 175,
+    "omitidas_error": 1,
+    "duplicadas": 21,
+    "validadas": 74,
+    "a_revisar": 16,
+    "rechazadas": 85
+  },
+  "incidencias": [
+    {
+      "pagina_pdf": 8,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1873,
+      "enunciado": "¿Cuál de las siguientes aseveraciones es verdadera?:"
+    },
+    {
+      "pagina_pdf": 10,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 232,
+      "enunciado": "Señale cuál de las siguientes afirmaciones sobre el Ministerio Fiscal es incorrecta, según el artículo 124 de la Constitución:"
+    },
+    {
+      "pagina_pdf": 12,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1464,
+      "enunciado": "De acuerdo con la Constitución española de 1978, señale cuál de los siguientes enunciados es correcto:"
+    },
+    {
+      "pagina_pdf": 21,
+      "tipo": "ERROR_EXTRACCION",
+      "motivo": "La pregunta no tiene enunciado."
+    },
+    {
+      "pagina_pdf": 35,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1506,
+      "enunciado": "Señale la respuesta correcta. Según el Tratado de la Unión Europea (TUE):"
+    },
+    {
+      "pagina_pdf": 49,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 128,
+      "enunciado": "Señale la afirmación correcta. Según la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas:"
+    },
+    {
+      "pagina_pdf": 71,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1857,
+      "enunciado": "A qué ejercicio se aplicará la retención adicional del 10% del importe de adjudicación, en los contratos de obra de carácter plurianual, con excepción de los realizados bajo la modalidad de abono total del precio:"
+    },
+    {
+      "pagina_pdf": 89,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1985,
+      "enunciado": "Entre los puestos de naturaleza funcionarial se encuentran los que supongan o estén relacionados con (señala la INCORRECTA):"
+    },
+    {
+      "pagina_pdf": 91,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1983,
+      "enunciado": "Señala la respuesta correcta:"
+    },
+    {
+      "pagina_pdf": 94,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1600,
+      "enunciado": "De acuerdo con el artículo 9 de la Ley 6/2024 de simplificación administrativa, con respecto a la Oficina de Simplificación Administrativa y Gobierno del Dato:"
+    },
+    {
+      "pagina_pdf": 104,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1874,
+      "enunciado": "¿Cuál de las siguientes aseveraciones es verdadera?"
+    },
+    {
+      "pagina_pdf": 111,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 335,
+      "enunciado": "¿Qué dice la Constitución respecto del estatuto de los funcionarios públicos?"
+    },
+    {
+      "pagina_pdf": 117,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1489,
+      "enunciado": "¿Cuál de las siguientes aseveraciones no es verdadera?:"
+    },
+    {
+      "pagina_pdf": 125,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2162,
+      "enunciado": "Cuál de las siguientes afirmaciones no es correcta respecto a las prerrogativas del President de la Generalitat, de conformidad con lo establecido en el artículo 9 de la ley del Consell:"
+    },
+    {
+      "pagina_pdf": 129,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1660,
+      "enunciado": "Corresponde al pleno de la AVL las siguientes atribuciones"
+    },
+    {
+      "pagina_pdf": 134,
+      "tipo": "DUPLICADA_LOTE",
+      "enunciado": "¿Qué tipo de competencia tiene la Unión Europea sobre el Mercado Interior?"
+    },
+    {
+      "pagina_pdf": 155,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1939,
+      "enunciado": "Señale la respuesta correcta. Según la Ley 14/2003, de 10 de abril, de la Generalitat, de Patrimonio de la Generalitat Valenciana:"
+    },
+    {
+      "pagina_pdf": 156,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1941,
+      "enunciado": "Según lo previsto en la Ley 38/2003, de 17 de noviembre, General de Subvenciones, con respecto a los requisitos para obtener la condición de beneficiario o entidad colaboradora, indique la respuesta correcta. No podrán obtener la condición de beneficiario o entidad colaboradora de las subvenciones reguladas en esta ley las personas o entidades en quienes concurra alguna de las circunstancias siguientes, salvo que por la naturaleza de la subvención se exceptúe por su normativa reguladora:"
+    },
+    {
+      "pagina_pdf": 186,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1585,
+      "enunciado": "Señale cuál de las siguientes afirmaciones es correcta:"
+    },
+    {
+      "pagina_pdf": 192,
+      "tipo": "DUPLICADA_LOTE",
+      "enunciado": "Señale el enunciado correcto. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, cuando así proceda en atención a la naturaleza de los hechos y teniendo debidamente en cuenta los criterios establecidos en el Reglamento (UE) 2016/679, la Agencia Española de Protección de Datos podrá dirigir un apercibimiento, así como ordenar al responsable o encargado del tratamiento que adopten las medidas correctivas encaminadas a poner fin al posible incumplimiento:"
+    },
+    {
+      "pagina_pdf": 196,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1803,
+      "enunciado": "Señale la respuesta correcta. Según la Ley 1/2022, de 13 de abril, de Transparencia y Buen Gobierno de la Comunitat Valenciana:"
+    },
+    {
+      "pagina_pdf": 197,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 325,
+      "enunciado": "Indique con qué programas o instrumentos generales de actuación para la mejora continua de los servicios públicos se corresponde con la definición de ser «documentos por medio de los cuales las organizaciones públicas informan sobre los compromisos de calidad de los servicios que gestionan y prestan, en respuesta a las necesidades y expectativas de la ciudadanía, y a la demanda de transparencia en la actividad pública»:"
+    }
+  ]
+}

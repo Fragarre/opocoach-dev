@@ -1,0 +1,603 @@
+{
+  "archivo_origen": "C2_prueba.pdf",
+  "referencia_origen": "C2_prueba",
+  "total_paginas_pdf": 28,
+  "pagina_desde": 1,
+  "pagina_hasta": 28,
+  "modelo_extraccion": "gpt-5.4-mini",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Señale la respuesta correcta. Según la Constitución, se reconoce:",
+      "opciones": {
+        "A": "El derecho de los ciudadanos a acceder en condiciones de igualdad a las funciones y cargos públicos, sin necesidad de cumplir requisito alguno.",
+        "B": "El derecho de petición de todos los ciudadanos de forma individual, por escrito o de forma oral, con los efectos que determine una ley orgánica.",
+        "C": "El derecho a la propiedad colectiva y a la herencia.",
+        "D": "El derecho a comunicar o recibir libremente información veraz por cualquier medio de difusión."
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": "Artículo 20 de Título 1 de Constitución Española de 1978",
+      "articulo": "20",
+      "norma": "Constitución Española de 1978",
+      "titulo_o_parte": "Título 1",
+      "confianza_extraccion": 0.99,
+      "incidencias": [],
+      "pagina_pdf": 1,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 3.52,
+      "error_extraccion": null
+    },
+    {
+      "numero": 2,
+      "enunciado": "Los decretos leyes:",
+      "opciones": {
+        "A": "Son disposiciones legislativas provisionales dictadas por el Gobierno en caso de extraordinaria y urgente necesidad.",
+        "B": "Son disposiciones normativas con rango de ley dictadas por el Gobierno, por delegación de las Cortes Generales sobre cualquier materia.",
+        "C": "Son disposiciones normativas con rango de ley dictadas por el Gobierno, por delegación de las Cortes Generales sobre materias determinadas no reservadas a Ley Orgánica.",
+        "D": "Son las disposiciones reglamentarias de mayor rango jerárquico."
+      },
+      "respuesta_correcta": "A",
+      "pie_completo": "Artículo 86 de Título 3 de Constitución Española de 1978",
+      "articulo": "86",
+      "norma": "Constitución Española de 1978",
+      "titulo_o_parte": "Título 3",
+      "confianza_extraccion": 0.99,
+      "incidencias": [],
+      "pagina_pdf": 2,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 2.46,
+      "error_extraccion": null
+    },
+    {
+      "numero": 3,
+      "enunciado": "Según el artículo 150.3 de la Constitución Española, la apreciación de la necesidad de dictar leyes que establezcan los principios necesarios para armonizar las disposiciones normativas de las Comunidades Autónomas corresponde a: (AGE 2003)",
+      "opciones": {
+        "A": "El Congreso por mayoría de 3/5 de sus miembros",
+        "B": "El Consejo de Ministros",
+        "C": "El Senado en calidad de Cámara de representación territorial",
+        "D": "Las Cortes Generales por mayoría absoluta de cada Cámara"
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": "Artículo 150 de Título 8 de Constitución Española de 1978",
+      "articulo": "150",
+      "norma": "Constitución Española de 1978",
+      "titulo_o_parte": "Título 8",
+      "confianza_extraccion": 0.98,
+      "incidencias": [],
+      "pagina_pdf": 3,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 2.34,
+      "error_extraccion": null
+    },
+    {
+      "numero": 4,
+      "enunciado": "¿Cuál de las siguientes aseveraciones no es verdadera?",
+      "opciones": {
+        "A": "Cuando una proposición de ley fuere contraria a una delegación legislativa en vigor, el Gobierno está facultado para oponerse a su tramitación",
+        "B": "Cuando una enmienda fuere contraria a una delegación legislativa en vigor, el Gobierno está facultado para oponerse a su tramitación",
+        "C": "Si el Gobierno se opone a la tramitación de una proposición de ley o una enmienda por ser contraria a una delegación legislativa en vigor, podrá presentarse un proyecto de ley para la derogación total o parcial de la ley de delegación",
+        "D": "Ninguna. Todas las anteriores aseveraciones son verdaderas"
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": "Artículo 84 de Título 3 de Constitución Española de 1978",
+      "articulo": "84",
+      "norma": "Constitución Española de 1978",
+      "titulo_o_parte": "Título 3",
+      "confianza_extraccion": 0.98,
+      "incidencias": [],
+      "pagina_pdf": 4,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 2.65,
+      "error_extraccion": null
+    },
+    {
+      "numero": 1,
+      "enunciado": "¿Cuál de las siguientes aseveraciones es verdadera?:",
+      "opciones": {
+        "A": "Según la vigente Constitución Española, la delegación legislativa de las Cortes en el Gobierno deberá otorgarse mediante una ley orgánica cuando se trate de refundir varios textos legales en uno solo",
+        "B": "La delegación legislativa de las Cortes en el Gobierno deberá otorgarse mediante una ley ordinaria cuando se trate de refundir varios textos legales en uno solo",
+        "C": "La delegación legislativa de las Cortes en el Gobierno deberá otorgarse mediante una ley de bases cuando se trate de refundir varios textos legales en uno solo",
+        "D": "Ninguna de las anteriores"
+      },
+      "respuesta_correcta": "B",
+      "pie_completo": "Artículo 82 de Título 3 de Constitución Española de 1978",
+      "articulo": "82",
+      "norma": "Constitución Española de 1978",
+      "titulo_o_parte": "Título 3",
+      "confianza_extraccion": 0.99,
+      "incidencias": [],
+      "pagina_pdf": 5,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 2.58,
+      "error_extraccion": null
+    },
+    {
+      "numero": 6,
+      "enunciado": "La libertad de cátedra es un derecho reconocido en la Constitución Española: (Aux.Adtivo.Univ Sevilla 2009)",
+      "opciones": {
+        "A": "Si, si bien su ejercicio está condicionado a la autorización administrativa previa.",
+        "B": "No. Sin embargo está amparado por la jurisprudencia del Tribunal Constitucional.",
+        "C": "Sí. En su Artículo 20.",
+        "D": "No. Sin embargo es un derecho reconocido por el Parlamento Europeo y, por lo tanto, aplicable en España"
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": "Artículo 20 de Título 1 de Constitución Española de 1978",
+      "articulo": "20",
+      "norma": "Constitución Española de 1978",
+      "titulo_o_parte": "Título 1",
+      "confianza_extraccion": 0.99,
+      "incidencias": [],
+      "pagina_pdf": 6,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 2.05,
+      "error_extraccion": null
+    },
+    {
+      "numero": 1,
+      "enunciado": "Según dispone el Título VI de la Constitución Española, señale la respuesta incorrecta:",
+      "opciones": {
+        "A": "El ejercicio de la potestad jurisdiccional en todo tipo de procesos, juzgando y haciendo ejecutar la juzgado, corresponde exclusivamente a las Juzgados y Tribunales determinados por el Consejo General del Poder Judicial.",
+        "B": "La justicia emana del pueblo y se administra en nombre del Rey por Jueces y Magistrados integrantes del poder judicial, independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley.",
+        "C": "La organización y funcionamiento de los tribunales se basa en el principio de unidad jurisdiccional.",
+        "D": "Se prohíben los Tribunales de excepción."
+      },
+      "respuesta_correcta": "A",
+      "pie_completo": "Artículo 117 de Título 6 de Constitución Española de 1978",
+      "articulo": "117",
+      "norma": "Constitución Española de 1978",
+      "titulo_o_parte": "Título 6",
+      "confianza_extraccion": 0.98,
+      "incidencias": [
+        "En la opción A aparece 'la juzgado' en lugar de 'la juzgada'.",
+        "En la opción A aparece 'las Juzgados' en lugar de 'los Juzgados'.",
+        "En la opción B aparece 'justicia emana' sin artículo.",
+        "En el pie se lee 'Título 6' en lugar de 'Título VI'."
+      ],
+      "pagina_pdf": 7,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 2.96,
+      "error_extraccion": null
+    },
+    {
+      "numero": 8,
+      "enunciado": "¿Cuándo podrá una ley de bases autorizar a la modificación de la propia ley de bases?",
+      "opciones": {
+        "A": "Siempre que la modificación no tenga carácter retroactivo.",
+        "B": "En aquellos casos en que el objeto de la ley de bases no sea la refundición de varios textos legales en uno solo.",
+        "C": "Cuando el objeto de la ley de bases sea la refundición de textos legales que previsiblemente pudieran resultar afectados por la tramitación de iniciativas legislativas en curso.",
+        "D": "En ningún caso."
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": "Artículo 83 de Título 3 de Constitución Española de 1978",
+      "articulo": "83",
+      "norma": "Constitución Española de 1978",
+      "titulo_o_parte": "Título 3",
+      "confianza_extraccion": 0.99,
+      "incidencias": [],
+      "pagina_pdf": 8,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 6.19,
+      "error_extraccion": null
+    },
+    {
+      "numero": 9,
+      "enunciado": "El Título Quinto de la Constitución:",
+      "opciones": {
+        "A": "Está dividido en dos Capítulos.",
+        "B": "Está dividido en tres Capítulos.",
+        "C": "Está dividido en cuatro Capítulos.",
+        "D": "Carece de Capítulos."
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": "Artículo 108 de Título 5 de Constitución Española de 1978",
+      "articulo": "108",
+      "norma": "Constitución Española de 1978",
+      "titulo_o_parte": "Título 5",
+      "confianza_extraccion": 0.99,
+      "incidencias": [],
+      "pagina_pdf": 9,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 1.91,
+      "error_extraccion": null
+    },
+    {
+      "numero": 1,
+      "enunciado": "Forman parte de la Generalidad Valenciana:",
+      "opciones": {
+        "A": "Les Corts, el Presidente, el Consell y las demás instituciones que determine el Estado",
+        "B": "Les Corts, el Presidente, el Gobierno valenciano y la mesa",
+        "C": "El presidente, vicepresidentes y el Consell",
+        "D": "Les Corts, el Presidente y el Consell"
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": "Artículo 20 de Título 3 de Estatuto Autonomía Comunidad Valenciana",
+      "articulo": "20",
+      "norma": "Estatuto Autonomía Comunidad Valenciana",
+      "titulo_o_parte": "Título 3",
+      "confianza_extraccion": 0.99,
+      "incidencias": [],
+      "pagina_pdf": 10,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 2.85,
+      "error_extraccion": null
+    },
+    {
+      "numero": 1,
+      "enunciado": "¿Cuál de las siguientes aseveraciones es la correcta en relación con el EACV?",
+      "opciones": {
+        "A": "Las instituciones de la Generalitat podrán establecerse y celebrar reuniones en cualquiera de los municipios de la Comunitat Valenciana, de acuerdo con lo que la Ley disponga.",
+        "B": "La sede del Consell será la ciudad de Valencia, y sus organismos, servicios y dependencias se establecerán en diferentes lugares del territorio de la Comunitat Valenciana, de acuerdo con criterios de descentralización y coordinación de funciones.",
+        "C": "La Generalitat, en el ámbito de sus competencias, garantizará a todas las personas el derecho a un trabajo digno, bien remunerado, estable y en condiciones de igualdad y calidad, que permita la conciliación de la vida laboral y familiar y el desarrollo humano y profesional de los trabajadores.",
+        "D": "Ninguna de las anteriores."
+      },
+      "respuesta_correcta": "A",
+      "pie_completo": "Artículo 5 de Título 1 de Estatuto Autonomía Comunidad Valenciana",
+      "articulo": "5",
+      "norma": "Estatuto Autonomía Comunidad Valenciana",
+      "titulo_o_parte": "Título 1",
+      "confianza_extraccion": 0.99,
+      "incidencias": [],
+      "pagina_pdf": 11,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 2.83,
+      "error_extraccion": null
+    },
+    {
+      "numero": 12,
+      "enunciado": "¿Cuál de las siguientes aseveraciones es verdadera?:",
+      "opciones": {
+        "A": "Según el Estatuto de Autonomía, en el ejercicio de sus competencias, la Generalitat goza de las potestades y los privilegios propios de las Comunidades Autónomas",
+        "B": "Según el Estatuto de Autonomía, en el ejercicio de sus competencias, la Generalitat goza de las potestades y los privilegios propios de las Administraciones",
+        "C": "Según el Estatuto de Autonomía, en el ejercicio de sus competencias, la Generalitat goza de las potestades y los privilegios propios de la Administración del Estado",
+        "D": "Ninguna de las anteriores."
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": "Artículo 48 de Título 3 de Estatuto Autonomía Comunidad Valenciana",
+      "articulo": "48",
+      "norma": "Estatuto Autonomía Comunidad Valenciana",
+      "titulo_o_parte": "Título 3",
+      "confianza_extraccion": 0.99,
+      "incidencias": [],
+      "pagina_pdf": 12,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 2.55,
+      "error_extraccion": null
+    },
+    {
+      "numero": 13,
+      "enunciado": "Según la Ley 5/1983, de 30 de diciembre, del Consell, en cuanto a las normas que sean consecuencia del ejercicio de la potestad reglamentaria, se encuentran en primera posición de jerarquía:",
+      "opciones": {
+        "A": "Decretos del President",
+        "B": "Decretos del Consell",
+        "C": "Órdenes de las Consellerias",
+        "D": "Órdenes de las Comisiones Delegadas del Consell"
+      },
+      "respuesta_correcta": "B",
+      "pie_completo": "Artículo 32 de Título 2 de Ley 5/1983 del Consell",
+      "articulo": "32",
+      "norma": "Ley 5/1983 del Consell",
+      "titulo_o_parte": "Título 2",
+      "confianza_extraccion": 0.99,
+      "incidencias": [],
+      "pagina_pdf": 13,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 2.11,
+      "error_extraccion": null
+    },
+    {
+      "numero": 14,
+      "enunciado": "En el ejercicio de la potestad reglamentaria no se podrá (señale la incorrecta):",
+      "opciones": {
+        "A": "Establecer penas ni imponer exacciones, tasas parafiscales y otras cargas similares.",
+        "B": "Imponer sanciones ni multas, salvo en los casos expresamente autorizados por una norma de rango legal.",
+        "C": "Restringir derechos individuales, salvo en el marco de las leyes.",
+        "D": "Ninguna de las anteriores."
+      },
+      "respuesta_correcta": "B",
+      "pie_completo": "Artículo 39 de Título 2 de Ley 5/1983 del Consell",
+      "articulo": "39",
+      "norma": "Ley 5/1983 del Consell",
+      "titulo_o_parte": "Título 2",
+      "confianza_extraccion": 0.99,
+      "incidencias": [],
+      "pagina_pdf": 14,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 2.16,
+      "error_extraccion": null
+    },
+    {
+      "numero": 15,
+      "enunciado": "La Ley 5/1983 de 30 de diciembre del Consell, en cuanto a la moción de censura, establece que no podrá ser votada hasta que: (Subalterno. Gen Valenciana 2010)",
+      "opciones": {
+        "A": "Transcurran como mínimo cinco días desde su presentación",
+        "B": "Transcurran como máximo dos días desde su presentación",
+        "C": "Transcurran como máximo cinco días desde su presentación",
+        "D": "Transcurran como mínimo dos días desde su presentación"
+      },
+      "respuesta_correcta": "A",
+      "pie_completo": "Artículo 48 de Título 3 de Ley 5/1983 del Consell",
+      "articulo": "48",
+      "norma": "Ley 5/1983 del Consell",
+      "titulo_o_parte": "Título 3",
+      "confianza_extraccion": 0.98,
+      "incidencias": [],
+      "pagina_pdf": 15,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 2.18,
+      "error_extraccion": null
+    },
+    {
+      "numero": 16,
+      "enunciado": "El President de la Generalitat dirige y coordina las acciones del Consell, sin perjuicio de las atribuciones y responsabilidad de cada Conseller en su gestión; a tal efecto le corresponde:",
+      "opciones": {
+        "A": "Resolver la sustitución de los miembros del Consell en los casos de ausencia, vacante o enfermedad.",
+        "B": "Resolver los conflictos de atribuciones entre las distintas Consellerías.",
+        "C": "Fijar las instrucciones a los miembros del Consell.",
+        "D": "Previa deliberación del Consell, plantear ante Les Corts, en escrito motivado, la cuestión de confianza sobre Su programa, una decisión política o un proyecto de ley, conforme se establece en el artículo 31 del Estatut d'Autonomía."
+      },
+      "respuesta_correcta": "B",
+      "pie_completo": "Artículo 12 de Título 1 de Ley 5/1983 del Consell",
+      "articulo": "12",
+      "norma": "Ley 5/1983 del Consell",
+      "titulo_o_parte": "Título 1",
+      "confianza_extraccion": 0.98,
+      "incidencias": [],
+      "pagina_pdf": 16,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 2.52,
+      "error_extraccion": null
+    },
+    {
+      "numero": 17,
+      "enunciado": "Según el artículo 73.1 de la Ley del Consell, en todas las Consellerías, y en la Presidencia, en su caso, como máximo órgano de nivel administrativo de cada una de ellas, existirá una única Secretaría General Administrativa, dependiente de:",
+      "opciones": {
+        "A": "La Consellería.",
+        "B": "La Secretaría Autonómica.",
+        "C": "La Subsecretaría.",
+        "D": "La Dirección General."
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": "Articulo 73 de Titulo 4 de Ley 5/1983 del Consell",
+      "articulo": "73",
+      "norma": "Ley 5/1983 del Consell",
+      "titulo_o_parte": "Título 4",
+      "confianza_extraccion": 0.99,
+      "incidencias": [],
+      "pagina_pdf": 17,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 4.0,
+      "error_extraccion": null
+    },
+    {
+      "numero": 18,
+      "enunciado": "Según la Ley 5/1983, de 30 de diciembre, del Consell, Les Corts podrán delegar en el Consell la potestad de dictar normas con rango de Ley, denominadas Decretos Legislativos, con la excepción de:",
+      "opciones": {
+        "A": "Las que no afecten al desarrollo de los derechos fundamentales y de las libertades públicas",
+        "B": "Las que no afecten al ordenamiento institucional básico de la Comunitat Valenciana o al régimen jurídico de su Administración Pública",
+        "C": "Las que no afecten al régimen electoral",
+        "D": "Las que afecten al desarrollo de los derechos fundamentales y de las libertades públicas"
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": "Artículo 53 de Título 3 de Ley 5/1983 del Consell",
+      "articulo": "53",
+      "norma": "Ley 5/1983 del Consell",
+      "titulo_o_parte": "Título 3",
+      "confianza_extraccion": 0.99,
+      "incidencias": [],
+      "pagina_pdf": 18,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 2.57,
+      "error_extraccion": null
+    },
+    {
+      "numero": 19,
+      "enunciado": "De conformidad con lo establecido en el Tratado de Funcionamiento de la Unión Europea, señale la alternativa correcta:",
+      "opciones": {
+        "A": "Los actos no legislativos adoptados en forma de reglamentos, directivas y decisiones, cuando éstas últimas indiquen destinatario, serán firmados por el Presidente de la institución que los haya adoptado.",
+        "B": "En el cumplimiento de sus funciones, las instituciones, órganos y organismos de la Unión se apoyarán en una administración europea abierta, eficaz y próxima al ciudadano.",
+        "C": "La ejecución forzosa sólo podrá ser suspendida en virtud de una decisión del Tribunal de Justicia de la Unión Europea.",
+        "D": "Los actos del Consejo Europeo, de la Comisión o del Banco Central Europeo que impongan una obligación pecuniaria a personas distintas de los Estados serán títulos ejecutivos."
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": "Artículo 299 de Parte 6 de Tratado de Funcionamiento de la UE",
+      "articulo": "299",
+      "norma": "Tratado de Funcionamiento de la UE",
+      "titulo_o_parte": "Parte 6",
+      "confianza_extraccion": 0.98,
+      "incidencias": [],
+      "pagina_pdf": 19,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 3.33,
+      "error_extraccion": null
+    },
+    {
+      "numero": 20,
+      "enunciado": "En el ámbito de la Unión Europea en el procedimiento legislativo ordinario, el Comité de Conciliación:",
+      "opciones": {
+        "A": "Tendrá por misión alcanzar un acuerdo en el plazo de diez semanas a partir de su convocatoria",
+        "B": "Tendrá por misión alcanzar un acuerdo en el plazo de ocho semanas a partir de su convocatoria",
+        "C": "Estará compuesto por los miembros de la Comisión o sus representantes y por un número igual de miembros que representen al Parlamento Europeo",
+        "D": "Estará compuesto por los miembros del Consejo o sus representantes y por un número igual de miembros que representen al Parlamento Europeo"
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": "Artículo 294 de Parte 6 de Tratado de Funcionamiento de la UE",
+      "articulo": "294",
+      "norma": "Tratado de Funcionamiento de la UE",
+      "titulo_o_parte": "Parte 6",
+      "confianza_extraccion": 0.99,
+      "incidencias": [],
+      "pagina_pdf": 20,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 2.24,
+      "error_extraccion": null
+    },
+    {
+      "numero": 21,
+      "enunciado": "Señale la respuesta correcta en relación con el procedimiento de alerta temprana regulado en el TUE:",
+      "opciones": {
+        "A": "Se activa a propuesta motivada de un tercio de los EEMM, por el Parlamento Europeo o por el Consejo.",
+        "B": "El Consejo, por mayoría de 3/5, previa aprobación del Parlamento Europeo, puede constatar el riesgo.",
+        "C": "Para la constatación del riesgo de violación, es preceptivo que el Consejo oiga al Estado Miembro.",
+        "D": "Todas las anteriores son falsas."
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": "Artículo 7 de Título 1 de Tratado de la UE",
+      "articulo": "7",
+      "norma": "Tratado de la UE",
+      "titulo_o_parte": "Título 1",
+      "confianza_extraccion": 0.99,
+      "incidencias": [],
+      "pagina_pdf": 21,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 2.17,
+      "error_extraccion": null
+    },
+    {
+      "numero": 22,
+      "enunciado": "A tenor de lo dispuesto en la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, indique cuál de las siguientes afirmaciones es INCORRECTA:",
+      "opciones": {
+        "A": "El principio de igualdad de trato entre mujeres y hombres supone la ausencia de toda discriminación, directa o indirecta, por razón de sexo, y, especialmente, las derivadas de la maternidad, la asunción de obligaciones familiares y el estado civil",
+        "B": "La igualdad de trato y de oportunidades entre mujeres y hombres es un principio informador del ordenamiento jurídico y, como tal, se integrará y observará en la interpretación y aplicación de las normas jurídicas",
+        "C": "Los actos y las cláusulas de los negocios jurídicos que constituyan o causen discriminación por razón de sexo podrán ser anulables, y darán lugar a responsabilidad",
+        "D": "Constituye discriminación directa por razón de sexo todo trato desfavorable a las mujeres relacionado con el embarazo o la maternidad"
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": "Artículo 10 de Título 1 de Ley Orgánica 3/2007 Igualdad",
+      "articulo": "10",
+      "norma": "Ley Orgánica 3/2007 Igualdad",
+      "titulo_o_parte": "Título 1",
+      "confianza_extraccion": 0.99,
+      "incidencias": [],
+      "pagina_pdf": 22,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 3.1,
+      "error_extraccion": null
+    },
+    {
+      "numero": 23,
+      "enunciado": "Sobre la personación de la Administración autonómica en los procedimientos por malos tratos, dispone la ley 9/2003 de 2 de abril que",
+      "opciones": {
+        "A": "La Conselleria con competencias en materia de mujer propondrá al Consell de la Generalitat el ejercicio de la acción popular, a través del Gabinete Jurídico de la Generalitat o de abogadas/os colegiadas/os, en los supuestos de agresiones físicas domésticas en los que se cause la muerte o lesiones graves a mujeres residentes en la Comunidad Valenciana.",
+        "B": "La Conselleria con competencias en materia de mujer podrá proponer al Consell de la Generalitat el ejercicio de la acción popular, a través del Gabinete Jurídico de la Generalitat o de abogadas/os colegiadas/os, en los supuestos de agresiones físicas domésticas en los que se cause la muerte o lesiones a mujeres residentes en la Comunidad Valenciana.",
+        "C": "La Conselleria con competencias en materia de mujer podrá proponer al Consell de la Generalitat el ejercicio de la acción popular, a través del Gabinete Jurídico de la Generalitat o de abogadas/os colegiadas/os, en los supuestos de agresiones físicas domésticas en los que se cause la muerte o lesiones graves a mujeres residentes en la Comunidad Valenciana.",
+        "D": "Ninguna de las respuestas anteriores es correcta"
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": "Artículo 36 de Título 2 de Ley 9/2003 Igualdad CV",
+      "articulo": "36",
+      "norma": "Ley 9/2003 Igualdad CV",
+      "titulo_o_parte": "Título 2",
+      "confianza_extraccion": 0.98,
+      "incidencias": [],
+      "pagina_pdf": 23,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 6.46,
+      "error_extraccion": null
+    },
+    {
+      "numero": 24,
+      "enunciado": "De acuerdo con la Ley 4/2023, de 13 de abril, de Participación Ciudadana y Fomento del Asociacionismo de la Comunitat Valenciana, señale el enunciado correcto respecto a las iniciativas ciudadanas:",
+      "opciones": {
+        "A": "Tendrá que conseguir un apoyo mínimo en el portal de participación de la Generalitat de diez mil avales durante el plazo de ocho meses desde su publicación en el portal",
+        "B": "Tendrá que conseguir un apoyo mínimo en el portal de participación de la Generalitat de cinco mil avales durante el plazo de ocho meses desde su publicación en el portal",
+        "C": "Tendrá que conseguir un apoyo mínimo en el portal de participación de la Generalitat de cinco mil avales durante el plazo de cinco meses desde su publicación en el portal",
+        "D": "Tendrá que conseguir un apoyo mínimo en el portal de participación de la Generalitat de cinco mil avales durante el plazo de tres meses desde su publicación en el portal"
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": "Artículo 12 de Título 1 de Ley 4/2023 Participación Ciudadana",
+      "articulo": "12",
+      "norma": "Ley 4/2023 Participación Ciudadana",
+      "titulo_o_parte": "Título 1",
+      "confianza_extraccion": 0.99,
+      "incidencias": [],
+      "pagina_pdf": 24,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 2.96,
+      "error_extraccion": null
+    },
+    {
+      "numero": 1,
+      "enunciado": "Son autores de los actos de violencia de género:",
+      "opciones": {
+        "A": "Exclusivamente los cónyuges de la víctima.",
+        "B": "Tanto los cónyuges como quienes estén ligados por relaciones similares de afectividad, siempre que convivan en el mismo domicilio.",
+        "C": "Tanto los cónyuges como quienes estén ligados por relaciones similares de afectividad, siempre y cuando hubieran convivido juntos aunque fuera temporalmente.",
+        "D": "Ninguna es correcta, puesto que la convivencia no es un requisito."
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": "Artículo 1 de Título Preliminar de Ley Orgánica 1/2004 Violencia Género",
+      "articulo": "1",
+      "norma": "Ley Orgánica 1/2004 Violencia Género",
+      "titulo_o_parte": "Título Preliminar",
+      "confianza_extraccion": 0.98,
+      "incidencias": [],
+      "pagina_pdf": 25,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 2.44,
+      "error_extraccion": null
+    },
+    {
+      "numero": 26,
+      "enunciado": "¿Cómo puede impugnarse una Resolución municipal expresa en materia de transparencia?",
+      "opciones": {
+        "A": "Mediante un recurso potestativo de reposición ante el órgano que emitió la misma",
+        "B": "Mediante una reclamación ante el Consejo de Transparencia y Buen Gobierno",
+        "C": "Mediante un recurso potestativo de reposición ante el Consejo de Transparencia y Buen Gobierno",
+        "D": "Mediante un recurso de alzada ante el superior jerárquico a aquél que emitió la misma"
+      },
+      "respuesta_correcta": "B",
+      "pie_completo": "Artículo 24 de Título 1 de Ley 19/2013 Transparencia",
+      "articulo": "24",
+      "norma": "Ley 19/2013 Transparencia",
+      "titulo_o_parte": "Título 1",
+      "confianza_extraccion": 0.99,
+      "incidencias": [],
+      "pagina_pdf": 26,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 1.99,
+      "error_extraccion": null
+    },
+    {
+      "numero": 1,
+      "enunciado": "Señale la respuesta correcta, de acuerdo con la Ley Orgánica de Protección de Datos:",
+      "opciones": {
+        "A": "Se puede acceder a los datos de alguien para conocer si está afiliado a algún sindicato, cuando el afectado haya prestado su consentimiento.",
+        "B": "A fin de evitar situaciones discriminatorias, el solo consentimiento del afectado bastará para levantar la prohibición del tratamiento de datos cuya finalidad principal sea identificar su ideología.",
+        "C": "En ningún caso se pueden tratar los datos personales con la finalidad principal de identificar su ideología, afiliación sindical, religión, orientación sexual, creencias u origen racial o étnico.",
+        "D": "Los hijos de una persona con ochenta años que acaba de subir el Everest y pluscampeona de memoria, no pueden acceder a los datos de su madre con la finalidad principal de identificar su afiliación a un partido político, aunque les regale la totalidad de su pensión."
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": "Artículo 9 de Título 2 de L.O. 3/2018 Protección Datos",
+      "articulo": "9",
+      "norma": "L.O. 3/2018 Protección Datos",
+      "titulo_o_parte": "Título 2",
+      "confianza_extraccion": 0.99,
+      "incidencias": [],
+      "pagina_pdf": 27,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 3.74,
+      "error_extraccion": null
+    },
+    {
+      "numero": 28,
+      "enunciado": "¿Cuál de estos derechos no está reconocido por la Ley orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales?",
+      "opciones": {
+        "A": "Derecho de oposición.",
+        "B": "Derecho de rectificación.",
+        "C": "Derecho a la supresión.",
+        "D": "Derecho de reposición."
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": "Artículo 14 de Título 3 de L.O. 3/2018 Protección Datos",
+      "articulo": "14",
+      "norma": "L.O. 3/2018 Protección Datos",
+      "titulo_o_parte": "Título 3",
+      "confianza_extraccion": 0.99,
+      "incidencias": [],
+      "pagina_pdf": 28,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 1.9,
+      "error_extraccion": null
+    }
+  ]
+}

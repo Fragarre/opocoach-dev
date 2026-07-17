@@ -1,0 +1,56 @@
+{
+  "archivo_origen": "C1_2.pdf",
+  "resumen": {
+    "procesadas": 95,
+    "importadas": 88,
+    "omitidas_error": 0,
+    "duplicadas": 7,
+    "validadas": 63,
+    "a_revisar": 10,
+    "rechazadas": 15
+  },
+  "incidencias": [
+    {
+      "pagina_pdf": 22,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2173,
+      "enunciado": "Señale la respuesta correcta:"
+    },
+    {
+      "pagina_pdf": 63,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1835,
+      "enunciado": "Indique la respuesta incorrecta conforme el Decreto 54/2025, de 15 de abril, del Consell, de simplificación administrativa y transformación digital."
+    },
+    {
+      "pagina_pdf": 64,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1835,
+      "enunciado": "Indique la respuesta incorrecta conforme el Decreto 54/2025, de 15 de abril, del Consell, de simplificación administrativa y transformación digital."
+    },
+    {
+      "pagina_pdf": 72,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 464,
+      "enunciado": "Señale la respuesta incorrecta. Según la Ley 4/2021, de 16 de abril, de la Generalitat, de la función pública valenciana:"
+    },
+    {
+      "pagina_pdf": 85,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2568,
+      "enunciado": "Señale la respuesta correcta según lo establecido en la Ley 1/2015, de 6 de febrero, de Hacienda Pública, Sector Público Instrumental y Subvenciones: Podrán aplicarse a los créditos del presupuesto vigente las siguientes obligaciones:"
+    },
+    {
+      "pagina_pdf": 86,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1562,
+      "enunciado": "¿Quién podrá acordar las modificaciones técnicas en la estructura, contenido y distribución de los créditos del presupuesto siempre que no suponga un incremento en la cuantía global de las dotaciones autorizadas durante el ejercicio corriente y que se deriven de las variaciones orgánicas aprobadas por los órganos competentes?"
+    },
+    {
+      "pagina_pdf": 93,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 829,
+      "enunciado": "Señale el enunciado CORRECTO, según el artículo 13 del Decreto 77/2019, de 7 de junio, del Consell, de regulación del procedimiento de gestión del presupuesto de la Generalitat. Los datos relativos al coste anual estimado por proyecto del ejercicio en vigor:"
+    }
+  ]
+}

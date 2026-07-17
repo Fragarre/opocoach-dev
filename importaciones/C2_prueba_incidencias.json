@@ -1,0 +1,56 @@
+{
+  "archivo_origen": "C2_prueba.pdf",
+  "resumen": {
+    "procesadas": 28,
+    "importadas": 21,
+    "omitidas_error": 0,
+    "duplicadas": 7,
+    "validadas": 11,
+    "a_revisar": 0,
+    "rechazadas": 10
+  },
+  "incidencias": [
+    {
+      "pagina_pdf": 1,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 491,
+      "enunciado": "Señale la respuesta correcta. Según la Constitución, se reconoce:"
+    },
+    {
+      "pagina_pdf": 3,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2995,
+      "enunciado": "Según el artículo 150.3 de la Constitución Española, la apreciación de la necesidad de dictar leyes que establezcan los principios necesarios para armonizar las disposiciones normativas de las Comunidades Autónomas corresponde a: (AGE 2003)"
+    },
+    {
+      "pagina_pdf": 9,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2142,
+      "enunciado": "El Título Quinto de la Constitución:"
+    },
+    {
+      "pagina_pdf": 18,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2759,
+      "enunciado": "Según la Ley 5/1983, de 30 de diciembre, del Consell, Les Corts podrán delegar en el Consell la potestad de dictar normas con rango de Ley, denominadas Decretos Legislativos, con la excepción de:"
+    },
+    {
+      "pagina_pdf": 24,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3013,
+      "enunciado": "De acuerdo con la Ley 4/2023, de 13 de abril, de Participación Ciudadana y Fomento del Asociacionismo de la Comunitat Valenciana, señale el enunciado correcto respecto a las iniciativas ciudadanas:"
+    },
+    {
+      "pagina_pdf": 27,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3016,
+      "enunciado": "Señale la respuesta correcta, de acuerdo con la Ley Orgánica de Protección de Datos:"
+    },
+    {
+      "pagina_pdf": 28,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1839,
+      "enunciado": "¿Cuál de estos derechos no está reconocido por la Ley orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales?"
+    }
+  ]
+}

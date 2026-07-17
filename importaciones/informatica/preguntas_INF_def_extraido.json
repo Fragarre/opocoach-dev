@@ -1,0 +1,1309 @@
+{
+    "pdf": "preguntas_INF_def.pdf",
+    "ruta_pdf": "data_informatica/preguntas_INF_def.pdf",
+    "preguntas_detectadas": 128,
+    "incidencias": [
+        {
+            "numero_original": 65,
+            "motivo": "No se detectaron exactamente cuatro opciones.",
+            "texto": "Dentro del Explorador de archivos, si seleccionamos un documento confidencial en formato PDF y \npulsamos la combinación de teclas Shift + Suprimir (Mayús + Supr), ¿qué acción exacta realiza el \nsistema operativo?\na) Mueve el archivo a la papelera ocultándolo al resto de usuarios.\nb) Elimina el archivo de forma permanente sin pasar por la papelera de reciclaje.c) Envía una copia cifrada del \narchivo a la nube de OneDrive corporativa.\nd) Crea un acceso directo del documento en el Escritorio. [1]"
+        },
+        {
+            "numero_original": 89,
+            "motivo": "No se detectaron exactamente cuatro opciones.",
+            "texto": ""
+        },
+        {
+            "numero_original": 91,
+            "motivo": "No se detectaron exactamente cuatro opciones.",
+            "texto": "En Microsoft Word, si aplicamos un estilo de párrafo de tipo \"Título 1\" a los encabezados de nuestro \ndocumento, ¿qué herramienta automatizada de la pestaña \"Referencias\" se alimentará de esta \njerarquía estructural?a) Tabla de ilustraciones\nb) Tabla de contenido\nc) Índice alfabético\nd) Nota al final del documento [1"
+        },
+        {
+            "numero_original": 105,
+            "motivo": "No se detectaron exactamente cuatro opciones.",
+            "texto": ""
+        }
+    ],
+    "preguntas": [
+        {
+            "numero_original": 1,
+            "enunciado": "¿Cuál de los siguientes es un sistema de archivos utilizado de forma nativa en el sistema operativo \nWindows?",
+            "opciones": {
+                "A": "ext4",
+                "B": "NTFS",
+                "C": "HFS+",
+                "D": "APFS"
+            }
+        },
+        {
+            "numero_original": 2,
+            "enunciado": "En Windows 11, ¿qué combinación de teclas permite abrir directamente en el Explorador de Archivos?",
+            "opciones": {
+                "A": "Tecla Windows + E",
+                "B": "Tecla Windows + R",
+                "C": "Ctrl + Esc",
+                "D": "Alt + Tab"
+            }
+        },
+        {
+            "numero_original": 3,
+            "enunciado": "En un documento de Word, ¿qué combinación de teclas se utiliza para alinear un párrafo a la derecha?",
+            "opciones": {
+                "A": "Ctrl + Q",
+                "B": "Ctrl + T",
+                "C": "Ctrl + D",
+                "D": "Ctrl + J [1]"
+            }
+        },
+        {
+            "numero_original": 4,
+            "enunciado": "¿Desde qué pestaña del menú de opciones se inserta una \"Tabla de Contenido\"?",
+            "opciones": {
+                "A": "Inicio",
+                "B": "Diseño",
+                "C": "Referencias",
+                "D": "Correspondencia"
+            }
+        },
+        {
+            "numero_original": 5,
+            "enunciado": "En Excel, para calcular la media aritmética de un rango de celdas desde la A1 hasta la A10, ¿cuál es la \nfórmula correcta?",
+            "opciones": {
+                "A": "=PROMEDIO(A1;A10)",
+                "B": "=SUMA(A1:A10) ÷ 10",
+                "C": "=PROMEDIO(A1:A10)",
+                "D": "=MEDIA(A1:A10)"
+            }
+        },
+        {
+            "numero_original": 6,
+            "enunciado": "Si introduces la fórmula \\(=\\frac{30}{6} = 5\\), ¿qué valor mostrará la celda?",
+            "opciones": {
+                "A": "30",
+                "B": "5",
+                "C": "\\(\\#¡DIV/0!\\)",
+                "D": "Verdadero"
+            }
+        },
+        {
+            "numero_original": 7,
+            "enunciado": "Al eliminar un archivo guardado en el disco duro local mediante la tecla \"Suprimir\", ¿dónde se \nalmacena temporalmente dicho archivo?",
+            "opciones": {
+                "A": "En la Papelera de reciclaje",
+                "B": "En el Portapapeles",
+                "C": "En la carpeta Descargas",
+                "D": "Se elimina de forma permanente inmediatamente"
+            }
+        },
+        {
+            "numero_original": 8,
+            "enunciado": "¿Qué atajo de teclado abre el Administrador de tareas directamente en Windows 11?",
+            "opciones": {
+                "A": "Ctrl + Alt + Supr",
+                "B": "Ctrl + Shift + Esc",
+                "C": "Windows + Tab",
+                "D": "Alt + F4"
+            }
+        },
+        {
+            "numero_original": 9,
+            "enunciado": "Si deseamos que una parte de nuestro documento de Word tenga una orientación horizontal y el resto \nvertical, ¿qué elemento debemos insertar obligatoriamente?",
+            "opciones": {
+                "A": "Un salto de página",
+                "B": "Un salto de sección",
+                "C": "Una sangría francesa",
+                "D": "Una nota al pie de página"
+            }
+        },
+        {
+            "numero_original": 10,
+            "enunciado": "¿Qué herramienta de Word permite crear de forma masiva cartas, etiquetas o correos electrónicos \npersonalizados utilizando una base de datos externa?",
+            "opciones": {
+                "A": "Combinar correspondencia",
+                "B": "Marcadores e hipervínculos",
+                "C": "Macros automatizadas",
+                "D": "Control de cambios"
+            }
+        },
+        {
+            "numero_original": 11,
+            "enunciado": "En Word, ¿cuál es la combinación de teclas para guardar un documento con el nombre actual?",
+            "opciones": {
+                "A": "Ctrl + S",
+                "B": "Ctrl + G",
+                "C": "Ctrl + U",
+                "D": "Ctrl + A [1]"
+            }
+        },
+        {
+            "numero_original": 12,
+            "enunciado": "En Excel, si copiamos la celda B2, que contiene la fórmula =$A$1+C2, y la pegamos en la celda B3, \n¿cómo quedará la fórmula en esta última celda?",
+            "opciones": {
+                "A": "=$A$1+C3",
+                "B": "=$A$2+C3",
+                "C": "=$A$1+C2",
+                "D": "=A2+C3"
+            }
+        },
+        {
+            "numero_original": 13,
+            "enunciado": "¿Qué función de Excel se debe utilizar si queremos buscar un valor en la primera columna de un rango y \ndevolver un valor en la misma fila desde otra columna?",
+            "opciones": {
+                "A": "BUSCARH",
+                "B": "BUSCARV",
+                "C": "COINCIDIR",
+                "D": "INDICE"
+            }
+        },
+        {
+            "numero_original": 14,
+            "enunciado": "¿Cuál es el operador lógico que se utiliza en Excel para concatenar o unir dos cadenas de texto \ndiferentes en una sola celda?",
+            "opciones": {
+                "A": "El signo de suma (+)",
+                "B": "El signo de et (&)",
+                "C": "El guion bajo (_)",
+                "D": "La barra oblicua (/)"
+            }
+        },
+        {
+            "numero_original": 15,
+            "enunciado": "¿Cuál de los siguientes es un sistema de archivos utilizado de forma nativa en el sistema operativo \nWindows?",
+            "opciones": {
+                "A": "ext4",
+                "B": "NTFS",
+                "C": "HFS+",
+                "D": "APFS"
+            }
+        },
+        {
+            "numero_original": 16,
+            "enunciado": "En Windows 11, ¿qué combinación de teclas permite abrir directamente el Explorador de Archivos?",
+            "opciones": {
+                "A": "Tecla Windows + E",
+                "B": "Tecla Windows + R",
+                "C": "Ctrl + Esc",
+                "D": "Alt + Tab"
+            }
+        },
+        {
+            "numero_original": 17,
+            "enunciado": "En un documento de Word, ¿qué combinación de teclas se utiliza para alinear un párrafo a la derecha?",
+            "opciones": {
+                "A": "Ctrl + Q",
+                "B": "Ctrl + T",
+                "C": "Ctrl + D",
+                "D": "Ctrl + J [1]"
+            }
+        },
+        {
+            "numero_original": 18,
+            "enunciado": "¿Desde qué pestaña del menú de opciones se inserta una \"Tabla de Contenido\"?",
+            "opciones": {
+                "A": "Inicio",
+                "B": "Diseño",
+                "C": "Referencias",
+                "D": "Correspondencia"
+            }
+        },
+        {
+            "numero_original": 19,
+            "enunciado": "En Excel, para calcular la media aritmética de un rango de celdas desde la A1 hasta la A10, ¿cuál es la \nfórmula correcta?",
+            "opciones": {
+                "A": "=PROMEDIO(A1;A10)",
+                "B": "=SUMA(A1:A10) ÷ 10",
+                "C": "=PROMEDIO(A1:A10)",
+                "D": "=MEDIA(A1:A10)"
+            }
+        },
+        {
+            "numero_original": 20,
+            "enunciado": "Si introduces la fórmula \\(=\\frac{30}{6} = 5\\), ¿qué valor mostrará la celda?",
+            "opciones": {
+                "A": "30",
+                "B": "5",
+                "C": "\\(\\#¡DIV/0!\\)",
+                "D": "Verdadero"
+            }
+        },
+        {
+            "numero_original": 21,
+            "enunciado": "En Windows 11, ¿con qué nombre se conoce a la barra horizontal situada en la parte inferior de la \npantalla que contiene el botón de Inicio y las aplicaciones ancladas?",
+            "opciones": {
+                "A": "Barra de herramientas",
+                "B": "Barra de tareas",
+                "C": "Centro de control",
+                "D": "Explorador de Windows"
+            }
+        },
+        {
+            "numero_original": 22,
+            "enunciado": "Al eliminar un archivo guardado en el disco duro local mediante la tecla \"Suprimir\", ¿dónde se \nalmacena temporalmente dicho archivo?",
+            "opciones": {
+                "A": "En la Papelera de reciclaje",
+                "B": "En el Portapapeles",
+                "C": "En la carpeta Descargas",
+                "D": "Se elimina de forma permanente inmediatamente"
+            }
+        },
+        {
+            "numero_original": 23,
+            "enunciado": "¿Qué atajo de teclado abre el Administrador de tareas directamente en Windows 11?",
+            "opciones": {
+                "A": "Ctrl + Alt + Supr",
+                "B": "Ctrl + Shift + Esc",
+                "C": "Windows + Tab",
+                "D": "Alt + F4"
+            }
+        },
+        {
+            "numero_original": 24,
+            "enunciado": "Si deseamos que una parte de nuestro documento de Word tenga una orientación horizontal y el resto \nvertical, ¿qué elemento debemos insertar obligatoriamente?",
+            "opciones": {
+                "A": "Un salto de página",
+                "B": "Un salto de sección",
+                "C": "Una sangría francesa",
+                "D": "Una nota al pie de página"
+            }
+        },
+        {
+            "numero_original": 25,
+            "enunciado": "¿Qué herramienta de Word permite crear de forma masiva cartas, etiquetas o correos electrónicos \npersonalizados utilizando una base de datos externa?",
+            "opciones": {
+                "A": "Combinar correspondencia",
+                "B": "Marcadores e hipervínculos",
+                "C": "Macros automatizadas",
+                "D": "Control de cambios"
+            }
+        },
+        {
+            "numero_original": 26,
+            "enunciado": "En Word, ¿cuál es la combinación de teclas para guardar un documento con el nombre actual?",
+            "opciones": {
+                "A": "Ctrl + S",
+                "B": "Ctrl + G",
+                "C": "Ctrl + U",
+                "D": "Ctrl + A [1]"
+            }
+        },
+        {
+            "numero_original": 27,
+            "enunciado": "En Excel, si copiamos la celda B2, que contiene la fórmula =$A$1+C2, y la pegamos en la celda B3, \n¿cómo quedará la fórmula en esta última celda?",
+            "opciones": {
+                "A": "=$A$1+C3",
+                "B": "=$A$2+C3",
+                "C": "=$A$1+C2",
+                "D": "=A2+C3"
+            }
+        },
+        {
+            "numero_original": 28,
+            "enunciado": "¿Qué función de Excel se debe utilizar si queremos buscar un valor en la primera columna de un rango \ny devolver un valor en la misma fila desde otra columna?",
+            "opciones": {
+                "A": "BUSCARH",
+                "B": "BUSCARV",
+                "C": "COINCIDIR",
+                "D": "INDICE"
+            }
+        },
+        {
+            "numero_original": 29,
+            "enunciado": "¿Cuál es el operador lógico que se utiliza en Excel para concatenar o unir dos cadenas de texto \ndiferentes en una sola celda?",
+            "opciones": {
+                "A": "El signo de suma (+)",
+                "B": "El signo de et (&)",
+                "C": "El guion bajo (_)",
+                "D": "La barra oblicua (/)"
+            }
+        },
+        {
+            "numero_original": 30,
+            "enunciado": "En el Explorador de archivos de Windows 11, ¿qué combinación de teclas permite crear una carpeta \nnueva de forma instantánea en el directorio actual?",
+            "opciones": {
+                "A": "Ctrl + N",
+                "B": "Ctrl + Shift + N",
+                "C": "Windows + N",
+                "D": "Alt + Shift + N"
+            }
+        },
+        {
+            "numero_original": 31,
+            "enunciado": "Al trabajar con el almacenamiento integrado en Microsoft 365, ¿qué estado indica el icono de una \nnube azul junto a un archivo en el Explorador de archivos de Windows 11?",
+            "opciones": {
+                "A": "El archivo está guardado solo en el dispositivo local.",
+                "B": "El archivo está disponible solo en línea y no ocupa espacio en el disco duro local.",
+                "C": "El archivo está sincronizado y disponible sin conexión a internet de forma permanente.",
+                "D": "El archivo está bloqueado por otro usuario de la red."
+            }
+        },
+        {
+            "numero_original": 32,
+            "enunciado": "¿Cuál es la extensión por defecto que utiliza la herramienta \"Bloc de notas\" en Windows 11 al guardar \nun documento de texto sin formato?",
+            "opciones": {
+                "A": ".rtf",
+                "B": ".docx",
+                "C": ".txt",
+                "D": ".odt"
+            }
+        },
+        {
+            "numero_original": 33,
+            "enunciado": "En Word, si queremos modificar el espacio vertical que separa las líneas de un mismo párrafo, ¿qué \npropiedad del menú \"Párrafo\" debemos configurar?",
+            "opciones": {
+                "A": "Espaciado anterior",
+                "B": "Interlineado",
+                "C": "Sangría francesa",
+                "D": "Espaciado posterior"
+            }
+        },
+        {
+            "numero_original": 34,
+            "enunciado": "¿Qué herramienta de revisión de Word permite realizar el seguimiento de todas las modificaciones \n(inserciones, eliminaciones y cambios de formato) hechas en un documento por diferentes usuarios?",
+            "opciones": {
+                "A": "Control de cambios",
+                "B": "Comparar documentos",
+                "C": "Restringir edición",
+                "D": "Comentarios dinámicos"
+            }
+        },
+        {
+            "numero_original": 35,
+            "enunciado": "Dentro de la pestaña \"Disposición\" (o \"Formato\") de Word, ¿cuál de las siguientes opciones NO \npertenece al grupo de configuración de página?",
+            "opciones": {
+                "A": "Márgenes",
+                "B": "Columnas",
+                "C": "Orientación",
+                "D": "Estilos"
+            }
+        },
+        {
+            "numero_original": 36,
+            "enunciado": "En Excel, introducimos en la celda A1 el texto \"GENERALITAT\" y en la celda B1 aplicamos la fórmula \n=DERECHA(A1;4). ¿Qué resultado se mostrará en B1?",
+            "opciones": {
+                "A": "GENE",
+                "B": "LITA",
+                "C": "ITAT",
+                "D": "ERAL"
+            }
+        },
+        {
+            "numero_original": 37,
+            "enunciado": "Si en la celda C1 tenemos la fórmula =SI(B1>10; \"Aprobado\"; \"Suspenso\") y el valor numérico en B1 es \nexactamente 10, ¿qué texto devolverá la celda C1?",
+            "opciones": {
+                "A": "Aprobado",
+                "B": "Suspenso",
+                "C": "Error: #¡VALOR!",
+                "D": "0"
+            }
+        },
+        {
+            "numero_original": 38,
+            "enunciado": "Para fijar exclusivamente la fila de una celda (por ejemplo, la fila 5) manteniendo la columna libre al \narrastrar la fórmula horizontalmente, ¿cómo se debe estructurar la referencia?",
+            "opciones": {
+                "A": "A5",
+                "B": "A5",
+                "C": "$A5",
+                "D": "A$5"
+            }
+        },
+        {
+            "numero_original": 39,
+            "enunciado": "En Windows 11, ¿cuál es el atajo de teclado directo que abre el panel de\nConfiguración del sistema operativo?",
+            "opciones": {
+                "A": "Windows + C",
+                "B": "Windows + I",
+                "C": "Ctrl + Shift + I",
+                "D": "Alt + F11"
+            }
+        },
+        {
+            "numero_original": 40,
+            "enunciado": "Al compartir un documento institucional desde la nube corporativa de Microsoft 365, ¿qué opción de \npermisos impide estrictamente que el receptor descargue una copia del archivo a su ordenador local?",
+            "opciones": {
+                "A": "Puede editar",
+                "B": "Puede revisar",
+                "C": "Puede ver (con la opción \"Bloquear descarga\" activada)",
+                "D": "Cualquier persona con el enlace"
+            }
+        },
+        {
+            "numero_original": 41,
+            "enunciado": "En el portapapeles avanzado de Windows 11 (que se activa con la combinación Windows + V), ¿cuál es \nla capacidad máxima de elementos que puede almacenar en su historial antes de empezar a borrar los \nmás antiguos?",
+            "opciones": {
+                "A": "10 elementos",
+                "B": "25 elementos",
+                "C": "50 elementos",
+                "D": "Sin límite de espacio"
+            }
+        },
+        {
+            "numero_original": 42,
+            "enunciado": "Al maquetar una memoria en Word, ¿qué tipo de sangría desplaza hacia la derecha todas las líneas de \nun párrafo excepto la primera línea?",
+            "opciones": {
+                "A": "Sangría de primera línea",
+                "B": "Sangría izquierda",
+                "C": "Sangría francesa",
+                "D": "Sangría derecha"
+            }
+        },
+        {
+            "numero_original": 43,
+            "enunciado": "En Microsoft Word, si aplicas el formato \"Ocultar texto\" a un fragmento de un documento de un \nexamen, ¿cómo puedes volver a visualizarlo en la pantalla sin desconfigurar el formato?",
+            "opciones": {
+                "A": "Pulsando el botón \"Mostrar todo\" (icono del calderón ¶)",
+                "B": "Cambiando la vista del documento a \"Diseño de Web\"",
+                "C": "Pulsando la tecla F5",
+                "D": "Guardando el documento en formato PDF"
+            }
+        },
+        {
+            "numero_original": 44,
+            "enunciado": "¿Cuál es el comando o atajo de teclado rápido en Word para insertar una\nNota al pie de página de forma automática en la posición del cursor?",
+            "opciones": {
+                "A": "Alt + Shift + O",
+                "B": "Ctrl + Alt + O",
+                "C": "Alt + Ctrl + L",
+                "D": "Ctrl + Shift + N"
+            }
+        },
+        {
+            "numero_original": 45,
+            "enunciado": "En Excel, dispones de una lista de notas. Si utilizas la fórmula\n=CONTAR.SI(B2:B20; \">=5\"), ¿qué acción exacta está realizando la hoja de cálculo?",
+            "opciones": {
+                "A": "Suma los valores numéricos de las celdas que sean mayores o iguales a 5.",
+                "B": "Cuenta cuántas celdas del rango contienen un valor numérico igual o superior a 5.",
+                "C": "Calcula el promedio de las celdas que superan la nota de 5.",
+                "D": "Devuelve un error porque los operadores lógicos deben ir fuera de las comillas."
+            }
+        },
+        {
+            "numero_original": 46,
+            "enunciado": "En una celda de Excel introducimos la fórmula\n=CONCAT(IZQUIERDA(\"VALENCIA\";3); \" \"; EXTRAE(\"ADMINISTRATIVO\";6;5)). ¿Qué\nresultado exacto devolverá la celda?",
+            "opciones": {
+                "A": "VAL ISTRA",
+                "B": "VAL STRAT",
+                "C": "VAL NISTR",
+                "D": "VAL MINIS"
+            }
+        },
+        {
+            "numero_original": 47,
+            "enunciado": "Si al introducir una fórmula matemática en Excel el programa te devuelve el error específico #¡NULO! \n(o #NULL!), ¿cuál suele ser la causa común de este fallo?",
+            "opciones": {
+                "A": "Se ha dividido un número entero entre cero de forma incorrecta.",
+                "B": "No se encuentra el valor de referencia buscado en una matriz.",
+                "C": "Se ha omitido el operador de unión (como los dos puntos o la coma) en un rango de celdas dejando un \nespacio en blanco.",
+                "D": "La celda contiene caracteres de texto mezclados con operadores numéricos básicos."
+            }
+        },
+        {
+            "numero_original": 48,
+            "enunciado": "En el Explorador de archivos de Windows 11, ¿qué herramienta de la barra superior nos permite \nagrupar y ordenar visualmente los archivos de una carpeta según su tamaño, tipo o fecha de \nmodificación?",
+            "opciones": {
+                "A": "Filtrar",
+                "B": "Clasificar",
+                "C": "Ver",
+                "D": "Diseño"
+            }
+        },
+        {
+            "numero_original": 49,
+            "enunciado": "Trabajando en el entorno corporativo de la Generalitat con Microsoft 365,\n¿cuál es la diferencia principal entre almacenar un documento de trabajo en OneDrive o hacerlo en un \ncanal de Microsoft Teams (SharePoint)?",
+            "opciones": {
+                "A": "OneDrive no permite la coautoría en tiempo real y Teams sí.",
+                "B": "OneDrive es para almacenamiento de archivos personales/individuales de trabajo y Teams es para archivos \ncompartidos de un equipo de trabajo.",
+                "C": "OneDrive borra los archivos automáticamente a los 30 días si no se modifican.",
+                "D": "Teams solo admite formatos multimedia y OneDrive solo documentos de texto."
+            }
+        },
+        {
+            "numero_original": 50,
+            "enunciado": "Si en Windows 11 queremos congelar una ventana en una mitad exacta de la pantalla y que el sistema \nnos sugiera qué otras aplicaciones abiertas colocar en el espacio restante, ¿cómo se denomina \nformalmente esta función del sistema?",
+            "opciones": {
+                "A": "Escritorios virtuales",
+                "B": "Ajustar diseños (Snap Layouts)",
+                "C": "Vista de tareas",
+                "D": "Minimización dinámica"
+            }
+        },
+        {
+            "numero_original": 51,
+            "enunciado": "Al realizar una búsqueda avanzada en Windows 11, ¿qué carácter comodín se debe utilizar si \nqueremos sustituir un único carácter variable (por ejemplo, buscar tanto \"C1_test.docx\" como \n\"C2_test.docx\" escribiendo \"C?_test.docx\")?",
+            "opciones": {
+                "A": "El asterisco (*)",
+                "B": "El signo de interrogación (?)",
+                "C": "El porcentaje (%)",
+                "D": "El guion bajo (_)"
+            }
+        },
+        {
+            "numero_original": 52,
+            "enunciado": "En Microsoft Word, dentro de las opciones de interlineado de párrafo, ¿qué diferencia existe entre \nconfigurar el interlineado como \"Exacto\" o configurarlo como \"Mínimo\"?",
+            "opciones": {
+                "A": "\"Exacto\" bloquea la medida en puntos sin importar el tamaño de la fuente, pudiendo cortar el texto; \n\"Mínimo\" se autoajusta si la fuente es más grande.",
+                "B": "\"Mínimo\" solo se aplica a las notas al pie de página.",
+                "C": "\"Exacto\" solo permite medidas en centímetros.",
+                "D": "No existe diferencia, ambas opciones producen el mismo resultado visual."
+            }
+        },
+        {
+            "numero_original": 53,
+            "enunciado": "Diseñando un documento oficial de la GVA, necesitas que la numeración de las páginas comience en la \npágina número 3 con el número \"1\" (omitiendo la portada y el índice). ¿Qué pasos secuenciales debes \nrealizar?",
+            "opciones": {
+                "A": "Insertar un salto de página en la página 2 y desvincular el encabezado.",
+                "B": "Insertar un salto de sección en la página 2, desvincular el pie de página en la sección 2 y cambiar el formato \nde número de página para que inicie en 1.",
+                "C": "Activar la casilla \"Primera página diferente\" en la pestaña de Diseño.",
+                "D": "Crear dos archivos de Word independientes y unirlos al exportar a PDF."
+            }
+        },
+        {
+            "numero_original": 54,
+            "enunciado": "En Word, ¿cuál es la función de la opción \"Control de líneas viudas y huérfanas\" dentro de las \npropiedades de párrafo?",
+            "opciones": {
+                "A": "Evita que la primera o última línea de un párrafo quede aislada al principio o final de una página.",
+                "B": "Elimina automáticamente los espacios dobles introducidos por error con la barra espaciadora.",
+                "C": "Alinea los márgenes izquierdo y derecho de forma simétrica.",
+                "D": "Corrige las faltas de ortografía de los nombres propios singulares."
+            }
+        },
+        {
+            "numero_original": 55,
+            "enunciado": "¿Qué pestaña de la cinta de opciones de Word debemos utilizar de forma nativa si queremos insertar \nun hipervínculo a una página web externa, un marcador interno o una referencia cruzada?",
+            "opciones": {
+                "A": "Inicio",
+                "B": "Insertar",
+                "C": "Referencias",
+                "D": "Disposición"
+            }
+        },
+        {
+            "numero_original": 56,
+            "enunciado": "En una hoja de cálculo de Excel tenemos el valor numérico 2500 en la celda A1. Si aplicamos la fórmula \n=TEXTO(A1; \"0.000,00 €\"), ¿qué resultado visual devolverá la celda?",
+            "opciones": {
+                "A": "2500",
+                "B": "2.500,00 €",
+                "C": "Error: #¡VALOR!",
+                "D": "2,500.00 €"
+            }
+        },
+        {
+            "numero_original": 57,
+            "enunciado": "Disponemos de la fórmula =BUSCARV(D2; A2:B10; 2; FALSO). ¿Qué significa exactamente el cuarto \nargumento configurado como \"FALSO\"?",
+            "opciones": {
+                "A": "Que si no encuentra el valor exacto en la matriz, la fórmula devolverá el valor numérico\n0.",
+                "B": "Que Excel realizará una búsqueda de coincidencia exacta del valor de la celda D2.",
+                "C": "Que los datos de la columna A deben estar ordenados obligatoriamente de forma ascendente.",
+                "D": "Que la fórmula se ejecutará en segundo plano sin mostrar errores."
+            }
+        },
+        {
+            "numero_original": 58,
+            "enunciado": "Si en la celda A1 de Excel tenemos el texto \"OPOSICIONES C1\" y en la celda B1 aplicamos la fórmula \n=LARGO(A1), ¿qué valor numérico se mostrará en B1?",
+            "opciones": {
+                "A": "13",
+                "B": "14",
+                "C": "12",
+                "D": "11"
+            }
+        },
+        {
+            "numero_original": 59,
+            "enunciado": "En Excel, ¿qué categoría de funciones incluye herramientas como PAGO, VA (Valor Actual) o VF (Valor \nFuturo), utilizadas habitualmente en supuestos de gestión presupuestaria administrativa?",
+            "opciones": {
+                "A": "Funciones Lógicas",
+                "B": "Funciones de Ingeniería",
+                "C": "Funciones Financieras",
+                "D": "Funciones Estadísticas"
+            }
+        },
+        {
+            "numero_original": 60,
+            "enunciado": "En la arquitectura de ordenadores, ¿cómo se denomina a la memoria volátil de alta velocidad \nintegrada en el propio procesador (CPU) que almacena de forma temporal los datos e instrucciones \nmás utilizados para reducir el tiempo de acceso a la memoria principal?",
+            "opciones": {
+                "A": "Memoria ROM",
+                "B": "Memoria caché",
+                "C": "Memoria virtual",
+                "D": "Memoria flash"
+            }
+        },
+        {
+            "numero_original": 61,
+            "enunciado": "¿A cuántos Kilobytes (KB) equivale exactamente un Gigabyte (GB) utilizando el sistema de \ndireccionamiento binario tradicional de almacenamiento de datos?",
+            "opciones": {
+                "A": "\\(1.000.000\\text{ KB}\\)",
+                "B": "1.024 KB",
+                "C": "\\(1.048.576\\text{ KB}\\)",
+                "D": "\\(1.024.000\\text{ KB}\\)"
+            }
+        },
+        {
+            "numero_original": 62,
+            "enunciado": "En Windows 11, ¿cómo se denomina formalmente a la característica que permite agrupar aplicaciones \nabiertas en diferentes pantallas lógicas independientes para organizar el espacio de trabajo \nadministrativo (por ejemplo, separar tareas de Registro de tareas de Recursos Humanos)?",
+            "opciones": {
+                "A": "Snap Layouts",
+                "B": "Escritorios virtuales",
+                "C": "Centro de notificaciones",
+                "D": "Espacios de almacenamiento [1, 2]"
+            }
+        },
+        {
+            "numero_original": 63,
+            "enunciado": "¿Qué herramienta nativa del sistema operativo se debe ejecutar si un administrativo de la GVA \nnecesita monitorizar en tiempo real el consumo de memoria RAM y finalizar un proceso que ha dejado \nde responder?",
+            "opciones": {
+                "A": "Programador de tareas",
+                "B": "Administrador de dispositivos",
+                "C": "Administrador de tareas",
+                "D": "Monitor de confiabilidad"
+            }
+        },
+        {
+            "numero_original": 64,
+            "enunciado": "En el Explorador de archivos de Windows 11, ¿qué gran novedad de diseño de interfaz permite tener \nabiertas múltiples ubicaciones de carpetas en una única ventana de trabajo, evitando la acumulación \nde ventanas independientes?",
+            "opciones": {
+                "A": "El panel de navegación lateral",
+                "B": "Las pestañas en el Explorador",
+                "C": "El menú contextual simplificado",
+                "D": "La barra de herramientas compacta"
+            }
+        },
+        {
+            "numero_original": 66,
+            "enunciado": "En la versión de Outlook de Microsoft 365, si enviamos una convocatoria de reunión a múltiples jefes \nde servicio y queremos asegurarnos de que las direcciones de correo de algunos de ellos no sean \nvisibles para los demás destinatarios, ¿en qué campo debemos introducirlas?",
+            "opciones": {
+                "A": "Para (To)",
+                "B": "CC (Copia de carbón)",
+                "C": "CCO (Copia de carbón oculta)",
+                "D": "Asunto (Subject)"
+            }
+        },
+        {
+            "numero_original": 67,
+            "enunciado": "¿Cómo se denomina la regla automática de Outlook que permite mover a una carpeta específica (por \nejemplo, \"Boletines GVA\") todos los correos electrónicos entrantes cuyo asunto contenga la palabra \n\"DOGV\"?",
+            "opciones": {
+                "A": "Categoría de color",
+                "B": "Regla de bandeja de entrada",
+                "C": "Elemento rápido",
+                "D": "Filtro de retención"
+            }
+        },
+        {
+            "numero_original": 68,
+            "enunciado": "Diseñando un documento oficial de la Generalitat, necesitas crear una lista donde el espacio entre los \ndiferentes elementos (párrafos) de la lista sea menor que el espacio normal entre párrafos de texto \ncomunes. ¿Qué casilla de la configuración avanzada de \"Párrafo\" debes marcar?",
+            "opciones": {
+                "A": "No agregar espacio entre párrafos del mismo estilo",
+                "B": "Mantener con el siguiente",
+                "C": "Conservar líneas juntas",
+                "D": "Ajustar espacio de cuadrícula de documento"
+            }
+        },
+        {
+            "numero_original": 69,
+            "enunciado": "En una tabla de gestión presupuestaria con datos desde la fila 2 hasta la 50, se introduce en la celda C2 \nla fórmula =SI.ERROR(A2/B2; 0). Si la celda B2 contiene un valor de 0 o está vacía, ¿qué resultado \nexacto se mostrará en C2?",
+            "opciones": {
+                "A": "#¡DIV/0!",
+                "B": "0",
+                "C": "FALSO",
+                "D": "Un espacio en blanco"
+            }
+        },
+        {
+            "numero_original": 70,
+            "enunciado": "En un canal de Microsoft Teams de la Conselleria, ¿dónde se almacenan físicamente todos los archivos \ny documentos que los miembros del equipo suben a la pestaña \"Archivos\"?",
+            "opciones": {
+                "A": "En el disco duro local del creador del canal.",
+                "B": "En el buzón personal de Exchange del administrador.",
+                "C": "En un sitio de SharePoint asociado automáticamente al equipo.",
+                "D": "En la memoria caché temporal de la aplicación de Teams."
+            }
+        },
+        {
+            "numero_original": 71,
+            "enunciado": "Al tramitar expedientes en portales autonómicos utilizando navegadores web, ¿cómo se denomina a la \nfunción de seguridad que permite abrir una ventana de navegación que no guarda el historial de \nexploración, las cookies ni los datos de formularios introducidos durante la sesión?",
+            "opciones": {
+                "A": "Modo Desarrollador",
+                "B": "Navegación privada (InPrivate / Incógnito)",
+                "C": "Bloqueador de elementos emergentes",
+                "D": "Modo de compatibilidad Enterprise"
+            }
+        },
+        {
+            "numero_original": 72,
+            "enunciado": "En el ecosistema de Microsoft 365 integrado en Windows 11 para la administración pública, ¿cómo se \ndenomina formalmente el asistente de Inteligencia Artificial generativa capaz de redactar resúmenes \nde reuniones de Teams, redactar borradores en Word o analizar tendencias de datos en Excel?",
+            "opciones": {
+                "A": "Cortana",
+                "B": "Microsoft Copilot",
+                "C": "Azure AI Engine",
+                "D": "Windows Insight"
+            }
+        },
+        {
+            "numero_original": 73,
+            "enunciado": "¿Cuál de las siguientes memorias de un ordenador almacena las instrucciones de arranque inicial del \nsistema (firmware/BIOS) y mantiene su información grabada incluso cuando el equipo se apaga por \ncompleto?",
+            "opciones": {
+                "A": "Memoria RAM",
+                "B": "Memoria ROM",
+                "C": "Memoria caché L3",
+                "D": "Memoria de intercambio (Swap)"
+            }
+        },
+        {
+            "numero_original": 74,
+            "enunciado": "Un administrativo de la GVA debe almacenar un archivo que ocupa exactamente 4 Gigabytes (GB). ¿En \ncuál de los siguientes sistemas de archivos NO se podrá guardar debido a una limitación de tamaño \nmáximo por archivo?",
+            "opciones": {
+                "A": "NTFS",
+                "B": "FAT32",
+                "C": "exFAT",
+                "D": "ReFS"
+            }
+        },
+        {
+            "numero_original": 75,
+            "enunciado": "En Windows 11, ¿qué combinación de teclas abre directamente los Ajustes rápidos (Quick Settings) en la \nesquina inferior derecha, permitiendo gestionar el Wi-Fi, el volumen o el Bluetooth?",
+            "opciones": {
+                "A": "Tecla Windows + A",
+                "B": "Tecla Windows + K",
+                "C": "Tecla Windows + N",
+                "D": "Tecla Windows + P"
+            }
+        },
+        {
+            "numero_original": 76,
+            "enunciado": "Al arrancar un ordenador con Windows 11, ¿cómo se denomina formalmente al subsistema de \nsoftware encargado de interactuar directamente entre el núcleo del sistema operativo y los \ncomponentes físicos de hardware (como una impresora o tarjeta gráfica)?",
+            "opciones": {
+                "A": "API del sistema",
+                "B": "Controlador de dispositivo (Driver)",
+                "C": "Microprocesador virtual",
+                "D": "Compilador de comandos"
+            }
+        },
+        {
+            "numero_original": 77,
+            "enunciado": "En el Explorador de archivos de Windows 11, ¿en qué sección lateral predefinida se anclan \nautomáticamente las carpetas de uso más frecuente y los archivos abiertos recientemente para agilizar \nel acceso?",
+            "opciones": {
+                "A": "Este equipo",
+                "B": "Red",
+                "C": "Inicio (Home)",
+                "D": "Galería"
+            }
+        },
+        {
+            "numero_original": 78,
+            "enunciado": "Deseas seleccionar un bloque continuo de 15 archivos guardados en una carpeta para moverlos a un \npendrive. ¿Qué tecla debes mantener pulsada mientras haces clic en el primer y en el último archivo \ndel bloque?",
+            "opciones": {
+                "A": "Ctrl",
+                "B": "Alt",
+                "C": "Mayús (Shift)",
+                "D": "Tabulador"
+            }
+        },
+        {
+            "numero_original": 79,
+            "enunciado": "En Outlook de Microsoft 365, ¿qué herramienta permite delegar el acceso a tu buzón oficial para que \notro funcionario de tu departamento pueda redactar y responder correos electrónicos en tu nombre \ndurante tu período de vacaciones?",
+            "opciones": {
+                "A": "Respuestas automáticas (Fuera de oficina)",
+                "B": "Acceso de delegados",
+                "C": "Compartir libreta de direcciones",
+                "D": "Reglas de reenvío SMTP"
+            }
+        },
+        {
+            "numero_original": 80,
+            "enunciado": "En Outlook, un correo electrónico guardado como borrador se sincroniza de forma nativa en la nube \nde Microsoft 365. Si cierras la aplicación sin enviarlo, el mensaje:",
+            "opciones": {
+                "A": "Se elimina de forma permanente por seguridad.",
+                "B": "Permanece en la carpeta \"Borradores\" listo para ser editado desde cualquier dispositivo.",
+                "C": "Se envía automáticamente al buzón del administrador de la red.",
+                "D": "Se descarga de forma exclusiva en el disco duro local en formato .eml."
+            }
+        },
+        {
+            "numero_original": 81,
+            "enunciado": "En Microsoft Word, si necesitas forzar que el texto que viene a continuación comience \nobligatoriamente en la siguiente línea o renglón sin dar por finalizado el párrafo actual ni alterar el \nestilo del mismo, ¿qué combinación de teclas debes pulsar?",
+            "opciones": {
+                "A": "Enter (Intro)",
+                "B": "Ctrl + Enter",
+                "C": "Shift + Enter (Mayús + Intro)",
+                "D": "Alt + Enter"
+            }
+        },
+        {
+            "numero_original": 82,
+            "enunciado": "En una hoja de Excel, dispones de una lista de importes económicos. Aplicas la fórmula \n=CONTAR(A1:A10). Si las celdas de ese rango contienen 5 números, 3 textos y 2 celdas vacías, ¿qué \nresultado numérico devolverá la celda?",
+            "opciones": {
+                "A": "5",
+                "B": "8",
+                "C": "10",
+                "D": "Error: #¡VALOR!"
+            }
+        },
+        {
+            "numero_original": 83,
+            "enunciado": "Durante una reunión virtual en Microsoft Teams, ¿qué característica permite a un administrativo de la \nGVA mostrar a los demás asistentes una aplicación específica abierta en su ordenador sin necesidad de \ndesvelar el resto de su escritorio o notificaciones personales?",
+            "opciones": {
+                "A": "Compartir pantalla completa",
+                "B": "Compartir ventana",
+                "C": "Modo conjunto",
+                "D": "Pizarra digital interactiva"
+            }
+        },
+        {
+            "numero_original": 84,
+            "enunciado": "En los navegadores web modernos como Microsoft Edge, ¿qué protocolo de red (que aparece al inicio \nde la barra de direcciones) garantiza que la información transmitida entre tu ordenador y el servidor \nde la Generalitat viaja cifrada de extremo a extremo de forma segura?",
+            "opciones": {
+                "A": "HTTP",
+                "B": "FTP",
+                "C": "HTTPS",
+                "D": "TCP/IP"
+            }
+        },
+        {
+            "numero_original": 85,
+            "enunciado": "Cuando interactúas con un asistente de Inteligencia Artificial generativa como Microsoft Copilot en el \nentorno administrativo, ¿con qué término técnico se conocea la instrucción escrita detallada, contexto \no pregunta que introduces en el cuadro de texto para obtener la respuesta deseada?",
+            "opciones": {
+                "A": "Algoritmo",
+                "B": "Prompt",
+                "C": "Token",
+                "D": "Script"
+            }
+        },
+        {
+            "numero_original": 86,
+            "enunciado": "Dentro de la arquitectura de buses de una placa base, ¿qué elemento lógico se encarga de gestionar \nde forma directa la comunicación de alta velocidad entre el procesador (CPU), la memoria RAM y la \ntarjeta gráfica?",
+            "opciones": {
+                "A": "Puente sur (Southbridge)",
+                "B": "Puente norte (Northbridge)",
+                "C": "Unidad de control secuencial",
+                "D": "Bus PCI convencional"
+            }
+        },
+        {
+            "numero_original": 87,
+            "enunciado": "En el panel de control o configuración de Windows 11, ¿cómo se denomina a la directiva de seguridad \nque solicita confirmación explícita del usuario (mediante un oscurecimiento de pantalla) antes de \npermitir que una aplicación realice cambios con privilegios de administrador en el equipo?",
+            "opciones": {
+                "A": "Windows Defender Firewall",
+                "B": "Control de cuentas de usuario (UAC)",
+                "C": "Directiva de grupo local (GPO)",
+                "D": "Aislamiento de núcleo seguro7"
+            }
+        },
+        {
+            "numero_original": 88,
+            "enunciado": "En el Explorador de archivos de Windows 11, si deseamos encontrar todos los documentos de Word \ncuyo nombre empiece obligatoriamente por la palabra \"Decreto\" pero cuya extensión exacta \ndesconocemos, ¿cuál es la sintaxis correcta en el cuadro de búsqueda?",
+            "opciones": {
+                "A": "Decreto?.*",
+                "B": "Decreto*.*",
+                "C": "*Decreto.docx",
+                "D": "Decreto#.bin"
+            }
+        },
+        {
+            "numero_original": 90,
+            "enunciado": "En Outlook de Microsoft 365, ¿qué protocolo de configuración de correo se debe utilizar si se requiere \nque los mensajes se sincronicen en tiempo real de forma bidireccional entre el servidor central y todos \nlos dispositivos (ordenador, móvil, tablet) del administrativo?",
+            "opciones": {
+                "A": "POP3",
+                "B": "IMAP",
+                "C": "SMTP",
+                "D": "FTP"
+            }
+        },
+        {
+            "numero_original": 92,
+            "enunciado": "En Excel, si en la celda A1 se encuentra la fecha del examen en formato texto y aplicamos la fórmula \n=A1*1, ¿qué resultado visual o error obtendremos si el texto no puede ser interpretado \nnuméricamente por el programa?",
+            "opciones": {
+                "A": "0",
+                "B": "#¡VALOR!",
+                "C": "#¡REF!",
+                "D": "FALSO"
+            }
+        },
+        {
+            "numero_original": 93,
+            "enunciado": "En Microsoft Teams, si un administrativo crea un \"Canal privado\" dentro del equipo general de su \nConselleria, ¿quiénes podrán visualizar y acceder al contenido de dicho canal?",
+            "opciones": {
+                "A": "Todos los miembros del equipo general de forma automática.",
+                "B": "Exclusivamente el administrador global del sistema de la Generalitat.",
+                "C": "Solo los miembros del equipo que hayan sido invitados explícitamente al canal.",
+                "D": "Cualquier usuario externo que disponga del enlace web de invitación."
+            }
+        },
+        {
+            "numero_original": 94,
+            "enunciado": "En los navegadores web como Microsoft Edge, ¿cómo se denominan los pequeños archivos de texto \nque los servidores de las páginas web (como la Sede Electrónica de la GVA) almacenan en el ordenador \ndel usuario para recordar sus credenciales de acceso temporal o preferencias de sesión?",
+            "opciones": {
+                "A": "Caché DNS",
+                "B": "Marcadores estáticos",
+                "C": "Cookies",
+                "D": "Scripts CGI"
+            }
+        },
+        {
+            "numero_original": 95,
+            "enunciado": "Al trabajar con herramientas avanzadas de Inteligencia Artificial generativa integradas (como \nMicrosoft Copilot), ¿qué técnica consiste en suministrar al modelo un par de ejemplos estructurados \nde respuestas válidas dentro del propio texto de la petición para guiar de forma óptima el formato del \nresultado final?",
+            "opciones": {
+                "A": "Zero-shot prompting",
+                "B": "Few-shot prompting",
+                "C": "Chain-of-thought prompting",
+                "D": "Fine-tuning algorítmico"
+            }
+        },
+        {
+            "numero_original": 96,
+            "enunciado": "En la celda C1 tienes la fórmula =A1+B1. Si copias la celda C1 y la pegas dos columnas a la derecha y \nuna fila hacia abajo (en la celda E2), ¿qué fórmula se grabará automáticamente en E2?",
+            "opciones": {
+                "A": "=A1+B1",
+                "B": "=C1+D1",
+                "C": "=C2+D2",
+                "D": "=A2+B2 [1, 2]"
+            }
+        },
+        {
+            "numero_original": 97,
+            "enunciado": "Necesitas realizar una suma consecutiva desde la celda B2 hasta la celda B20. ¿Cuál de las siguientes \nopciones representa la sintaxis INCORRECTA en Excel?",
+            "opciones": {
+                "A": "=SUMA(B2:B20)",
+                "B": "=SUMA(B2;B20)",
+                "C": "=B2+B3+B4+...[así hasta B20]",
+                "D": "Todas las opciones anteriores son correctas."
+            }
+        },
+        {
+            "numero_original": 98,
+            "enunciado": "Si en la celda A1 introduces la operación =5+3*2, ¿qué resultado numérico mostrará Excel al pulsar \nIntro?",
+            "opciones": {
+                "A": "16",
+                "B": "11",
+                "C": "10",
+                "D": "13"
+            }
+        },
+        {
+            "numero_original": 99,
+            "enunciado": "Dispones de un listado de importes de tasas administrativas en el rango C2:C15. Quieres conocer de \nforma rápida cuál es la tasa más barata de todas. ¿Qué función debes emplear?",
+            "opciones": {
+                "A": "=MINIMO(C2:C15)",
+                "B": "=MENOR(C2:C15)",
+                "C": "=MIN(C2:C15)",
+                "D": "=BAJO(C2:C15)"
+            }
+        },
+        {
+            "numero_original": 100,
+            "enunciado": "En la celda D4 evaluamos los días de retraso de un expediente con la fórmula =SI(C4>10; \"Revisar\"; \n\"Correcto\"). Si la celda C4 contiene exactamente el número 10, ¿qué texto devolverá la fórmula?",
+            "opciones": {
+                "A": "Revisar",
+                "B": "Correcto",
+                "C": "0",
+                "D": "Error: #¡VALOR!"
+            }
+        },
+        {
+            "numero_original": 101,
+            "enunciado": "Tienes un listado de solicitudes en la columna A. Quieres contar cuántas solicitudes han entrado en \ntotal, sabiendo que algunas celdas contienen texto y otras números, pero necesitas ignorar las que \nestán completamente vacías. ¿Qué función es la adecuada?",
+            "opciones": {
+                "A": "=CONTAR(A2:A50)",
+                "B": "=CONTARA(A2:A50)",
+                "C": "=CONTAR.SI(A2:A50)",
+                "D": "=SUMA(A2:A50)"
+            }
+        },
+        {
+            "numero_original": 102,
+            "enunciado": "Deseas unir el nombre de un ciudadano (celda A2: \"Juan\") y su primer apellido (celda B2: \"Pérez\") \nseparados por un espacio en blanco en la celda C2. ¿Cuál es la fórmula correcta?",
+            "opciones": {
+                "A": "=A2 & B2",
+                "B": "=A2 & \" \" & B2",
+                "C": "=SUMA(A2;\" \";B2)",
+                "D": "=UNIR(A2; B2)"
+            }
+        },
+        {
+            "numero_original": 103,
+            "enunciado": "Si al realizar una división manual entre dos celdas (por ejemplo =A1/B1) la celda B1 no contiene ningún \nvalor (está vacía), ¿qué código de error mostrará Excel de manera inmediata?",
+            "opciones": {
+                "A": "#¡VALOR!",
+                "B": "#¡DIV/0!",
+                "C": "#¿NOMBRE?",
+                "D": "#¡REF!"
+            }
+        },
+        {
+            "numero_original": 104,
+            "enunciado": "Si introduces el número 0,5 en una celda de Excel y, a continuación, le aplicas el formato de Porcentaje \n(%) desde el grupo \"Número\" de la pestaña Inicio, ¿qué valor se visualizará en la pantalla?",
+            "opciones": {
+                "A": "0,5%",
+                "B": "5%",
+                "C": "50%",
+                "D": "500%"
+            }
+        },
+        {
+            "numero_original": 106,
+            "enunciado": "Por defecto, al introducir un dato en una celda sin haber aplicado ningún formato previo, ¿cómo alinea \nExcel automáticamente los valores de texto y los valores numéricos?",
+            "opciones": {
+                "A": "El texto a la derecha y los números a la izquierda.",
+                "B": "El texto a la izquierda y los números a la derecha.",
+                "C": "Ambos elementos quedan centrados por defecto.",
+                "D": "Ambos elementos se alinean estrictamente a la izquierda. [1]"
+            }
+        },
+        {
+            "numero_original": 107,
+            "enunciado": "¿Qué carácter o símbolo matemático se utiliza en Excel de forma obligatoria para separar los \nargumentos o parámetros individuales dentro de cualquier función (por ejemplo, al separar la \n\ncondición del resultado en un =SI)?",
+            "opciones": {
+                "A": "Dos puntos (:)",
+                "B": "Punto y coma (;)",
+                "C": "Una coma (,)",
+                "D": "Una barra oblicua (/)"
+            }
+        },
+        {
+            "numero_original": 108,
+            "enunciado": "En una columna con importes de subvenciones (D2:D30), necesitas calcular el valor medio concedido a \nlos solicitantes. ¿Qué función debes escribir?",
+            "opciones": {
+                "A": "=MEDIA(D2:D30)",
+                "B": "=MEDIANA(D2:D30)",
+                "C": "=PROMEDIO(D2:D30)",
+                "D": "=SUMA(D2:D30)/30"
+            }
+        },
+        {
+            "numero_original": 109,
+            "enunciado": "Al trabajar con tablas de datos extensas en tu puesto administrativo, observas que una celda muestra \nel código visual ###. ¿Qué significa este aviso de Excel?",
+            "opciones": {
+                "A": "La fórmula contiene una falta de ortografía en su nombre.",
+                "B": "El valor numérico o fecha no cabe en el ancho actual de la columna.",
+                "C": "Has intentado sumar una celda de texto con una de número.",
+                "D": "El archivo se ha bloqueado por problemas de permisos de red."
+            }
+        },
+        {
+            "numero_original": 110,
+            "enunciado": "¿Qué herramienta nativa de Excel permite cambiar de forma automática el color de fondo de una \ncelda (por ejemplo, ponerla en rojo) únicamente cuando el valor numérico de la misma sea inferior a 0 \no negativo?",
+            "opciones": {
+                "A": "Formato condicional",
+                "B": "Estilos de celda manuales",
+                "C": "Filtro avanzado de datos",
+                "D": "Validación de datos"
+            }
+        },
+        {
+            "numero_original": 111,
+            "enunciado": "Si deseas que un párrafo seleccionado en Word presente una separación añadida respecto al párrafo \nque se encuentra inmediatamente debajo, ¿qué propiedad exacta de la configuración de \"Párrafo\" \ndebes rellenar?",
+            "opciones": {
+                "A": "Interlineado",
+                "B": "Espaciado posterior",
+                "C": "Sangría derecha",
+                "D": "Margen inferior"
+            }
+        },
+        {
+            "numero_original": 112,
+            "enunciado": "En Microsoft Word, ¿qué tipo de sangría desplaza hacia la derecha exclusivamente la primera línea de \nun párrafo, dejando el resto de las líneas pegadas al margen izquierdo establecido?",
+            "opciones": {
+                "A": "Sangría francesa",
+                "B": "Sangría izquierda",
+                "C": "Sangría de primera línea",
+                "D": "Sangría simétrica"
+            }
+        },
+        {
+            "numero_original": 113,
+            "enunciado": "Estás redactando una resolución administrativa de varias páginas. Si utilizas el atajo de teclado Ctrl + \nEnter (Intro), ¿qué elemento estás insertando de forma inmediata en la posición actual del cursor?",
+            "opciones": {
+                "A": "Un salto de sección (página siguiente)",
+                "B": "Un salto de página",
+                "C": "Un salto de línea manual",
+                "D": "Una nota al pie de página"
+            }
+        },
+        {
+            "numero_original": 114,
+            "enunciado": "Necesitas añadir el logotipo institucional de la Generalitat en la parte superior de todas las páginas de \nun documento de Word de forma automatizada. ¿En qué zona debes insertar dicha imagen?",
+            "opciones": {
+                "A": "En el encabezado de página",
+                "B": "En el pie de página",
+                "C": "En la marca de agua trasera",
+                "D": "En la primera línea del cuerpo del texto"
+            }
+        },
+        {
+            "numero_original": 115,
+            "enunciado": "Si al maquetar una norma administrativa en Word necesitas localizar de forma rápida una palabra \nconcreta (por ejemplo, \"Subvención\") a lo largo de un archivo de 80 páginas, ¿qué combinación de \nteclas abre el panel de Navegación / Búsqueda?",
+            "opciones": {
+                "A": "Ctrl + B",
+                "B": "Ctrl + F",
+                "C": "Ctrl + L",
+                "D": "Ctrl + P"
+            }
+        },
+        {
+            "numero_original": 116,
+            "enunciado": "¿Cómo se denomina en Word al conjunto de características de formato predefinidas (fuente, tamaño, \ncolor e interlineado) que se guardan bajo un nombre (como \"Título 1\") y permiten homogeneizar el \ndiseño de un documento con un solo clic?",
+            "opciones": {
+                "A": "Plantilla activa",
+                "B": "Estilo",
+                "C": "Tema de documento",
+                "D": "Formato de sección"
+            }
+        },
+        {
+            "numero_original": 117,
+            "enunciado": "Estás redactando una carta institucional en Word. Deseas que la palabra \"Generalitat\" aparezca en \nnegrita. Si utilizas los atajos de teclado rápidos de la versión en español, ¿cuál debes pulsar?",
+            "opciones": {
+                "A": "Ctrl + B",
+                "B": "Ctrl + N",
+                "C": "Ctrl + S",
+                "D": "Ctrl + Alt + N"
+            }
+        },
+        {
+            "numero_original": 118,
+            "enunciado": "Al trabajar con una tabla de datos dentro de un documento de Word, ¿qué tecla te permite avanzar de \nforma rápida a la celda de la derecha o saltar a la fila inferior si te encuentras en la última columna?",
+            "opciones": {
+                "A": "Barra espaciadora",
+                "B": "Tabulador (Tab)",
+                "C": "Enter (Intro)",
+                "D": "Alt"
+            }
+        },
+        {
+            "numero_original": 119,
+            "enunciado": "Necesitas introducir un texto aclaratorio breve sobre un término legal en un párrafo, de manera que la \naclaración aparezca numerada con un superíndice y su texto explicativo se sitúe al final de esa misma \npágina. ¿Qué herramienta nativa debes usar?",
+            "opciones": {
+                "A": "Nota al final (Endnote)",
+                "B": "Marcador web",
+                "C": "Nota al pie (Footnote)",
+                "D": "Comentario dinámico"
+            }
+        },
+        {
+            "numero_original": 120,
+            "enunciado": "Recibes un correo electrónico masivo de la Conselleria y deseas programar una alerta para que \nOutlook te recuerde responderlo mañana a las 9:00 AM. ¿Qué herramienta nativa del mensaje debes \nutilizar?",
+            "opciones": {
+                "A": "Marcar para seguimiento (Seguimiento / Icono de bandera)",
+                "B": "Categorizar por colores",
+                "C": "Asignar directiva de retención",
+                "D": "Mover a un elemento rápido"
+            }
+        },
+        {
+            "numero_original": 121,
+            "enunciado": "En la aplicación de escritorio de Outlook 365, ¿qué herramienta permite redactar un bloque de texto \ninstitucional largo (por ejemplo, el texto legal de protección de datos) y guardarlo para insertarlo \ninstantáneamente en cualquier correo futuro mediante un atajo?",
+            "opciones": {
+                "A": "Autocompletar nombres",
+                "B": "Elementos rápidos (Quick Parts)",
+                "C": "Firmas múltiples",
+                "D": "Plantilla de correo SMTP"
+            }
+        },
+        {
+            "numero_original": 122,
+            "enunciado": "Estás organizando una reunión de Teams para el seguimiento de unos fondos europeos. Necesitas que \nlos asistentes externos a la Generalitat permanezcan en una pantalla de espera virtual hasta que tú \nvalides manualmente su entrada. ¿Qué parámetro de las opciones de reunión debes configurar?",
+            "opciones": {
+                "A": "Permitir el micrófono a los asistentes",
+                "B": "Quién puede omitir la sala de espera (Lobby)",
+                "C": "Quién puede presentar",
+                "D": "Habilitar el modo conjunto"
+            }
+        },
+        {
+            "numero_original": 123,
+            "enunciado": "Dentro de un equipo de Teams, ¿qué función realiza la pestaña\n\"Publicaciones\" (Posts) que aparece por defecto en el canal General?",
+            "opciones": {
+                "A": "Sirve exclusivamente para subir archivos en formato PDF.",
+                "B": "Aloja el tablón de anuncios y el histórico de conversaciones de chat del equipo.",
+                "C": "Permite abrir el navegador web Edge de forma integrada.",
+                "D": "Almacena las contraseñas del grupo de trabajo."
+            }
+        },
+        {
+            "numero_original": 124,
+            "enunciado": "Al navegar por la Sede Electrónica de la GVA, realizas cambios en un formulario pero el navegador \nsigue mostrando la versión antigua de la página. ¿Qué almacenamiento temporal de archivos e \nimágenes locales debes vaciar en la configuración de Microsoft Edge para solucionar este conflicto \nvisual?",
+            "opciones": {
+                "A": "Historial de descargas",
+                "B": "Cookies de terceros",
+                "C": "Memoria caché del navegador",
+                "D": "Contraseñas guardadas"
+            }
+        },
+        {
+            "numero_original": 125,
+            "enunciado": "En Microsoft Edge, ¿cómo se denomina a la herramienta que permite agrupar diferentes pestañas \nabiertas, guardarlas bajo un nombre común (por ejemplo, \"Subvenciones C1\") y compartirlas con otros \ncompañeros de la sección administrativa?",
+            "opciones": {
+                "A": "Marcadores dinámicos",
+                "B": "Colecciones",
+                "C": "Lista de lectura integrada",
+                "D": "Historial en cascada"
+            }
+        },
+        {
+            "numero_original": 126,
+            "enunciado": "Estás utilizando Microsoft Copilot integrado en Windows 11 para resumir una normativa autonómica \nmuy extensa de 50 páginas en formato PDF. ¿Qué limitación técnica de los modelos de lenguaje (LLM) \ndefine la cantidad máxima de texto que el asistente puede procesar y \"recordar\" de una sola vez en la \nmisma conversación?",
+            "opciones": {
+                "A": "Ventana de contexto (Context Window)",
+                "B": "Tasa de transferencia de datos",
+                "C": "Ancho de banda algorítmico",
+                "D": "Cuota de almacenamiento en la nube"
+            }
+        },
+        {
+            "numero_original": 127,
+            "enunciado": "Trabajando con una Inteligencia Artificial generativa, observas que el asistente inventa con total \nseguridad una fecha de un decreto o un número de boletín oficial inexistente. ¿Con qué término \ntécnico se conoce a este comportamiento erróneo de los modelos de IA?",
+            "opciones": {
+                "A": "Sesgo algorítmico (Bias)",
+                "B": "Alucinación",
+                "C": "Desbordamiento de búfer",
+                "D": "Error de sintaxis semántica"
+            }
+        },
+        {
+            "numero_original": 128,
+            "enunciado": "¿Cuál de las siguientes memorias del ordenador es de solo lectura?",
+            "opciones": {
+                "A": "Memoria CMOS.",
+                "B": "Memoria caché.",
+                "C": "Memoria RAM.",
+                "D": "Memoria ROM."
+            }
+        },
+        {
+            "numero_original": 129,
+            "enunciado": "¿Cuál de los siguientes programas NO es un sistema operativo?",
+            "opciones": {
+                "A": "Windows.",
+                "B": "UNIX.",
+                "C": "Apache.",
+                "D": "Linux."
+            }
+        },
+        {
+            "numero_original": 130,
+            "enunciado": "¿Cuál de estas medidas indica una cantidad menor de información?",
+            "opciones": {
+                "A": "Gigabyte.",
+                "B": "Terabyte.",
+                "C": "Petabyte.",
+                "D": "Megabyte."
+            }
+        },
+        {
+            "numero_original": 131,
+            "enunciado": "¿Cómo se llama una computadora que lleva a cabo funciones de red para otras computadoras?",
+            "opciones": {
+                "A": "Ethernet.",
+                "B": "Concentrador.",
+                "C": "Servidor.",
+                "D": "UNIX."
+            }
+        },
+        {
+            "numero_original": 132,
+            "enunciado": "¿Cuál de los siguientes términos se refiere a una amenaza informática?",
+            "opciones": {
+                "A": "Conmutador.",
+                "B": "OLAP.",
+                "C": "Gusano.",
+                "D": "Monitorización."
+            }
+        }
+    ]
+}

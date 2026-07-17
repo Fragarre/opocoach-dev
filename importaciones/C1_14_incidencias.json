@@ -1,0 +1,140 @@
+{
+  "archivo_origen": "C1_14.pdf",
+  "resumen": {
+    "procesadas": 95,
+    "importadas": 74,
+    "omitidas_error": 0,
+    "duplicadas": 21,
+    "validadas": 48,
+    "a_revisar": 10,
+    "rechazadas": 16
+  },
+  "incidencias": [
+    {
+      "pagina_pdf": 1,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 4110,
+      "enunciado": "¿Cuál de las siguientes aseveraciones no es correcta, de acuerdo con lo establecido en la CE?"
+    },
+    {
+      "pagina_pdf": 7,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2661,
+      "enunciado": "Señale los principios constitucionales que rigen siempre en el acceso de los ciudadanos a la función pública: (AGE 2008)"
+    },
+    {
+      "pagina_pdf": 15,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1652,
+      "enunciado": "Cual de las siguientes no es una función competencia de las personas titulares de las Consellerias:"
+    },
+    {
+      "pagina_pdf": 17,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 4192,
+      "enunciado": "En relación con lo que establece la Ley 5/1983, de 30 de diciembre, del Consell, sobre las funciones de los Consellers o Conselleras, como miembros del Consell y jefes de Departamento:"
+    },
+    {
+      "pagina_pdf": 23,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 4054,
+      "enunciado": "Las medidas previstas en la Ley Orgánica 3/2007:"
+    },
+    {
+      "pagina_pdf": 24,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2594,
+      "enunciado": "En aras de la integración del principio de igualdad en la política de educación, las Administraciones educativas, en el ámbito de sus competencias, en consonancia con lo dispuesto en la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, desarrollarán las siguientes actuaciones:"
+    },
+    {
+      "pagina_pdf": 25,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2854,
+      "enunciado": "En el Título II de esta ley no se regula:"
+    },
+    {
+      "pagina_pdf": 28,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2007,
+      "enunciado": "¿Cuál es el objeto de la Ley 19/2013, de 9 de diciembre, de Transparencia, Acceso a la Información y Buen Gobierno? (Bolsa TAG Ayuntamiento de Ayora 2020)"
+    },
+    {
+      "pagina_pdf": 45,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 4213,
+      "enunciado": "De acuerdo con el artículo 5 de la Ley 40/20 15, de Régimen Jurídico del Sector Público, tendrán la consideración de órganos administrativos: (Ayuntamiento de Castellón 2019)"
+    },
+    {
+      "pagina_pdf": 48,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3438,
+      "enunciado": "El secretario de un órgano colegiado (señale la falsa):"
+    },
+    {
+      "pagina_pdf": 53,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2964,
+      "enunciado": "Cual de las siguientes afirmaciones no es correcta en relación a la concesión de ayudas de forma directa:"
+    },
+    {
+      "pagina_pdf": 54,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1556,
+      "enunciado": "De acuerdo con el art.100 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por presupuesto base de licitación se entenderá:"
+    },
+    {
+      "pagina_pdf": 55,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 887,
+      "enunciado": "Señale la respuesta correcta. Según el artículo 39 de la Ley 9/2017, de 8 de noviembre, de contratos del sector público, en los contratos celebrados por poderes adjudicadores en los que concurra falta de habilitación empresarial o profesional cuando sea exigible para la realización de la actividad o prestación que constituya el objeto del contrato, será causa de:"
+    },
+    {
+      "pagina_pdf": 57,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3036,
+      "enunciado": "La contratación del sector público debe de ajustarse a los siguientes principios: (Bolsa TAG Ayuntamiento de Ayora 2020)"
+    },
+    {
+      "pagina_pdf": 60,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3140,
+      "enunciado": "En los contratos menores de obras, de menos de 5.000€ de valor estimado y pagadero por caja fija, ¿qué NO será obligatorio?"
+    },
+    {
+      "pagina_pdf": 62,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3065,
+      "enunciado": "¿Cuál de las siguientes opciones está contemplada expresamente como parte del acceso a la carpeta ciudadana de la Generalitat, de conformidad con el artículo 17 del Decreto 54/2025, de simplificación administrativa y transformación digital?:"
+    },
+    {
+      "pagina_pdf": 67,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3403,
+      "enunciado": "En relación con los servicios de mensajería instantánea de información administrativa general, indique cuál de las siguientes afirmaciones es verdadera:"
+    },
+    {
+      "pagina_pdf": 68,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 4163,
+      "enunciado": "En virtud del tenor literal del artículo 22 del Decreto 30/2025, señale la respuesta correcta sobre los puntos de asistencia PROP:"
+    },
+    {
+      "pagina_pdf": 77,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3780,
+      "enunciado": "De acuerdo con la Ley 4/2021, de la Función Pública Valenciana, ¿en qué casos podrán quedar desiertas las convocatorias de concursos?"
+    },
+    {
+      "pagina_pdf": 78,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 811,
+      "enunciado": "Señale el enunciado INCORRECTO, de acuerdo con la Ley 4/2021, de 16 de abril, de la Generalitat, de la función pública valenciana, en relación con la dirección pública profesional:"
+    },
+    {
+      "pagina_pdf": 95,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2571,
+      "enunciado": "¿Cuál de las siguientes aseveraciones es verdadera?"
+    }
+  ]
+}

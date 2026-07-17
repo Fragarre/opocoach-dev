@@ -1,0 +1,2383 @@
+{
+  "archivo_origen": "A2_3.pdf",
+  "referencia_origen": "A2_3",
+  "total_paginas_pdf": 100,
+  "pagina_desde": 1,
+  "pagina_hasta": 100,
+  "modelo_extraccion": "gpt-5.4-mini",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "De acuerdo con el artículo 101 de la Constitución Española, el Gobierno cesa:",
+      "opciones": {
+        "A": "Tras la celebración de elecciones generales, en los casos de pérdida de confianza parlamentaria previstos en la Constitución, o por fallecimiento de su Presidente",
+        "B": "Tras la celebración de elecciones generales, en los casos de pérdida de confianza parlamentaria previstos en la Constitución, o por dimisión o fallecimiento de su Presidente",
+        "C": "Tras la celebración de elecciones generales, o por dimisión o fallecimiento de su Presidente",
+        "D": "Tras la celebración de elecciones generales, en los casos de pérdida de confianza parlamentaria previstos en la Constitución, o por dimisión de su Presidente"
+      },
+      "respuesta_correcta": "B",
+      "pie_completo": null,
+      "articulo": "101",
+      "norma": "Constitución Española",
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.98,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "No se distingue con claridad un título o parte normativa en el pie."
+      ],
+      "pagina_pdf": 1,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 4.87,
+      "error_extraccion": null
+    },
+    {
+      "numero": 2,
+      "enunciado": "Los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna por razón de: (Oficial Estabilización C2)",
+      "opciones": {
+        "A": "Nacimiento, raza, sexo, religión o situación económica.",
+        "B": "Nacimiento, raza, sexo, religión o situación económica u opinión.",
+        "C": "Nacimiento, raza, sexo o situación económica.",
+        "D": "Nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social."
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": null,
+      "articulo": "27",
+      "norma": "Constitución Española de 1978",
+      "titulo_o_parte": "Título 1",
+      "confianza_extraccion": 0.96,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "El artículo 27 y la norma se han inferido por el patrón del cuestionario; no constan con seguridad en el pie."
+      ],
+      "pagina_pdf": 2,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 2.36,
+      "error_extraccion": null
+    },
+    {
+      "numero": 3,
+      "enunciado": "Señale cuál de los siguientes enunciados es correcto, de conformidad con lo dispuesto en la CE:",
+      "opciones": {
+        "A": "La CE reconoce y protege el derecho a la producción y creación artística, sin más limitación que el respeto al honor.",
+        "B": "Toda persona detenida ha de ser informada en el plazo de 72 horas de las razones de su detención.",
+        "C": "Los partidos políticos expresan el pluralismo político y la diversidad territorial del Estado Español.",
+        "D": "El ejercicio del derecho de reunión requerirá comunicación previa a la autoridad cuando la reunión se realice en lugares de transito público."
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": null,
+      "articulo": "21",
+      "norma": "Constitución Española de 1978",
+      "titulo_o_parte": "Título 1",
+      "confianza_extraccion": 0.98,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "El artículo se deduce por correspondencia con el contenido, no del pie."
+      ],
+      "pagina_pdf": 3,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 2.86,
+      "error_extraccion": null
+    },
+    {
+      "numero": 1,
+      "enunciado": "Señale la respuesta correcta según lo establecido en la Constitución Española.",
+      "opciones": {
+        "A": "La potestad originaria para establecer los tributos corresponde exclusivamente al Estado, mediante ley orgánica.",
+        "B": "Todo beneficio fiscal que afecte a los tributos del Estado deberá establecerse en virtud de ley orgánica.",
+        "C": "Las Comunidades Autónomas y las Corporaciones locales podrán establecer y exigir tributos, de acuerdo con la Constitución y leyes orgánicas.",
+        "D": "Las administraciones públicas sólo podrán contraer obligaciones financieras y realizar gastos de acuerdo con las leyes."
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.97,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "La opción correcta se infiere por el recuadro resaltado en verde."
+      ],
+      "pagina_pdf": 4,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.61,
+      "error_extraccion": null
+    },
+    {
+      "numero": 5,
+      "enunciado": "¿Cuál de las siguientes aseveraciones es verdadera?",
+      "opciones": {
+        "A": "La iniciativa del proceso autonómico corresponde a todas las Diputaciones interesadas o al órgano interinsular correspondiente y a las 2/3 partes de los municipios cuya población represente, al menos, la mayoría del censo electoral de cada provincia o isla. Estos requisitos deberán ser cumplidos en el plazo de 6 meses desde el primer acuerdo adoptado al respecto por alguna de las Corporaciones locales interesadas.",
+        "B": "La iniciativa del proceso autonómico corresponde a todas las Diputaciones interesadas o al órgano interinsular correspondiente y a las 3/5 partes de los municipios cuya población represente, al menos, la mayoría del censo electoral de cada provincia o isla. Estos requisitos deberán ser cumplidos en el plazo de 6 meses desde el primer acuerdo adoptado al respecto por alguna de las Corporaciones locales interesadas.",
+        "C": "La iniciativa del proceso autonómico corresponde a todas las Diputaciones interesadas o al órgano interinsular correspondiente y a las 2/3 partes de los municipios cuya población represente, al menos, la mayoría del censo electoral de cada provincia o isla. Estos requisitos deberán ser cumplidos en el plazo de 5 meses desde el primer acuerdo adoptado al respecto por alguna de las Corporaciones locales interesadas.",
+        "D": "La iniciativa del proceso autonómico corresponde a todas las Diputaciones interesadas o al órgano interinsular correspondiente y a las 3/5 partes de los municipios cuya población represente, al menos, la mayoría del censo electoral de cada provincia o isla. Estos requisitos deberán ser cumplidos en el plazo de 5 meses desde el primer acuerdo adoptado al respecto por alguna de las Corporaciones locales interesadas."
+      },
+      "respuesta_correcta": "B",
+      "pie_completo": null,
+      "articulo": "27",
+      "norma": "Constitución Española de 1978",
+      "titulo_o_parte": "Título 1",
+      "confianza_extraccion": 0.93,
+      "incidencias": [
+        "No se aprecia pie normativo en la imagen.",
+        "La opción correcta se infiere por el contenido normativo, no por resaltado visible en verde con claridad."
+      ],
+      "pagina_pdf": 5,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 4.82,
+      "error_extraccion": null
+    },
+    {
+      "numero": 1,
+      "enunciado": "El Ministerio Fiscal no podrá interponer: (auxiliar administrativo Torrent)",
+      "opciones": {
+        "A": "El recurso de inconstitucionalidad",
+        "B": "El recurso de amparo",
+        "C": "A y b son correctas",
+        "D": "Todas son falsas"
+      },
+      "respuesta_correcta": "B",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.93,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "La opción correcta se deduce por el recuadro resaltado en verde."
+      ],
+      "pagina_pdf": 6,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.93,
+      "error_extraccion": null
+    },
+    {
+      "numero": 1,
+      "enunciado": "Señale la respuesta incorrecta:",
+      "opciones": {
+        "A": "La Constitución atribuye al legislador estatal competencia exclusiva en materia de Hacienda General.",
+        "B": "La Constitución atribuye al legislador estatal competencia exclusiva en materia de Deuda del Estado.",
+        "C": "El legislador estatal tiene atribuida la potestad originaria para establecer tributos mediante ley.",
+        "D": "El legislador estatal tiene competencia para regular a través de ley ordinaria el ejercicio de las competencias financieras de las Comunidades Autónomas."
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.96,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "El artículo, la norma y el título no pueden extraerse con seguridad del pie."
+      ],
+      "pagina_pdf": 7,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.78,
+      "error_extraccion": null
+    },
+    {
+      "numero": 1,
+      "enunciado": "¿Cuál es la respuesta correcta respecto al orden de sucesión a la Corona de España según la Constitución Española de 1978?",
+      "opciones": {
+        "A": "Primogenitura con preferencia de la línea posterior a la anterior.",
+        "B": "Primogenitura con preferencia de la persona de menor edad.",
+        "C": "Primogenitura con preferencia del varón sobre la mujer.",
+        "D": "Sucesión determinada por el Consejo de Ministros."
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.96,
+      "incidencias": [
+        "No se aprecia pie normativo legible en la imagen.",
+        "El recuadro verde de respuesta correcta no es claramente visible, aunque por el contenido de la pregunta la opción C parece ser la marcada."
+      ],
+      "pagina_pdf": 8,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 3.05,
+      "error_extraccion": null
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Sobre qué art. de la Constitución española se fundamenta en trámite de audiencia?",
+      "opciones": {
+        "A": "El art. 103.1.",
+        "B": "El art. 103.3.",
+        "C": "El art. 105.",
+        "D": "Ninguna de las anteriores."
+      },
+      "respuesta_correcta": null,
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.86,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "No se distingue con seguridad ninguna opción resaltada en verde."
+      ],
+      "pagina_pdf": 9,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.74,
+      "error_extraccion": null
+    },
+    {
+      "numero": 10,
+      "enunciado": "Señale cuál de los siguientes enunciados es correcto, de acuerdo con la Constitución Española de 1978:",
+      "opciones": {
+        "A": "La Diputación Permanente del Senado está compuesta por un mínimo de veinte miembros",
+        "B": "Los miembros del Consejo General del Poder Judicial son nombrados por un periodo de cuatro años",
+        "C": "La legislación sobre productos farmacéuticos es competencia exclusiva del Estado",
+        "D": "Aprobada una reforma del Título Preliminar de la Constitución por las Cortes Generales, solo será sometida a referéndum para su ratificación si lo solicita una décima parte de los miembros de cualquiera de las Cámaras"
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.93,
+      "incidencias": [
+        "No se aprecia pie normativo en la imagen, por lo que norma, artículo y título no pueden extraerse con seguridad."
+      ],
+      "pagina_pdf": 10,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.59,
+      "error_extraccion": null
+    },
+    {
+      "numero": 11,
+      "enunciado": "Según el artículo 8 de la Constitución española de 1978 ¿a quién le corresponde la defensa del orden constitucional?",
+      "opciones": {
+        "A": "Al Tribunal Constitucional.",
+        "B": "A las Fuerzas Armadas.",
+        "C": "A las Cortes Generales.",
+        "D": "Al Gobierno y a las Cortes Generales"
+      },
+      "respuesta_correcta": "B",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.98,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "La opción correcta se deduce por el recuadro resaltado en verde."
+      ],
+      "pagina_pdf": 11,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.26,
+      "error_extraccion": null
+    },
+    {
+      "numero": 12,
+      "enunciado": "¿Puede el Senado oponer su veto al proyecto de ley remitido por el Congreso de los Diputados?: (Aux.Adtivo.AGE 2001)",
+      "opciones": {
+        "A": "Sí, por mayoría absoluta",
+        "B": "Sí, en el plazo de tres meses desde la recepción del texto",
+        "C": "No, puesto que únicamente cabe la introducción de enmiendas",
+        "D": "Sí, por mayoría simple"
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.96,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "La opción resaltada en verde no se distingue con total certeza, aunque parece ser la D."
+      ],
+      "pagina_pdf": 12,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.43,
+      "error_extraccion": null
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Cuál de las siguientes aseveraciones es verdadera?:",
+      "opciones": {
+        "A": "Las Comunidades Autónomas designarán, además, un Senador y dos más por cada millón de habitantes de su respectivo territorio",
+        "B": "Las Comunidades Autónomas designarán, además, un Senador y otro más por cada millón de habitantes de su respectivo territorio",
+        "C": "Las Comunidades Autónomas designarán, además, dos Senadores y otro más por cada millón de habitantes de su respectivo territorio",
+        "D": "Ninguna de las anteriores"
+      },
+      "respuesta_correcta": "B",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.94,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "La numeración mostrada es 13, no 1."
+      ],
+      "pagina_pdf": 13,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.46,
+      "error_extraccion": null
+    },
+    {
+      "numero": 14,
+      "enunciado": "¿Cuál de las siguientes no es una competencia exclusiva de la Generalitat, de acuerdo con el artículo 49 del Estatuto de Autonomía de la Comunitat Valenciana?",
+      "opciones": {
+        "A": "Cultura",
+        "B": "Pesca en aguas interiores, marisqueo, acuicultura, caza y pesca fluvial y lacustre. Cofradías de pescadores",
+        "C": "Servicios Sociales",
+        "D": "Régimen minero y energético"
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.97,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "El número de pregunta aparece como 14 en la imagen."
+      ],
+      "pagina_pdf": 14,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.56,
+      "error_extraccion": null
+    },
+    {
+      "numero": 15,
+      "enunciado": "¿Cuál de las siguientes aseveraciones es verdadera?:",
+      "opciones": {
+        "A": "Según el Estatuto, mediante Ley del Estado se creará el Comité Valenciano para los Asuntos Europeos, órgano de carácter consultivo, encargado de asesorar y realizar estudios y propuestas para mejorar la participación en las cuestiones europeas y planteen acciones estratégicas de la Comunitat Valenciana",
+        "B": "Según el Estatuto, mediante Ley orgánica se creará el Comité Valenciano para los Asuntos Europeos, órgano de carácter consultivo, encargado de asesorar y realizar estudios y propuestas para mejorar la participación en las cuestiones europeas y plantear acciones estratégicas de la Comunitat Valenciana",
+        "C": "Según el Estatuto, una Ley creará el Comité Valenciano para los Asuntos Europeos, órgano de carácter consultivo, encargado de asesorar y realizar estudios y propuestas para mejorar la participación en las cuestiones europeas y plantear acciones estratégicas de la Comunitat Valenciana",
+        "D": "Ninguna de las anteriores"
+      },
+      "respuesta_correcta": null,
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.9,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "No se distingue con seguridad ningún recuadro resaltado en verde para determinar la respuesta correcta."
+      ],
+      "pagina_pdf": 15,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 3.68,
+      "error_extraccion": null
+    },
+    {
+      "numero": 1,
+      "enunciado": "Es de competencia exclusiva de la Generalitat la regulación y administración de la enseñanza en toda su extensión, niveles y grados, modalidades y especialidades:",
+      "opciones": {
+        "A": "Sin perjuicio de lo que disponen el artículo 23 de la Constitución Española y las Leyes Orgánicas que, de acuerdo con el apartado 1 del artículo 81 de aquélla, lo desarrollan, de las facultades que atribuye al Estado el número 27 del apartado 1 del artículo 149 de la Constitución Española, y de la alta inspección necesaria para su cumplimiento y garantía.",
+        "B": "Sin perjuicio de lo que disponen el artículo 30 de la Constitución Española y las Leyes Orgánicas que, de acuerdo con el apartado 1 del artículo 81 de aquélla, lo desarrollan, de las facultades que atribuye al Estado el número 27 del apartado 1 del artículo 149 de la Constitución Española, y de la alta inspección necesaria para su cumplimiento y garantía.",
+        "C": "Sin perjuicio de lo que disponen el artículo 27 de la Constitución Española y las Leyes Orgánicas que, de acuerdo con el apartado 1 del artículo 81 de aquélla, lo desarrollan, de las facultades que atribuye al Estado el número 30 del apartado 1 del artículo 149 de la Constitución Española, y de la alta inspección necesaria para su cumplimiento y garantía.",
+        "D": "Ninguna de las anteriores."
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.9,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "La respuesta correcta se infiere por el recuadro resaltado en verde."
+      ],
+      "pagina_pdf": 16,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 4.53,
+      "error_extraccion": null
+    },
+    {
+      "numero": 17,
+      "enunciado": "Se cede a la Comunitat Valenciana el rendimiento de los siguientes tributos:",
+      "opciones": {
+        "A": "Impuesto sobre Hidrocarburos.",
+        "B": "Impuesto Especial sobre la Cerveza y Bebidas Fermentadas, con carácter parcial, en el porcentaje del 58 por ciento",
+        "C": "Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos, con carácter parcial, en el porcentaje del 58 por ciento.",
+        "D": "Ninguna de las anteriores."
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.93,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "La opción C aparece resaltada en verde."
+      ],
+      "pagina_pdf": 17,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 6.29,
+      "error_extraccion": null
+    },
+    {
+      "numero": 1,
+      "enunciado": "La Comunitat Valenciana tiene como objetivo la consecución del autogobierno en los términos de este Estatuto, reforzar la democracia y garantizar la participación de todos los ciudadanos:",
+      "opciones": {
+        "A": "En la realización de sus objetivos.",
+        "B": "En la realización de sus intereses.",
+        "C": "En la realización de sus fines.",
+        "D": "Ninguna de las anteriores."
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.96,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen."
+      ],
+      "pagina_pdf": 18,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 1.82,
+      "error_extraccion": null
+    },
+    {
+      "numero": 1,
+      "enunciado": "¿Cuántos capítulos comprende el Título III?",
+      "opciones": {
+        "A": "IV Capítulos.",
+        "B": "VII Capítulos.",
+        "C": "V Capítulos.",
+        "D": "VIII Capítulos."
+      },
+      "respuesta_correcta": null,
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": "Título 1",
+      "confianza_extraccion": 0.86,
+      "incidencias": [
+        "No se aprecia pie normativo en la imagen.",
+        "No hay un recuadro claramente resaltado en verde para identificar la respuesta correcta."
+      ],
+      "pagina_pdf": 19,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.97,
+      "error_extraccion": null
+    },
+    {
+      "numero": 20,
+      "enunciado": "Según el Estatuto de Autonomía de la Comunitat Valenciana, gozan de la condición política de valenciano: (Auxiliar Administrativo Torrent)",
+      "opciones": {
+        "A": "Todos los ciudadanos españoles que tengan o adquieran vecindad administrativa en cualquiera de los municipios de la Comunitat Valenciana",
+        "B": "Únicamente los nacidos en la Comunitat Valenciana",
+        "C": "Todos los ciudadanos españoles mayores de edad que tengan o adquieran la vecindad administrativa en cualquiera de los municipios de la Comunitat Valenciana",
+        "D": "Los nacidos en la Comunitat Valenciana y sus descendientes"
+      },
+      "respuesta_correcta": "A",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.97,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen."
+      ],
+      "pagina_pdf": 20,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.38,
+      "error_extraccion": null
+    },
+    {
+      "numero": 21,
+      "enunciado": "De conformidad con la ley 1/1987, de 31 de marzo, Electoral Valenciana, la convocatoria de elecciones a las Cortes Valencianas se realizará mediante (marcar la opción correcta):",
+      "opciones": {
+        "A": "Decreto del Consell firmado por el president de la Generalitat, que será publicado en el Diari Oficial de la Generalitat Valenciana, entrando en vigor el día siguiente de su publicación",
+        "B": "Decreto del president de la Generalitat, que será publicado en el Diari Oficial de la Generalitat Valenciana, entrando en vigor el día de su publicación",
+        "C": "Decreto del Consell firmado por el president de la Generalitat, que será publicado en el Diari Oficial de la Generalitat Valenciana, entrando en vigor el día de su publicación",
+        "D": "Decreto del president de la Generalitat, previa consulta al Consell1 que será publicado en el Diari Oficial de la Generalitat Valenciana, entrando en vigor el día siguiente de su publicación"
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.95,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "En la opción D aparece un posible error OCR en 'Consell1'."
+      ],
+      "pagina_pdf": 21,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 3.43,
+      "error_extraccion": null
+    },
+    {
+      "numero": 22,
+      "enunciado": "Según lo dispuesto en los artículos 77 y 78 de la Ley 5/1983, del Consell, indique la respuesta correcta:",
+      "opciones": {
+        "A": "La responsabilidad penal y civil del President de la Generalitat y de los miembros del Consell se exigirá ante el Tribunal Superior de Justicia de la Comunitat Valenciana o, en su caso, ante la Audiencia Nacional",
+        "B": "La responsabilidad penal y civil del President de la Generalitat y de los miembros del Consell se exigirá ante el Tribunal Superior de Justicia de la Comunitat Valenciana o, en su caso, ante el Tribunal Supremo",
+        "C": "Las responsabilidades de orden penal y Civil de las autoridades y funcionarios de la Generalitat serán exigidas de acuerdo con lo previsto en las disposiciones generales del Estado en la materia, con la salvedad de que las referencias al Tribunal Superior de Justicia Valenciano se entenderán hechas al Tribunal Supremo",
+        "D": "Las responsabilidades de orden penal y civil de las autoridades y funcionarios de la Generalitat serán exigidas de acuerdo con lo previsto en las disposiciones generales del Estado en la materia, con la salvedad de que las referencias a la Jurisdicción Contencioso- Administrativa se entenderán hechas al Tribunal Superior de Justicia Valenciano"
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.93,
+      "incidencias": [
+        "No se aprecia pie normativo en la imagen.",
+        "La opción correcta aparece resaltada en verde en la opción D."
+      ],
+      "pagina_pdf": 22,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 3.1,
+      "error_extraccion": null
+    },
+    {
+      "numero": 23,
+      "enunciado": "Según la Ley 5/1983, de 30 de diciembre, del Consell, en uso de sus funciones ejecutivas y administrativas, compete al Consell.\nSeñale la respuesta correcta: (Oficial Estabilización C2)",
+      "opciones": {
+        "A": "El ejercicio de las facultades que el Estatuto de Autonomía o Ley de Les Corts le atribuya en lo que se refiere a la actividad de las Diputaciones Provinciales y demás entes locales.",
+        "B": "Ejercer la potestad reglamentaria, de acuerdo con la Constitución Española, el Estatut d’Autonomia de la Comunitat Valenciana y las Leyes.",
+        "C": "Proponer a Les Corts la creación de personas jurídicas públicas y privadas o, en su caso, crearlas, para el ejercicio de competencias de la Generalitat.",
+        "D": "Acordar la comparecencia y personación en los recursos y en las cuestiones de inconstitucionalidad que afecten a la Comunitat Valenciana."
+      },
+      "respuesta_correcta": "B",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.96,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen."
+      ],
+      "pagina_pdf": 23,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.8,
+      "error_extraccion": null
+    },
+    {
+      "numero": 24,
+      "enunciado": "Según la Ley 5/1983, de 30 de diciembre, del Consell, Les Corts podrán delegar en el Consell la potestad de dictar normas con rango de Ley, denominadas Decretos Legislativos, con la excepción de:",
+      "opciones": {
+        "A": "Las que no afecten al desarrollo de los derechos fundamentales y de las libertades públicas",
+        "B": "Las que no afecten al ordenamiento institucional básico de la Comunitat Valenciana o al régimen jurídico de su Administración Pública",
+        "C": "Las que no afecten al régimen electoral",
+        "D": "Las que afecten al desarrollo de los derechos fundamentales y de las libertades públicas"
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.97,
+      "incidencias": [
+        "No se aprecia pie normativo en la imagen.",
+        "El número visible de la pregunta es 24, no 1."
+      ],
+      "pagina_pdf": 24,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 8.26,
+      "error_extraccion": null
+    },
+    {
+      "numero": 25,
+      "enunciado": "Según el artículo 17 de la Lay 5/1983 del Consell, en uso de las funciones administrativas compete al Consell:",
+      "opciones": {
+        "A": "La planificación y desarrollo de la política Valenciana.",
+        "B": "Proponer a Les Corts la creación de personas jurídicas públicas y privadas, o en su caso crearlas para el ejercicio de competencias de la Generalitat.",
+        "C": "Proponer a Les Corts la reforma del Estatut d'Autonomia de la Comunitat Valenciana.",
+        "D": "Ejercer la potestad reglamentaria, de acuerdo con la Constitución Española, el Estatut d'Autonomia de la Comunitat Valenciana y las Leyes."
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": null,
+      "articulo": "17",
+      "norma": "Ley 5/1983 del Consell",
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.98,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "Se transcribe 'Lay' tal como aparece en el enunciado."
+      ],
+      "pagina_pdf": 25,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 2.92,
+      "error_extraccion": null
+    },
+    {
+      "numero": 26,
+      "enunciado": "Indique la opción incorrecta. La delegación legislativa por parte de Les Corts al Consell, tendrá sus límites:",
+      "opciones": {
+        "A": "Las que requieran de unanimidad para su aprobación.",
+        "B": "Cuando las leyes vayan a afectar al régimen jurídico de su Administración Pública.",
+        "C": "Cuando las leyes afecten al desarrollo de los derechos fundamentales las libertades públicas.",
+        "D": "Cuando las leyes vayan a afectar al ordenamiento institucional básico de la Comunitat Valenciana."
+      },
+      "respuesta_correcta": "A",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.9,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "El número de pregunta visible es 26, no 1."
+      ],
+      "pagina_pdf": 26,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.23,
+      "error_extraccion": null
+    },
+    {
+      "numero": 27,
+      "enunciado": "De acuerdo con el artículo 43.3 de la Ley 5/1983, de 30 de diciembre, de Gobierno Valenciano, las disposiciones de carácter general entrarán en vigor:",
+      "opciones": {
+        "A": "El mismo día de su publicación en el Diario Oficial de la Comunitat Valenciana, salvo que en las mismas se disponga otra cosa.",
+        "B": "El día siguiente al de su publicación en el Diario Oficial de la Comunitat Valenciana, salvo que en las mismas se disponga otra cosa.",
+        "C": "A los diez días de su publicación en el Diario Oficial de la Comunitat Valenciana, salvo que en las mismas se disponga otra cosa.",
+        "D": "A los quince días de su publicación en el Diario Oficial de la Comunitat Valenciana, salvo que en las mismas se disponga otra cosa."
+      },
+      "respuesta_correcta": null,
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.92,
+      "incidencias": [
+        "No se aprecia pie normativo en la imagen.",
+        "No se distingue con seguridad ninguna opción resaltada en verde."
+      ],
+      "pagina_pdf": 27,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.66,
+      "error_extraccion": null
+    },
+    {
+      "numero": 28,
+      "enunciado": "Según la Ley 5/1983, de 30 de diciembre, del Consell, el President electo comenzará a ejercer sus funciones:",
+      "opciones": {
+        "A": "A partir del día de la publicación en el Diari Oficial de la Generalitat Valenciana de su nombramiento por el Rey",
+        "B": "A partir del día siguiente de la publicación en el Diari Oficial de la Generalitat Valenciana de su nombramiento por el Rey",
+        "C": "A partir del día de la publicación en el Boletín Oficial del Estado de su nombramiento por el Rey",
+        "D": "A partir del día siguiente de la publicación en el Boletín Oficial del Estado de su nombramiento por el Rey"
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.96,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "El número de pregunta visible es 28, no 1."
+      ],
+      "pagina_pdf": 28,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 3.04,
+      "error_extraccion": null
+    },
+    {
+      "numero": 29,
+      "enunciado": "Señale la respuesta correcta, respecto del estatuto jurídico del adjunto y la adjunta del Síndic de Greuges:",
+      "opciones": {
+        "A": "La toma de posesión tendrá lugar ante la Mesa de las Corts Valencianes",
+        "B": "Cuando el síndico o síndica de Greuges ejerza la potestad de cesar al adjunto o adjunta, comparecerá, en el plazo máximo de treinta días, ante la comisión de las Corts Valencianes encargada de las relaciones con el síndico o síndica de Greuges.",
+        "C": "En caso de cese del adjunto o la adjunta, por negligencia en el cumplimiento de los deberes inherentes al cargo la decisión se ratificará con el voto de las tres quintas partes de las diputadas y diputados de la comisión.",
+        "D": "Cuando en un adjunto o en una adjunta concurra alguna de las causas de suspensión potestativa, y el Síndic de Greuges ejerza dicha potestad, no tendrá la obligación de informar a la comisión de las Corts Valencianes encargada de las relaciones con el Síndic de Greuges."
+      },
+      "respuesta_correcta": "B",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.95,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen, por lo que no es posible extraer norma, artículo ni título con seguridad."
+      ],
+      "pagina_pdf": 29,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 3.08,
+      "error_extraccion": null
+    },
+    {
+      "numero": 30,
+      "enunciado": "Sobre la elección del Síndic@ mayor, es cierto que",
+      "opciones": {
+        "A": "De entre los síndicos o síndicas electos, Les Corts elegirán un síndico o síndica mayor para un período de seis años, no renovable",
+        "B": "De entre los síndicos o síndicas electos, Les Corts elegirán un síndico o síndica mayor para un período de cinco años, no renovable",
+        "C": "De entre los síndicos o síndicas electos, Les Corts elegirán un síndico o síndica mayor para un período de seis años, renovable por un período de igual duración",
+        "D": "De entre los síndicos o síndicas electos, Les Corts elegirán un síndico o síndica mayor para un período de cinco años, renovable por un período de igual duración"
+      },
+      "respuesta_correcta": null,
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.84,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "No se distingue con seguridad ningún recuadro resaltado en verde para determinar la respuesta correcta."
+      ],
+      "pagina_pdf": 30,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.69,
+      "error_extraccion": null
+    },
+    {
+      "numero": 31,
+      "enunciado": "La periodicidad del régimen de sesiones ordinarias del pleno del Consejo Valenciano de Cultura será, como mínimo:",
+      "opciones": {
+        "A": "Semanal.",
+        "B": "Mensual.",
+        "C": "Semestral.",
+        "D": "Ninguna de las anteriores."
+      },
+      "respuesta_correcta": null,
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.96,
+      "incidencias": [
+        "No se aprecia pie normativo en la imagen.",
+        "No se distingue con seguridad ninguna opción resaltada en verde."
+      ],
+      "pagina_pdf": 31,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 1.84,
+      "error_extraccion": null
+    },
+    {
+      "numero": 1,
+      "enunciado": "Una vez elegidos, los Académicos de la AVL, serán nombrados:",
+      "opciones": {
+        "A": "Por Decreto del Consell y tomarán posesión de su cargo en acto público.",
+        "B": "Por Decreto del President de la Generalitat, y tomarán posesión de su cargo en acto público.",
+        "C": "Por Acuerdo del Consell y tomarán posesión de su cargo en acto público.",
+        "D": "Ninguna es correcta."
+      },
+      "respuesta_correcta": null,
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.93,
+      "incidencias": [
+        "No se aprecia ningún recuadro resaltado en verde en la imagen.",
+        "No aparece pie normativo visible en la parte inferior."
+      ],
+      "pagina_pdf": 32,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.16,
+      "error_extraccion": null
+    },
+    {
+      "numero": 33,
+      "enunciado": "El Comité Econòmic i Social podrà exercir labors de promoció, assessoramiento y consulta sobre las siguientes materias",
+      "opciones": {
+        "A": "Programas económicos del Consell.",
+        "B": "Programas de los fondos estructurales de la Unión Europea con incidencia en el desarrollo económico y social valenciano",
+        "C": "Medio ambiente",
+        "D": "El Comité Econòmic i Social podrà ejercer labores de promoción, asesoramiento y consulta sobre todas las anteriores materias"
+      },
+      "respuesta_correcta": null,
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.62,
+      "incidencias": [
+        "No se aprecia el pie normativo en la imagen proporcionada.",
+        "No se distingue con seguridad ningún recuadro resaltado en verde."
+      ],
+      "pagina_pdf": 33,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.22,
+      "error_extraccion": null
+    },
+    {
+      "numero": 34,
+      "enunciado": "En el Estatuto de Autonomía de la Comunitat Valenciana se configura al Consell Jurídic Consultiu como:",
+      "opciones": {
+        "A": "El órgano consultivo supremo de Les Corts en materia jurídica.",
+        "B": "El órgano consultivo supremo de las instituciones públicas de la Comunitat Valenciana en materia jurídica y económica.",
+        "C": "El órgano consultivo supremo de la Administración Autonómica y de las administraciones locales de la Comunitat Valenciana en materia jurídica y económica.",
+        "D": "El órgano consultivo supremo del Consell, de la Administración Autonómica y, en su caso, de las administraciones locales de la Comunitat Valenciana en materia jurídica."
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.98,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen."
+      ],
+      "pagina_pdf": 34,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.9,
+      "error_extraccion": null
+    },
+    {
+      "numero": 35,
+      "enunciado": "Señale la respuesta correcta. Conforme al principio de cooperación leal contenido en el Tratado de la Unión Europea:",
+      "opciones": {
+        "A": "Los estados miembros cooperarán entre sí en los ámbitos fuera de la competencia de las instituciones europeas.",
+        "B": "Los estados miembros se abstendrán de toda acción que pueda poner en peligro la consecución de los objetivos de la Unión.",
+        "C": "La Unión y los estados miembros respetarán y asistirán al Consejo de Europa en el cumplimiento de sus fines.",
+        "D": "Los estados miembros están obligados a prestarse ayuda mutua en caso de agresión."
+      },
+      "respuesta_correcta": "B",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.93,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "El enunciado hace referencia al Tratado de la Unión Europea, pero no aparece artículo ni norma en el pie."
+      ],
+      "pagina_pdf": 35,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.2,
+      "error_extraccion": null
+    },
+    {
+      "numero": 36,
+      "enunciado": "El IVA es un impuesto armonizado a nivel europeo regulado en la Directiva 2006/112/CE del Consejo, lo que implica que:",
+      "opciones": {
+        "A": "Lo establecido en la Directiva es directamente aplicable en todos los Estados miembros y obliga en todos sus elementos, tanto en el fin como en los medios.",
+        "B": "Lo establecido en la Directiva no es vinculante, actúa sólo como recomendación para los Estados miembros.",
+        "C": "Lo establecido en la Directiva es vinculante pero requiere una transposición en cada Estado miembro a través de una norma nacional que adapte lo recogido en la norma europea a las particularidades de cada país.",
+        "D": "En caso de conflicto, cualquier norma nacional con rango de Ley prevalece sobre la Directiva en virtud del principio de supremacía."
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.98,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "La opción correcta se infiere por el recuadro resaltado en verde."
+      ],
+      "pagina_pdf": 36,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 4.37,
+      "error_extraccion": null
+    },
+    {
+      "numero": 37,
+      "enunciado": "Señale la alternativa correcta. De conformidad con lo dispuesto en el Tratado de Funcionamiento de la Unión Europea:",
+      "opciones": {
+        "A": "Quedarán prohibidos entre los Estados miembros los derechos de aduana de importación y exportación o exacciones de efecto equivalente. Esta prohibición no se aplicará respecto a los derechos de aduana de carácter fiscal.",
+        "B": "Los Estados miembros adecuarán los monopolios nacionales de carácter comercial de tal modo que quede asegurada la exclusión de toda discriminación entre los nacionales de los Estados miembros respecto de las condiciones de abastecimiento y de mercado.",
+        "C": "La Comisión, a propuesta del Consejo, fijará los derechos del arancel aduanero común.",
+        "D": "Dentro del ámbito de aplicación de los Tratados, el Parlamento Europeo y el Consejo, con arreglo al procedimiento legislativo especial, adoptarán medidas destinadas a fortalecer la cooperación aduanera entre los Estados miembros y entre éstos y la Comisión."
+      },
+      "respuesta_correcta": "B",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": "Tratado de Funcionamiento de la Unión Europea",
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.92,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "La respuesta correcta se infiere por el recuadro resaltado en verde en la opción B."
+      ],
+      "pagina_pdf": 37,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 3.5,
+      "error_extraccion": null
+    },
+    {
+      "numero": 38,
+      "enunciado": "Indica la respuesta correcta con respecto a los Reglamentos del Parlamento Europeo y del Consejo:",
+      "opciones": {
+        "A": "No tendrá un alcance general. Solo obligará al Estado miembro destinatario en cuanto al resultado que deba conseguirse",
+        "B": "Tendrá un alcance general, siendo obligatorio en todos sus elementos, pero no será directamente aplicable en cada Estado miembro",
+        "C": "No tendrá un alcance general. Solo será obligatorio en alguno de sus elementos y no será directamente aplicable en cada Estado miembro",
+        "D": "Tendrá un alcance general. Será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro"
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.95,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen."
+      ],
+      "pagina_pdf": 38,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.63,
+      "error_extraccion": null
+    },
+    {
+      "numero": 39,
+      "enunciado": "De conformidad con el artículo 77 del Tratado de Funcionamiento de la Unión Europea, el objetivo de las políticas sobre controles en las fronteras, asilo e inmigración será:",
+      "opciones": {
+        "A": "Garantizar la ausencia total de controles de las personas, sea cual sea su nacionalidad, cuando crucen las fronteras exteriores",
+        "B": "Garantizar los controles de las personas y la vigilancia eficaz en el cruce de las fronteras interiores.",
+        "C": "Garantizar los controles de las personas y la vigilancia eficaz en el cruce de las fronteras exteriores.",
+        "D": "Instaurar progresivamente un sistema integrado de gestión de las fronteras interiores."
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.98,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen."
+      ],
+      "pagina_pdf": 39,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.36,
+      "error_extraccion": null
+    },
+    {
+      "numero": 40,
+      "enunciado": "Señale cuál de los siguientes enunciados es CORRECTO, de conformidad con lo dispuesto en el Tratado de Funcionamiento de la Unión Europea:",
+      "opciones": {
+        "A": "Los actos legislativos adoptados con arreglo al procedimiento legislativo ordinario serán firma dos por el Presidente del Parlamento Europeo y por el Presidente de la Comisión Europea",
+        "B": "Los actos legislativos adoptados con arreglo a un procedimiento legislativo especial serán fir mados por el Presidente del Parlamento Europeo y por el Presidente de la Comisión Europea",
+        "C": "Los reglamentos, las directivas que tengan por destinatarios a todos los Estados miembros, así como las decisiones que no indiquen destinatario, se publicarán en el Diario Oficial de la Unión Europea. Entrarán en vigor, en todo caso, a los veinte días de su publicación",
+        "D": "Las decisiones que indiquen un destinatario, se notificarán a sus destinatarios y surtirán efecto en virtud de dicha notificación"
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.91,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "La opción D coincide con la redacción del TFUE sobre notificación de decisiones con destinatario.",
+        "En A y B se observan cortes/espacios en algunas palabras por la calidad de la imagen, transcritos literalmente."
+      ],
+      "pagina_pdf": 40,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 3.59,
+      "error_extraccion": null
+    },
+    {
+      "numero": 41,
+      "enunciado": "La financiación de las distintas medidas a que se extiende la Política Agrícola Común (PAC) se efectúa mediante:",
+      "opciones": {
+        "A": "El Fondo Europeo de Orientación y de Garantía Agrícola (FEOGA)",
+        "B": "El programa Leader en lo que se refiere al desarrollo rural.",
+        "C": "El Fondo Europeo Agrícola de Garantía (FEAGA) y el Fondo Europeo Agrícola de Desarrollo Rural(FEADER).",
+        "D": "Las contribuciones de los Estados miembros a los fondos FEOGA, FEAGA y FEADER."
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.98,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen."
+      ],
+      "pagina_pdf": 41,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.37,
+      "error_extraccion": null
+    },
+    {
+      "numero": 1,
+      "enunciado": "En aquellos procedimientos en los que las alegaciones de la parte actora se fundamenten en actuaciones discriminatorias, por razón de sexo:",
+      "opciones": {
+        "A": "Corresponderá a la persona demandante probar la ausencia de discriminación en las medidas adoptadas y su proporcionalidad. Esto no será de aplicación a los procesos penales.",
+        "B": "Corresponderá a la persona demandada probar la ausencia de discriminación en las medidas adoptadas y su proporcionalidad. Esto no será de aplicación a los procesos penales.",
+        "C": "Corresponderá a la persona demandada probar la ausencia de discriminación en las medidas adoptadas y su proporcionalidad. Esto también será de aplicación a los procesos penales.",
+        "D": "Corresponderá a la persona demandante probar la ausencia de discriminación en las medidas adoptadas y su proporcionalidad. Esto también será de aplicación a los procesos penales."
+      },
+      "respuesta_correcta": "B",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.97,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen."
+      ],
+      "pagina_pdf": 42,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 6.47,
+      "error_extraccion": null
+    },
+    {
+      "numero": 43,
+      "enunciado": "En relación al seguimiento e información sobre las actuaciones en materia de violencia contra las mujeres, el Gobierno remitirá a las Cortes Valenciana un informe, al menos con carácter:",
+      "opciones": {
+        "A": "Semanal.",
+        "B": "Mensual.",
+        "C": "Anual.",
+        "D": "Periódico."
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.94,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "Se ha transcrito 'Cortes Valenciana' tal como aparece en el enunciado, aunque podría contener un error de redacción."
+      ],
+      "pagina_pdf": 43,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.92,
+      "error_extraccion": null
+    },
+    {
+      "numero": 44,
+      "enunciado": "Señale cuál de los siguientes enunciados es correcto, de acuerdo con la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género:",
+      "opciones": {
+        "A": "La trabajadora víctima de violencia de género tendrá derecho, en los términos previstos en el Estatuto de los Trabajadores, a la reducción o a la reordenación de su tiempo de trabajo, a la movilidad funcional, al cambio de centro de trabajo, a la suspensión de la relación laboral con reserva de puesto de trabajo y a la extinción del contrato de trabajo",
+        "B": "Corresponde a la Delegación Especial del Gobierno contra la Violencia sobre la Mujer el asesoramiento, evaluación, colaboración institucional, elaboración de informes y estudios, y propuestas de actuación en materia de violencia de género",
+        "C": "La Educación Infantil contribuirá a desarrollar en la infancia su capacidad para adquirir habilidades en la resolución pacífica de conflictos",
+        "D": "La violencia de género también comprende la violencia que con el objetivo de causar perjuicio o daño a las mujeres se ejerza sobre sus familiares o allegados menores de edad por parte de quienes sean o hayan sido sus cónyuges o de quienes estén o hayan estado ligados a ellas por relaciones similares de afectividad, aun sin convivencia"
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": "Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género",
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.96,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "La opción correcta parece ser la D por el resaltado en verde."
+      ],
+      "pagina_pdf": 44,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 4.63,
+      "error_extraccion": null
+    },
+    {
+      "numero": 45,
+      "enunciado": "Indique la respuesta correcta conforme la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.",
+      "opciones": {
+        "A": "Sólo podrán ser sancionadas por hechos constitutivos de infracción administrativa las personas físicas y jurídicas, así como, cuando una Ley les reconozca capacidad de obrar, los grupos de afectados, las uniones y entidades con personalidad jurídica y los patrimonios independientes o autónomos, que resulten responsables de los mismos a título de dolo y culpa.",
+        "B": "Las normas reguladoras de los distintos regímenes sancionadores podrán tipificar como infracción el incumplimiento de la obligación de prevenir la comisión de infracciones administrativas por quienes se hallen sujetos a una relación de dependencia o vinculación.",
+        "C": "Las leyes reguladoras de los regímenes sancionadores podrán prever los supuestos en que determinadas personas responderán del pago de las sanciones pecuniarias impuestas a quienes de ellas dependan o estén vinculadas.",
+        "D": "Ninguna es correcta."
+      },
+      "respuesta_correcta": "A",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.91,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "La respuesta correcta se infiere por el recuadro resaltado en verde."
+      ],
+      "pagina_pdf": 45,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 6.16,
+      "error_extraccion": null
+    },
+    {
+      "numero": 46,
+      "enunciado": "De conformidad con el artículo 63 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas ¿Cuándo se considerará que un órgano es competente para iniciar un procedimiento de naturaleza sancionadora?",
+      "opciones": {
+        "A": "Cuando la fase instructora recaiga en un órgano distinto",
+        "B": "Cuando la fase resolutoria recaiga en un órgano distinto",
+        "C": "Cuando así lo determinen las normas reguladoras del mismo",
+        "D": "Cuando tenga atribuidas las funciones de inspección, averiguación o investigación"
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": null,
+      "articulo": "63",
+      "norma": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.98,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen."
+      ],
+      "pagina_pdf": 46,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 3.17,
+      "error_extraccion": null
+    },
+    {
+      "numero": 1,
+      "enunciado": "De conformidad con lo dispuesto la ley de Procedimiento Administrativo Común, la Administración, cabrá la convalidación de los actos administrativos subsanándose los vicios de que estos adolezcan cuando sean: (Bolsa auxiliar administrativo Ayuntamiento de Moncófar 2016)",
+      "opciones": {
+        "A": "Nulos",
+        "B": "Anulables",
+        "C": "Tanto para los nulos como para los anulables.",
+        "D": "Ninguna respuesta es correcta"
+      },
+      "respuesta_correcta": "B",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.95,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "La opción correcta se infiere por el resaltado verde."
+      ],
+      "pagina_pdf": 47,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.76,
+      "error_extraccion": null
+    },
+    {
+      "numero": 48,
+      "enunciado": "Respecto a la declaración de lesividad señale la respuesta correcta:",
+      "opciones": {
+        "A": "La declaración de lesividad no podrá adoptarse una vez transcurridos cuatro años desde que se dictó el acto administrativo y exigirá la previa audiencia de cuantos aparezcan como interesados en el mismo, en los términos establecidos por el artículo 82",
+        "B": "La declaración de lesividad no podrá adoptarse una vez transcurridos tres años desde que se dictó el acto administrativo y exigirá la previa audiencia de cuantos aparezcan como interesados en el mismo, en los términos establecidos por el artículo 82",
+        "C": "La declaración de lesividad no podrá adoptarse una vez transcurridos cinco años desde que se dictó el acto administrativo y exigirá la previa audiencia de cuantos aparezcan como interesados en el mismo, en los términos establecidos por el artículo 82",
+        "D": "La declaración de lesividad podrá adoptarse en cualquier momento, sin límite de tiempo, desde que se dictó el acto administrativo y exigirá la previa audiencia de cuantos aparezcan como interesados en el mismo, en los términos establecidos por el artículo 82"
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.89,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "La opción C aparece como la resaltada en verde."
+      ],
+      "pagina_pdf": 48,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 3.25,
+      "error_extraccion": null
+    },
+    {
+      "numero": 49,
+      "enunciado": "De conformidad con el artículo 76 de la Ley 39/2015, de 1 de octubre, los interesados podrán alegar defectos de tramitación, en especial lo que supongan paralización, infracción de los plazos preceptivamente señalados o la omisión de trámites:",
+      "opciones": {
+        "A": "En cualquier momento del procedimiento anterior al trámite de audiencia.",
+        "B": "En cualquier momento anterior a la resolución definitiva del procedimiento.",
+        "C": "En cualquier momento anterior a la apertura del periodo de prueba.",
+        "D": "En cualquier momento anterior a la práctica de la prueba."
+      },
+      "respuesta_correcta": "A",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.98,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen."
+      ],
+      "pagina_pdf": 49,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.47,
+      "error_extraccion": null
+    },
+    {
+      "numero": 50,
+      "enunciado": "Indique conforme la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la respuesta correcta. Respecto al acuerdo de iniciación en los procedimientos de naturaleza sancionadora:",
+      "opciones": {
+        "A": "El acuerdo de iniciación se notificará al instructor del procedimiento, con traslado de cuantas actuaciones existan al respecto, y se comunicará a los interesados, entendiendo en todo caso por tal al denunciado.",
+        "B": "El acuerdo de iniciación se comunicará al instructor del procedimiento, con traslado de cuantas actuaciones existan al respecto, y se notificará a los interesados, entendiendo en todo caso por tal al inculpado.",
+        "C": "El acuerdo de iniciación deberá contener, entre otros: Los hechos que motivan la incoación del procedimiento, su calificación y las sanciones que corresponden, sin perjuicio de lo que resulte de la instrucción.",
+        "D": "El acuerdo de iniciación deberá contener, entre otros: Identificación del instructor y del secretario del procedimiento, con expresa indicación del régimen de recusación de los mismos."
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.93,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen."
+      ],
+      "pagina_pdf": 50,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 3.16,
+      "error_extraccion": null
+    },
+    {
+      "numero": 51,
+      "enunciado": "De conformidad con lo dispuesto en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la respuesta CORRECTA :(Oficial A2 GVA turno libre NO covid)",
+      "opciones": {
+        "A": "Los interesados en el procedimiento administrativo tienen derecho a formular alegaciones, utilizar los medios de defensa admitidos por el Ordenamiento Jurídico, y a aportar documentos en cualquier fase del procedimiento anterior al trámite de audiencia, que deberán ser tenidos en cuenta por el órgano competente al redactar la propuesta de resolución",
+        "B": "Las actuaciones previas serán realizadas por los órganos que tengan atribuidas funciones de autorización en la materia y, en defecto de éste, por la persona u órgano administrativo que se determine por el órgano competente para la iniciación o resolución del procedimiento",
+        "C": "Contra el acuerdo de acumulación procederá el recurso administrativo correspondiente en función del órgano que lo dictó",
+        "D": "Los procedimientos se iniciarán de oficio por denuncia"
+      },
+      "respuesta_correcta": "A",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.95,
+      "incidencias": [
+        "No se aprecia con claridad un pie normativo en la imagen."
+      ],
+      "pagina_pdf": 51,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 3.55,
+      "error_extraccion": null
+    },
+    {
+      "numero": 52,
+      "enunciado": "Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en los procedimientos de responsabilidad patrimonial:",
+      "opciones": {
+        "A": "Los interesados solo podrán solicitar el inicio de un procedimiento de responsabilidad patrimonial, cuando no haya prescrito su derecho a reclamar",
+        "B": "El derecho a reclamar prescribirá a los 2 años de producido el hecho o el acto que motive la indemnización o se manifieste su efecto lesivo",
+        "C": "En caso de daños de carácter físico o psíquico a las personas, el plazo empezará a computarse desde la fecha de solicitud",
+        "D": "Los interesados podrán solicitar el inicio de un procedimiento de responsabilidad patrimonial, aunque haya prescrito su derecho a reclamar"
+      },
+      "respuesta_correcta": "A",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.95,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen."
+      ],
+      "pagina_pdf": 52,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.81,
+      "error_extraccion": null
+    },
+    {
+      "numero": 53,
+      "enunciado": "Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se consideran interesados en el procedimiento administrativo, entre otros:",
+      "opciones": {
+        "A": "Los que, sin haber iniciado el procedimiento, puedan tener derechos que resulten afectados por la decisión que en el mismo se adopte",
+        "B": "Quienes, sin haber promovido el expediente, acrediten ser titulares de derechos o intereses individuales o colectivos",
+        "C": "Quienes lo promuevan como titulares de derechos o intereses legítimos individuales o colectivos",
+        "D": "Aquellos cuyos intereses legítimos, individuales o colectivos, puedan resultar afectados por una resolución, y se personen en el procedimiento aún después de haber recaído resolución definitiva"
+      },
+      "respuesta_correcta": "A",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.91,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen."
+      ],
+      "pagina_pdf": 53,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 3.02,
+      "error_extraccion": null
+    },
+    {
+      "numero": 54,
+      "enunciado": "Una vez iniciado el procedimiento, se adopta como medida provisional la suspensión temporal de actividades. Señale la respuesta correcta.",
+      "opciones": {
+        "A": "El órgano competente será el órgano que tenga la competencia para iniciar el procedimiento.",
+        "B": "No se podrá adoptar dicha medida provisional si la misma causa perjuicio de difícil o imposible reparación al interesado o si supone una violación de derechos amparados por las leyes.",
+        "C": "No podrá ser alzada o modificada durante la tramitación del procedimiento.",
+        "D": "Se podrá acordar como medida provisional, la suspensión permanente de actividades."
+      },
+      "respuesta_correcta": "B",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.95,
+      "incidencias": [
+        "No se aprecia con claridad el pie normativo en la imagen."
+      ],
+      "pagina_pdf": 54,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.18,
+      "error_extraccion": null
+    },
+    {
+      "numero": 55,
+      "enunciado": "Según la Ley 39/2015 toda notificación:",
+      "opciones": {
+        "A": "Deberá contener la expresión de los recursos que procedan, en su caso, en vía judicial.",
+        "B": "Deberá contener la expresión de los recursos que procedan, en su caso, en vía administrativa.",
+        "C": "Deberá contener la expresión de los recursos que procedan, en su caso, en vía económico-administrativa.",
+        "D": "Deberá contener la expresión de los recursos que procedan, en su caso, en vía administrativa y judicial."
+      },
+      "respuesta_correcta": "B",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.96,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen."
+      ],
+      "pagina_pdf": 55,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 1.99,
+      "error_extraccion": null
+    },
+    {
+      "numero": 56,
+      "enunciado": "Según la ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la potestad de revisión de oficio por parte de las Administraciones Públicas, se ejercerá respecto de:",
+      "opciones": {
+        "A": "Los actos administrativos nulos de pleno derecho, exclusivamente",
+        "B": "Los actos administrativos que sean nulos de pleno derecho",
+        "C": "Solamente respecto de las disposiciones reglamentarias que incurran en algún supuesto de nulidad",
+        "D": "Tanto respecto de los actos administrativos como respecto de las disposiciones reglamentarias que estén incursos en alguna causa de nulidad o de anulabilidad"
+      },
+      "respuesta_correcta": "B",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.98,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "El número de pregunta visible en la imagen es 56."
+      ],
+      "pagina_pdf": 56,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.66,
+      "error_extraccion": null
+    },
+    {
+      "numero": 57,
+      "enunciado": "De acuerdo con lo dispuesto en la Ley 14/2003, de 10 de abril, de Patrimonio de la Generalitat Valenciana, señale la respuesta correcta:",
+      "opciones": {
+        "A": "La aprobación del deslinde corresponderá siempre al titular de la Conselleria competente en materia de patrimonio.",
+        "B": "La Generalitat podrá recuperar por sí misma, en cualquier momento la posesión de sus bienes patrimoniales indebidamente ocupados.",
+        "C": "No podrá justificarse la adquisición onerosa y directa de un bien inmueble, en ningún caso, cuando el precio del bien inmueble sea igual o superior a 100.000 euros.",
+        "D": "La adscripción de bienes afectos a un servicio público a otras administraciones públicas a las que se atribuya la prestación del correspondiente servicio por encomienda de gestión u otra figura admitida en derecho, no comportará la transmisión de la titularidad demanial."
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": "Ley 14/2003, de 10 de abril, de Patrimonio de la Generalitat Valenciana",
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.93,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen para extraer artículo y norma adicionalmente.",
+        "La identificación de la opción correcta se ha inferido por el recuadro resaltado en verde."
+      ],
+      "pagina_pdf": 57,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 3.81,
+      "error_extraccion": null
+    },
+    {
+      "numero": 58,
+      "enunciado": "De acuerdo con lo establecido en el tenor literal de la Ley 14/2003, de 10 de abril, de Patrimonio de la Generalitat Valenciana, indique la afirmación correcta:",
+      "opciones": {
+        "A": "La creación, supresión o reforma de departamentos y organismos públicos de la Generalitat, en virtud de norma legal o reglamentaria, supone por sí sola la alteración de la afectación de los bienes. No obstante, el bien o derecho se entenderá adscrito, sin necesidad de declaración expresa, al departamento u organismo competente, que se subrogará en los derechos, facultades y obligaciones sobre los bienes.",
+        "B": "Cuando los departamentos y organismos públicos discrepen entre sí o con la Dirección General de Patrimonio acerca de la afectación, adscripción, desafectación, desadscripción o mutación demanial de un bien o derecho, la resolución correspondiente será competencia del de la conselleria competente en materia de patrimonio, previo informe de los departamentos afectados o a los que estén adscritos los organismos públicos interesados.",
+        "C": "Las adquisiciones de bienes inmuebles y derechos reales se realizarán, con carácter general, mediante concurso público en la forma que legalmente se determine, y mediante adquisición directa, cuando se dé alguno de los supuestos previstos reglamentariamente.",
+        "D": "Los arrendamientos con o sin opción de compra y los arrendamientos financieros de bienes muebles se someterán a la legislación de contratos de las administraciones públicas, correspondiendo su contratación al departamento interesado."
+      },
+      "respuesta_correcta": "A",
+      "pie_completo": null,
+      "articulo": "27",
+      "norma": "Ley 14/2003, de 10 de abril, de Patrimonio de la Generalitat Valenciana",
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.88,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "El título o parte no puede determinarse con seguridad solo con la imagen."
+      ],
+      "pagina_pdf": 58,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 8.56,
+      "error_extraccion": null
+    },
+    {
+      "numero": 59,
+      "enunciado": "Según lo dispuesto en la Ley 38/2003, de 17 de noviembre, General de Subvenciones, en ningún caso serán gastos subvencionables:",
+      "opciones": {
+        "A": "Los intereses por descubierto de las cuentas bancarias.",
+        "B": "Intereses, recargos y sanciones administrativas y penales.",
+        "C": "Las costas de procedimientos judiciales.",
+        "D": "Los tributos."
+      },
+      "respuesta_correcta": "B",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.97,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen."
+      ],
+      "pagina_pdf": 59,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.22,
+      "error_extraccion": null
+    },
+    {
+      "numero": 1,
+      "enunciado": "¿Qué día se aprobó la Ley de expropiación forzosa en el Boletín Oficial del Estado?",
+      "opciones": {
+        "A": "El 16 de diciembre de 1954",
+        "B": "El 27 de diciembre de 1956",
+        "C": "El 26 de julio de 1957",
+        "D": "El 17 de julio de 1958"
+      },
+      "respuesta_correcta": null,
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.92,
+      "incidencias": [
+        "No se aprecia recuadro resaltado en verde para identificar la respuesta correcta.",
+        "No se ve pie normativo en la imagen."
+      ],
+      "pagina_pdf": 60,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.19,
+      "error_extraccion": null
+    },
+    {
+      "numero": 61,
+      "enunciado": "¿Cuál de las siguientes aseveraciones no es verdadera?:",
+      "opciones": {
+        "A": "Según la Ley de Expropiación Forzosa, hecho efectivo el justo precio, o consignado en la forma prevista en el artículo anterior, podrá ocuparse la finca por vía administrativa o hacer ejercicio del derecho expropiado.",
+        "B": "Únicamente tendrán la consideración de lugares cuyo acceso depende del consentimiento del titular, en relación con la ocupación de los bienes inmuebles expropiados, además del domicilio de las personas físicas y jurídicas en los términos del artículo 18.2 de la CE, los locales cerrados sin acceso al público.",
+        "C": "Según la Ley de Expropiación Forzosa, respecto de los demás inmuebles o partes de los mismos en los que concurran las condiciones expresadas en b), la Administración expropiante podrá entrar y tomar posesión directamente de ellos, una vez cumplidas las formalidades establecidas en esta Ley, recabando de la autoridad judicial, si fuera preciso, el auxilio de las Fuerzas y Cuerpos de seguridad del Estado para proceder a su ocupación.",
+        "D": "Ninguna Todas las anteriores aseveraciones son verdaderas."
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.95,
+      "incidencias": [
+        "No se aprecia con claridad un pie normativo en la imagen.",
+        "La opción D aparece con redacción ambigua: 'Ninguna Todas las anteriores aseveraciones son verdaderas.'"
+      ],
+      "pagina_pdf": 61,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 4.06,
+      "error_extraccion": null
+    },
+    {
+      "numero": 62,
+      "enunciado": "¿A qué tipo de competencia se refiere el art. 7.1 LJCA cuando afirma que los órganos del orden jurisdiccional contencioso-administrativo que fueren competentes para conocer de un asunto lo serán también para todas sus incidencias y para hacer ejecutar las sentencias?",
+      "opciones": {
+        "A": "Competencia objetiva",
+        "B": "Competencia territorial",
+        "C": "Competencia funcional",
+        "D": "Competencia ejecutiva"
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.98,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen."
+      ],
+      "pagina_pdf": 62,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.48,
+      "error_extraccion": null
+    },
+    {
+      "numero": 63,
+      "enunciado": "Señale la respuesta incorrecta, de conformidad con el Decreto 176/2014, de 10 de octubre, respecto a las actuaciones previas a la suscripción de los convenios:",
+      "opciones": {
+        "A": "En todo caso, informe del centro directivo de la Consellerías correspondiente, o de la entidad proponente, justificativo de la necesidad y oportunidad del convenio.",
+        "B": "En todo caso, informe de la Abogacía General de la Generalitat.",
+        "C": "Además, en caso de proyecto de convenio que comporte obligaciones económicas para la Generalitat, en todo caso, informe de fiscalización de la Intervención Delegada.",
+        "D": "En los proyectos de convenio que formalicen la concesión de subvenciones de la Generalitat se exigirá, cuando no sea de aplicación del apartado 1 del artículo 107 del Tratado de Funcionamiento de la Unión Europea, informe del centro gestor de la ayuda justificativo de la no aplicación del referido precepto comunitario y de la no sujeción de la ayuda a la política de la competencia de la Unión Europea"
+      },
+      "respuesta_correcta": null,
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.74,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "No se distingue con seguridad cuál opción aparece resaltada en verde."
+      ],
+      "pagina_pdf": 63,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 3.12,
+      "error_extraccion": null
+    },
+    {
+      "numero": 64,
+      "enunciado": "Para contratar con el sector público, se pueden presentar: (Auxiliar administrativo Ayuntamiento de Burjassot 2020)",
+      "opciones": {
+        "A": "Personas naturales extranjeras.",
+        "B": "Personas jurídicas nacionales.",
+        "C": "Empresarios que concurran agrupados en uniones temporales que nombren a un representante o apoderado único.",
+        "D": "Todas las respuestas son correctas."
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.86,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "La opción correcta se infiere por el recuadro resaltado en verde."
+      ],
+      "pagina_pdf": 64,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 1.98,
+      "error_extraccion": null
+    },
+    {
+      "numero": 65,
+      "enunciado": "Según lo dispuesto en el art. 36 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (en adelante Ley 9/2017 de CSP) en relación con la perfección de los contratos, indique cuál de los siguientes enunciados es CORRECTO:",
+      "opciones": {
+        "A": "Los contratos basados en un acuerdo marco y los contratos específicos en el marco de un sistema dinámico de adquisición, se perfeccionan antes de su adjudicación",
+        "B": "Los contratos que celebren los poderes adjudicadores, a excepción de los contratos menores y de los contratos basados en un acuerdo marco y los contratos específicos en el marco de un sistema dinámico de adquisición a los que se refiere el apartado 3 del artículo 36 de la Ley 9/2017 de CSP, se perfeccionan con su formalización",
+        "C": "Los contratos que celebren los poderes adjudicadores, a excepción únicamente de los contratos menores y los contratos basados en un acuerdo marco se perfeccionan con su formalización",
+        "D": "Los contratos basados en un acuerdo marco y los contratos específicos en el marco de un sistema dinámico de adquisición, se perfeccionan después de su adjudicación"
+      },
+      "respuesta_correcta": "B",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.96,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "La opción correcta se infiere por el recuadro resaltado en verde."
+      ],
+      "pagina_pdf": 65,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 3.3,
+      "error_extraccion": null
+    },
+    {
+      "numero": 66,
+      "enunciado": "La Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (en adelante LCSP) establece que están sujetos a regulación armonizada los contratos de servicios cuyo valor estimado sea igual o superior a las siguientes cantidades:",
+      "opciones": {
+        "A": "140.000 euros, cuando los contratos hayan de ser adjudicados por la Administración General del Estado, sus Organismos Autónomos, o las Entidades Gestoras y Servicios Comunes de la Seguridad Social.",
+        "B": "216.000 euros, cuando los contratos hayan de ser adjudicados por la Administración General del Estado, sus Organismos Autónomos, o las Entidades Gestoras y Servicios Comunes de la Seguridad Social.",
+        "C": "221.000 euros, cuando los contratos hayan de ser adjudicados por la Administración General del Estado, sus Organismos Autónomos, o las Entidades Gestoras y Servicios Comunes de la Seguridad Social.",
+        "D": "340.000 euros, cuando los contratos hayan de ser adjudicados por la Administración General del Estado, sus Organismos Autónomos, o las Entidades Gestoras y Servicios Comunes de la Seguridad Social."
+      },
+      "respuesta_correcta": "B",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.98,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen; no es posible extraer norma, artículo ni título con seguridad."
+      ],
+      "pagina_pdf": 66,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 3.27,
+      "error_extraccion": null
+    },
+    {
+      "numero": 67,
+      "enunciado": "Señale la respuesta incorrecta respecto a la división en lotes del contrato:",
+      "opciones": {
+        "A": "Como regla general, el contrato deberá dividirse en lotes cuando la naturaleza o el objeto del contrato así lo permita. En el supuesto de no dividirse el contrato en lotes deberá justificarse así en el expediente de contratación.",
+        "B": "El órgano de contratación podrá no dividir en lotes el objeto del contrato cuando existan motivos válidos, que deberán justificarse debidamente en el expediente, salvo en los casos de contratos de concesión de servicios.",
+        "C": "Se consideran motivos válidos para no dividir el contrato en lotes que en caso de dividirse el contrato en lotes restrinja injustificadamente la competencia y que dificulte la correcta ejecución del mismo.",
+        "D": "Cuando el órgano de contratación proceda a la división en lotes del objeto del contrato, este podrá limitar el número de lotes para los que un mismo candidato o licitador puede presentar oferta o limitar el número de lotes que pueden adjudicarse a cada licitador."
+      },
+      "respuesta_correcta": "B",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.98,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen."
+      ],
+      "pagina_pdf": 67,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 3.41,
+      "error_extraccion": null
+    },
+    {
+      "numero": 68,
+      "enunciado": "El artículo 145.1 de la Ley 9/2017, de 8 de noviembre, establece sobre la adjudicación de los contratos que: (Cuerpo ADTO AGE 2018)",
+      "opciones": {
+        "A": "Se realizará atendiendo a la oferta económica más ventajosa, sin necesidad de justificarlo en el expediente.",
+        "B": "Se realizará utilizando una pluralidad de criterios de adjudicación en base a la mejor relación calidad-precio.",
+        "C": "Se realizará atendiendo exclusivamente a criterios cualitativos .",
+        "D": "Se realizará con arreglo a criterios basados en un planteamiento que atienda a la mejor relación coste-eficacia, sin necesidad de justificarlo en el expediente."
+      },
+      "respuesta_correcta": "B",
+      "pie_completo": null,
+      "articulo": "145.1",
+      "norma": "Ley 9/2017, de 8 de noviembre",
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.97,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "El título o parte no puede extraerse con seguridad del pie."
+      ],
+      "pagina_pdf": 68,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 2.8,
+      "error_extraccion": null
+    },
+    {
+      "numero": 69,
+      "enunciado": "¿Cuál de las siguientes afirmaciones es correcta?",
+      "opciones": {
+        "A": "Los acuerdos que adopte el órgano de contratación pondrán fin a la vía administrativa, pero no serán inmediatamente ejecutivos.",
+        "B": "Los acuerdos que adopte el órgano de contratación no pondrán fin a la vía administrativa y serán inmediatamente ejecutivos.",
+        "C": "Los acuerdos que adopte el órgano de contratación pondrán fin a la vía administrativa y serán inmediatamente ejecutivos.",
+        "D": "Todas son incorrectas."
+      },
+      "respuesta_correcta": null,
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.88,
+      "incidencias": [
+        "No se aprecia el pie normativo en la imagen.",
+        "No se distingue con seguridad cuál opción está resaltada en verde."
+      ],
+      "pagina_pdf": 69,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 4.52,
+      "error_extraccion": null
+    },
+    {
+      "numero": 70,
+      "enunciado": "¿Qué ocurre si una Unión Temporal de Empresas modifica su composición?",
+      "opciones": {
+        "A": "Si la modificación ocurre antes de la formalización del contrato, no quedará excluida del procedimiento.",
+        "B": "Si la modificación ocurre una vez formalizado el contrato, se necesitará la autorización expresa del órgano de contratación. Además, deberá mantenerse la solvencia o clasificación exigidas.",
+        "C": "Si la modificación ocurre una vez formalizado el contrato, deberá haberse ejecutado el 25% de su importe, o haberse explotado al menos la cuarta parte de duración del contrato cuando se trate de concesión de obras o concesión de servicios.",
+        "D": "Si alguna o algunas de las empresas integrantes de la unión temporal fuesen declaradas en concurso de acreedores y se hubiera abierto la fase de liquidación, no podrá continuar la ejecución del contrato."
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.9,
+      "incidencias": [
+        "No se aprecia el pie normativo en la imagen."
+      ],
+      "pagina_pdf": 70,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.33,
+      "error_extraccion": null
+    },
+    {
+      "numero": 71,
+      "enunciado": "Cual de las siguientes afirmaciones no es correcta en relación a la concesión de ayudas de forma directa:",
+      "opciones": {
+        "A": "La concesión de ayudas de forma directa por la Generalitat deberá revestir siempre la forma de Convenio.",
+        "B": "Deberá contar, en todo caso, con el informe previo emitido por la Abogacia de la Generalitat",
+        "C": "En el caso de que estén previstas nominativamente en la ley de presupuestos de la Generalitat, su objeto, dotación presupuestaria y destinatario deben figurar de forma inequívoca en sus anexos",
+        "D": "La concesión de las subvenciones previstas nominativamente en la ley de presupuestos de la Generalitat se formalizará mediante resolución de la persona titular del departamento gestor del crédito presupuestario al cual se imputa la ayuda."
+      },
+      "respuesta_correcta": "A",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.97,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "El recuadro de la opción correcta no aparece resaltado en verde de forma inequívoca; se infiere por el contenido."
+      ],
+      "pagina_pdf": 71,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.86,
+      "error_extraccion": null
+    },
+    {
+      "numero": 72,
+      "enunciado": "La DG Patrimonio, se plantea utilizar la financiación que obtenga con la subasta de muebles para comprar los nuevos. ¿Cómo podría hacerlo?:",
+      "opciones": {
+        "A": "Modificación de presupuestos, crédito extraordinario",
+        "B": "Modificación de presupuestos, suplemento de crédito",
+        "C": "Modificación de presupuestos, generación de crédito",
+        "D": "Expediente extrapresupuestario"
+      },
+      "respuesta_correcta": null,
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.94,
+      "incidencias": [
+        "No se aprecia en la imagen el pie normativo inferior con suficiente claridad.",
+        "No se distingue con seguridad el recuadro resaltado en verde para determinar la respuesta correcta."
+      ],
+      "pagina_pdf": 72,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.26,
+      "error_extraccion": null
+    },
+    {
+      "numero": 73,
+      "enunciado": "Señale la afirmación CORRECTA. Según la Ley 1/2015, de 6 de febrero, de la Generalitat, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones:",
+      "opciones": {
+        "A": "En el ámbito del sector público de la Generalitat, corresponderá a la Intervención General de la Generalitat el cumplimiento de cuantas obligaciones de remisión de información se deriven de la aplicación de la normativa básica estatal en materia de subvenciones.",
+        "B": "Corresponde al Consell acordar e imponer la sanción de pérdida de la posibilidad de obtener subvenciones, ayudas públicas y avales de la Comunitat Valenciana.",
+        "C": "Corresponde al Consell la autorización previa para la concesión de las subvenciones de concurrencia competitiva si se supera la cuantía de seis millones de euros por sujeto beneficiario, si bien dicha autorización no implicará la aprobación del gasto que, en todo caso, corresponderá al órgano competente para la concesión.",
+        "D": "Corresponde al Consell la autorización del correspondiente convenio, cuando las subvenciones de concesión directa se instrumenten mediante esta fórmula jurídica, siempre que su cuantía sea igual o superior a un millón de euros."
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.94,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "No es posible extraer con seguridad la norma, artículo ni título/parte solo a partir del pie."
+      ],
+      "pagina_pdf": 73,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 3.62,
+      "error_extraccion": null
+    },
+    {
+      "numero": 74,
+      "enunciado": "De conformidad con la Ley 1/2015, de 6 de febrero, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones, indique cuál de las siguientes afirmaciones es la correcta:",
+      "opciones": {
+        "A": "Las Intervenciones delegadas de la Generalitat ejercerán sus funciones de control conforme a los principios de autonomía, ejercicio descentralizado y jerarquía interna.",
+        "B": "Corresponde a la Intervención General de la Generalitat el control interno y externo de la gestión económica y financiera del sector público de la Generalitat, a través de sus intervenciones delegadas.",
+        "C": "La Intervención General de la Generalitat ejercerá sus funciones de control conforme a los principios de autonomía, ejercicio desconcentrado y jerarquía interna.",
+        "D": "La Intervención General de la Generalitat no podrá ejercer el control sobre las entidades colaboradoras y beneficiarios de subvenciones y ayudas concedidas por los sujetos del sector público de la Generalitat y de las financiadas con cargo a fondos comunitarios."
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": "Ley 1/2015, de 6 de febrero, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones",
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.96,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "El artículo y el título/parte no pueden extraerse con seguridad del pie."
+      ],
+      "pagina_pdf": 74,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 3.51,
+      "error_extraccion": null
+    },
+    {
+      "numero": 75,
+      "enunciado": "De acuerdo con lo establecido en el artículo 165 de la Ley 1/2015, de 6 de febrero, de la Generalitat, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones, señale la alternativa correcta. Las bases reguladoras contendrán, como mínimo, los siguientes aspectos:",
+      "opciones": {
+        "A": "En su caso, posibilidad de subcontratar total o parcialmente la actividad subvencionada, así como su porcentaje máximo y régimen de autorización.",
+        "B": "Los condicionantes requeridos por la normativa de la Generalitat relativos a la adecuación de las ayudas públicas de la Generalitat a la política de la competencia de la Unión Europea.",
+        "C": "En el supuesto de contemplarse la posibilidad de efectuar pagos anticipados de la subvención concedida, la forma y cuantía de las garantías que, en su caso, deberán aportar las personas beneficiarias, así como medios de constitución y procedimientos de cancelación.",
+        "D": "Compatibilidad o incompatibilidad con otras subvenciones, ayudas, ingresos o recursos para la misma finalidad procedentes de cualquier administración o entidad pública; nacionales, de la Unión Europea o de organismos internacionales."
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.9,
+      "incidencias": [
+        "No se aprecia un pie normativo legible en la imagen.",
+        "La respuesta correcta se infiere por el recuadro resaltado en verde."
+      ],
+      "pagina_pdf": 75,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 3.52,
+      "error_extraccion": null
+    },
+    {
+      "numero": 76,
+      "enunciado": "En relación con los gastos de tramitación anticipada regulados, indique en base al artículo 41 de la Ley 1/2015 cuál de las siguientes aseveraciones es incorrecta:",
+      "opciones": {
+        "A": "La tramitación de expedientes de gastos podrá iniciarse en el ejercicio inmediato anterior, si existe previsión reiterada en ejercicios anteriores, asociada en el programa presupuestario, de crédito adecuado y suficiente para la cobertura presupuestaria del gasto de que se trate en los Presupuestos de la Generalitat.",
+        "B": "En el ámbito de la contratación administrativa se estará a lo dispuesto en la normativa reguladora de esta materia",
+        "C": "La tramitación anticipada podrá llegar, como máximo, al momento inmediato anterior a la autorización del gasto",
+        "D": "En todo caso en la tramitación anticipada de expedientes se tendrá que cumplir lo establecido en el artículo 40 de la Ley 1/2015"
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": null,
+      "articulo": "41",
+      "norma": "Ley 1/2015",
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.98,
+      "incidencias": [
+        "No se aprecia pie normativo azul legible en la imagen; norma y artículo deducidos del enunciado."
+      ],
+      "pagina_pdf": 76,
+      "extraccion_completa": true,
+      "tiempo_extraccion": 3.73,
+      "error_extraccion": null
+    },
+    {
+      "numero": 77,
+      "enunciado": "¿Cuál de las siguientes afirmaciones no es un medio de comprobación de valores de la Administración? Señale la opción correcta:",
+      "opciones": {
+        "A": "Cotizaciones en mercados nacionales y extranjeros.",
+        "B": "Estimación por referencia a los valores que figuran en los registros públicos de carácter fiscal.",
+        "C": "Tasación pericial contradictoria.",
+        "D": "Cualesquiera otros medios de prueba admitidos en derecho."
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.96,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "La respuesta correcta se infiere por el recuadro resaltado en verde."
+      ],
+      "pagina_pdf": 77,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.81,
+      "error_extraccion": null
+    },
+    {
+      "numero": 1,
+      "enunciado": "Señale la respuesta correcta según lo establecido en la Ley 1/2015, de 6 de febrero, de Hacienda Pública, Sector Público Instrumental y Subvenciones. La tramitación de expedientes de gastos podrá iniciarse en el ejercicio inmediato anterior siempre que se cumpla alguna de las siguientes circunstancias:",
+      "opciones": {
+        "A": "Que exista previsión reiterada en tres ejercicios anteriores, asociada en el programa presupuestario, de crédito adecuado y suficiente para la cobertura presupuestaria del gasto de que se trate en los Presupuestos de la Generalitat.",
+        "B": "Que exista crédito adecuado y suficiente en la proposición de ley de Presupuestos en caso de que haya sido presentado para su aprobación por las Cortes correspondiente al ejercicio siguiente.",
+        "C": "Que exista previsión reiterada en ejercicios anteriores de crédito adecuado y suficiente para la cobertura presupuestaria del gasto de que se trate en los Presupuestos de la Generalitat.",
+        "D": "Que exista crédito adecuado y suficiente en el proyecto de ley de Presupuestos en caso de que haya sido presentado para su aprobación por las Cortes correspondiente al ejercicio siguiente."
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.88,
+      "incidencias": [
+        "No se aprecia pie normativo legible en la imagen.",
+        "La opción correcta se deduce por el recuadro resaltado en verde."
+      ],
+      "pagina_pdf": 78,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 3.24,
+      "error_extraccion": null
+    },
+    {
+      "numero": 79,
+      "enunciado": "Indique según el artículo 60 de la Ley 1/2015 a quién corresponde la ordenación de pagosen el ámbito de la Administración de la Generalitat:",
+      "opciones": {
+        "A": "Corresponde a la persona titular de la conselleria competente en materia de hacienda",
+        "B": "Corresponde al Consell",
+        "C": "Corresponde al órgano administrativo a que corresponden las funciones de Tesorería",
+        "D": "Ninguna de las anteriores"
+      },
+      "respuesta_correcta": "A",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.98,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "En el enunciado aparece 'pagosen' sin espacio, se transcribe literalmente."
+      ],
+      "pagina_pdf": 79,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.04,
+      "error_extraccion": null
+    },
+    {
+      "numero": 80,
+      "enunciado": "Respecto al Periodo Medio de Pago, cuál de las siguientes afirmaciones es correcta:",
+      "opciones": {
+        "A": "Mide el retraso en el pago de la deuda pública financiera en términos económicos.",
+        "B": "Mide el retraso en el pago de la deuda comercial en términos económicos.",
+        "C": "Mide el retraso en el pago del modelo de financiación en términos económicos.",
+        "D": "Mide el retraso en el pago de la nómina de los funcionarios en términos económicos."
+      },
+      "respuesta_correcta": null,
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.95,
+      "incidencias": [
+        "No se aprecia pie normativo en la imagen.",
+        "No se distingue con seguridad ninguna opción resaltada en verde."
+      ],
+      "pagina_pdf": 80,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 1.97,
+      "error_extraccion": null
+    },
+    {
+      "numero": 81,
+      "enunciado": "De acuerdo con lo establecido en la Ley Orgánica 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas, el Fondo de Compensación se dotará anualmente de la siguiente forma:",
+      "opciones": {
+        "A": "Con una cantidad que no podrá ser superior al 22,5 por ciento de la base de cálculo de la inversión pública que haya sido aprobada en los Presupuestos Generales del Estado del ejercicio, tal y como se defina en la Ley reguladora de los Fondos de Compensación Interterritorial.",
+        "B": "Adicionalmente, con el 1,5 por ciento de la cantidad determinada en la letra anterior y el importe que se asigne legalmente en función de la variable \"Ciudad con Estatuto de Autonomía\".",
+        "C": "Adicionalmente, con el 4,02 por ciento de la cantidad determinada en la letra a) anterior, y el importe que se asigne legalmente por la variable de \"región megaperiférica\".",
+        "D": "Con una cantidad equivalente al 33,33 por ciento de su respectivo Fondo para cada Comunidad Autónoma y Ciudad con Estatuto de Autonomía propio."
+      },
+      "respuesta_correcta": "A",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.94,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "La respuesta correcta se infiere por el resaltado verde de la opción A."
+      ],
+      "pagina_pdf": 81,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 3.55,
+      "error_extraccion": null
+    },
+    {
+      "numero": 82,
+      "enunciado": "Señale la respuesta correcta. De conformidad con lo dispuesto por el artículo 1 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, dicho Estatuto tiene por objeto:",
+      "opciones": {
+        "A": "Establecer las bases del régimen estatutario aplicable a los funcionarios públicos y al personal laboral al servicio de las Administraciones Públicas.",
+        "B": "Establecer las bases del régimen estatutario de los funcionarios públicos incluidos en su ámbito de aplicación, así como determinar las normas aplicables al personal laboral al servicio de las Administraciones Públicas.",
+        "C": "Desarrollar exclusivamente el régimen jurídico aplicable al personal funcionario al servicio de la Administración del Estado.",
+        "D": "Establecer las bases del régimen aplicable a los empleados públicos que se clasifican, de acuerdo con el artículo 8.2 del Real Decreto Legislativo 5/2015, de 30 de octubre, en personal funcionario, laboral, eventual y directivo."
+      },
+      "respuesta_correcta": "B",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.96,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "La respuesta correcta se deduce por el recuadro resaltado en verde."
+      ],
+      "pagina_pdf": 82,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.84,
+      "error_extraccion": null
+    },
+    {
+      "numero": 83,
+      "enunciado": "Cuando el puesto de trabajo obtenido con destino definitivo esté adscrito a una agrupación de puestos de trabajo, la permanencia de dos años prevista para poder participar en los concursos de provisión de puestos de trabajo adscritos al cuerpo, escala o agrupación profesional funcionarial será de:",
+      "opciones": {
+        "A": "Tres años.",
+        "B": "Cuatro años.",
+        "C": "Cinco años.",
+        "D": "Seis años."
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.96,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "La opción correcta parece ser C por el recuadro resaltado en verde."
+      ],
+      "pagina_pdf": 83,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 1.98,
+      "error_extraccion": null
+    },
+    {
+      "numero": 84,
+      "enunciado": "En la composición del Consell Interdepartamental de Retribucions, NO se incluye:",
+      "opciones": {
+        "A": "La persona titular de la secretaría autonómica competente en materia de presupuestos y gastos o, en caso de inexistencia, la del órgano designado por quien sea titular de la conselleria con competencias en la citada materia que ostentará la Vicepresidencia",
+        "B": "La persona titular de la conselleria competente en materia de función pública",
+        "C": "La persona titular de la dirección general competente en materia de presupuestos",
+        "D": "Seis vocalías designadas a partes iguales por las consellerias con competencias en materia de función pública y de presupuestos y gastos, entre el personal funcionario de carrera del subgrupo profesional A1 pertenecientes a dichos departamentos"
+      },
+      "respuesta_correcta": "B",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.97,
+      "incidencias": [
+        "No se aprecia pie normativo en la imagen.",
+        "La respuesta correcta se deduce por el recuadro resaltado en verde."
+      ],
+      "pagina_pdf": 84,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.64,
+      "error_extraccion": null
+    },
+    {
+      "numero": 85,
+      "enunciado": "El personal declarado en la situación administrativa de excedencia forzosa:",
+      "opciones": {
+        "A": "Tiene derecho a percibir las retribuciones complementarias y, en su caso, las prestaciones familiares por hija o hijo a cargo. El tiempo que permanezcan en esta situación será computable a efectos de antigüedad y de derechos del Régimen de Seguridad Social que sea aplicable.",
+        "B": "Tiene derecho a percibir únicamente las retribuciones básicas. El tiempo que permanezcan en esta situación no será computable a efectos de antigüedad y de derechos del Régimen de Seguridad Social que sea aplicable.",
+        "C": "Tiene derecho a percibir las retribuciones básicas y, en su caso, las prestaciones familiares por hija o hijo a cargo. El tiempo que permanezcan en esta situación será computable a efectos de antigüedad y de derechos del Régimen de Seguridad Social que sea aplicable.",
+        "D": "Tiene derecho a percibir las retribuciones complementarias y, en su caso, las prestaciones familiares por hija o hijo a cargo. El tiempo que permanezcan en esta situación no será computable a efectos de antigüedad y de derechos del Régimen de Seguridad Social que sea aplicable."
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.96,
+      "incidencias": [
+        "No se aprecia pie normativo en la imagen proporcionada."
+      ],
+      "pagina_pdf": 85,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.79,
+      "error_extraccion": null
+    },
+    {
+      "numero": 86,
+      "enunciado": "De conformidad con lo dispuesto por la Ley 4/2021, de la Función Pública Valenciana, señale cuál de los siguientes enunciados es el correcto:",
+      "opciones": {
+        "A": "Los puestos de trabajo se clasificarán exclusivamente como puestos de naturaleza funcionarial, laboral o eventual, sin que, en ningún caso pueda atribuirse en la clasificación más de una naturaleza jurídica.",
+        "B": "Los puestos de trabajo se clasifican en función de su naturaleza en puestos funcionariales, laborales o eventuales, pudiendo, en casos excepcionales previstos en la normativa que establece los criterios generales de clasificación, determinar que un puesto pueda ser clasificado de forma indistinta para su desempeño por personal funcionarial o laboral, sin que quepa, en ningún caso, su ejercicio por personal eventual.",
+        "C": "Los puestos de naturaleza laboral no aparecen incluidos en las relaciones de puestos de trabajo.",
+        "D": "Los puestos de naturaleza eventual no aparecen incluidos en las relaciones de puestos de trabajo."
+      },
+      "respuesta_correcta": "A",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.93,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen."
+      ],
+      "pagina_pdf": 86,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.63,
+      "error_extraccion": null
+    },
+    {
+      "numero": 87,
+      "enunciado": "Según establece el artículo 170 de la Ley 4/2021, de 16 de abril, de la Función Pública Valenciana, se considera falta disciplinaria muy grave del personal funcionario público: (C2 OPE 2023)",
+      "opciones": {
+        "A": "El abuso de autoridad en el ejercicio del cargo.",
+        "B": "La emisión de informes manifiestamente ilegales que causen perjuicio grave a la Administración o a la ciudadanía.",
+        "C": "Intervenir en un procedimiento administrativo cuando se dé alguna de las causas de abstención legalmente señaladas.",
+        "D": "La falta de obediencia debida a las personas que sean sus superiores jerárquicos y a las que sean autoridades."
+      },
+      "respuesta_correcta": "A",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.94,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "No es posible extraer artículo, norma ni título/par te exclusivamente del pie."
+      ],
+      "pagina_pdf": 87,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.47,
+      "error_extraccion": null
+    },
+    {
+      "numero": 88,
+      "enunciado": "Según la Ley 4/2021, de 16 de abril, de la Generalitat, de la Función Pública Valenciana, la Administración de la Generalitat en ejercicio de su potestad de autoorganización, podrá modificar la adscripción orgánica de sus puestos de trabajo:",
+      "opciones": {
+        "A": "Por razones técnico-organizativas o por necesidades económicas.",
+        "B": "Por razones técnicas o por necesidades organizativas.",
+        "C": "Por razones de servicio o por necesidades económicas.",
+        "D": "Por razones de servicio o por necesidades organizativas."
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.97,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "La opción correcta se infiere por el recuadro resaltado en verde."
+      ],
+      "pagina_pdf": 88,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.34,
+      "error_extraccion": null
+    },
+    {
+      "numero": 89,
+      "enunciado": "Según el artículo 147 de la Ley 4/2021, de 16 de abril, de la Función Pública Valenciana, el personal funcionario de carrera podrá obtener la excedencia voluntaria por interés particular cuando haya prestado servicios efectivos en cualquiera de las administraciones públicas, organismos públicos, consorcios o universidades públicas, durante un período: (Señale la respuesta correcta).",
+      "opciones": {
+        "A": "Mínimo de 2 años inmediatamente anteriores.",
+        "B": "Mínimo de 3 años,que podrán ser inmediatamente anteriores o discontinuos.",
+        "C": "Mínimo de 3 años inmediatamente anteriores.",
+        "D": "Mínimo de 5 años, que podrán ser inmediatamente anteriores o discontinuos,"
+      },
+      "respuesta_correcta": "B",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.95,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "La opción D termina con coma final en la imagen."
+      ],
+      "pagina_pdf": 89,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.65,
+      "error_extraccion": null
+    },
+    {
+      "numero": 90,
+      "enunciado": "La Ley 4/2021, de 16 de abril, de la Generalitat, de la Función Pública Valenciana, en su artículo 4 regula el personal con legislación específica y establece que las disposiciones de esta ley solo se aplicarán directamente cuando así lo disponga su legislación específica, de entre otros, al personal:",
+      "opciones": {
+        "A": "Personal docente e investigador de las universidades públicas de la Comunitat Valenciana",
+        "B": "Los consorcios adscritos a la Generalitat",
+        "C": "Las administraciones de las entidades locales de la Comunitat Valenciana , así como los consorcios adscritos a las mismas, los organismos autónomos locales y las entidades públicas empresariales locales, con respecto a lo establecido en sus respectivos estatutos y en la normativa sectorial autonómica, en aquellos aspectos no reservados a la legislación del Estado, con las especificidades previstas en la disposición adicional décima de esta ley",
+        "D": "La Administración de la Generalitat"
+      },
+      "respuesta_correcta": "A",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.87,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "La opción correcta se deduce por el resaltado en verde."
+      ],
+      "pagina_pdf": 90,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.89,
+      "error_extraccion": null
+    },
+    {
+      "numero": 91,
+      "enunciado": "¿Cuál de las siguientes respuestas es verdadera?",
+      "opciones": {
+        "A": "El procedimiento de concurso consiste exclusivamente en la valoración de los méritos conforme al baremo previamente aprobado. Este procedimiento solo se aplicará a la selección de personal funcionario de carrera y personal laboral fijo, con carácter excepcional, cuando así se establezca por ley.",
+        "B": "El procedimiento de concurso consiste exclusivamente en la valoración de los méritos conforme al baremo previamente aprobado. Este procedimiento solo se aplicará a la selección de personal funcionario de carrera, con carácter excepcional, cuando así se establezca reglamentariamente.",
+        "C": "El procedimiento de concurso consiste exclusivamente en la valoración de los méritos conforme al baremo previamente aprobado. Este procedimiento solo se aplicará a la selección de personal funcionario de carrera y personal laboral fijo, con carácter excepcional, cuando así se establezca reglamentariamente.",
+        "D": "Todas son incorrectas."
+      },
+      "respuesta_correcta": "A",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.92,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "La respuesta correcta se infiere por el recuadro resaltado en verde."
+      ],
+      "pagina_pdf": 91,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 3.05,
+      "error_extraccion": null
+    },
+    {
+      "numero": 1,
+      "enunciado": "Señale la respuesta incorrecta respecto a la evaluación del desempeño:",
+      "opciones": {
+        "A": "Los sistemas de evaluación se orientarán a la mejor gestión de las administraciones públicas, organismos públicos, consorcios y universidades públicas, al progreso y desarrollo profesional del personal empleado público, favoreciendo la motivación del mismo mediante su implicación en los objetivos previamente fijados por la organización conforme se establezca reglamentariamente.",
+        "B": "El procedimiento y la periodicidad para la evaluación y la composición y funcionamiento de los órganos encargados de la misma, así como los efectos de su resultado sobre la carrera horizontal, la formación, la provisión de puestos de trabajo y, en su caso, la percepción del complemento de actividad profesional, será el establecido reglamentariamente.",
+        "C": "La continuidad del personal funcionario de carrera en los puestos de trabajo obtenidos por concurso y libre designación quedará vinculada al resultado de la evaluación de acuerdo con el sistema y el procedimiento que se determine reglamentariamente, dándose audiencia a la persona interesada y a través de la correspondiente resolución motivada.",
+        "D": "Los instrumentos que conformen los sistemas de evaluación se adecuarán en todo caso a criterios de transparencia, publicidad, objetividad, fiabilidad y relevancia de contenidos, de imparcialidad y no discriminación, y se aplicarán sin menoscabo de los derechos del personal empleado público."
+      },
+      "respuesta_correcta": "B",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.95,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "La opción correcta se deduce por la redacción resaltada en verde."
+      ],
+      "pagina_pdf": 92,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 4.32,
+      "error_extraccion": null
+    },
+    {
+      "numero": 1,
+      "enunciado": "De acuerdo con el art. 10, quienes accedan a un nuevo puesto del sector público susceptible de compatibilidad, previa autorización, deberán instarla:",
+      "opciones": {
+        "A": "En los diez primeros días del plazo de toma de posesión.",
+        "B": "En los quince primeros días del plazo de toma de posesión.",
+        "C": "En los veinte primeros días del plazo de toma de posesión.",
+        "D": "Ninguna es correcta."
+      },
+      "respuesta_correcta": "B",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.97,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "El número de pregunta visible en la imagen es 93, pero se ha mantenido 1 por la estructura solicitada."
+      ],
+      "pagina_pdf": 93,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 4.14,
+      "error_extraccion": null
+    },
+    {
+      "numero": 94,
+      "enunciado": "Señale la respuesta correcta según el artículo 7 de la Ley 6/2024 de simplificación administrativa, en relación con el Plan de Simplificación:",
+      "opciones": {
+        "A": "El Consell, a propuesta del departamento competente en materia de simplificación administrativa, aprobará el Plan de Simplificación de la Administración de la Generalitat y su sector público instrumental.",
+        "B": "El Plan de Simplificación abarcará un periodo de duración no inferior a un año.",
+        "C": "Cuando finalice su periodo de ejecución se podrá realizar un informe final de evaluación de cumplimiento, que podrá incluir propuestas de mejora que se incorporarán al siguiente plan.",
+        "D": "Tanto el Plan de Simplificación, como el informe final de evaluación se publicarán en el DOGV."
+      },
+      "respuesta_correcta": "A",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.95,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen."
+      ],
+      "pagina_pdf": 94,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.55,
+      "error_extraccion": null
+    },
+    {
+      "numero": 95,
+      "enunciado": "Señale el enunciado correcto. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, en relación a la Agencia Española de Protección de Datos:",
+      "opciones": {
+        "A": "El Gobierno, a propuesta de la Agencia Española de Protección de Datos, aprobará su Estatuto mediante decreto-ley.",
+        "B": "La Presidencia de la Agencia Española de Protección de Datos y su Adjunto serán nombrados por el Gobierno, a propuesta del Ministerio de Hacienda y Función Pública.",
+        "C": "El Gobierno remitirá al Congreso una propuesta de Presidencia y Adjunto que deberá ser ratificada por la Comisión de Justicia en votación pública por mayoría de tres quintos de sus miembros en primera votación o, de no alcanzarse ésta, por mayoría absoluta en segunda votación.",
+        "D": "Las resoluciones de La Agencia Española de Protección de Datos no serán públicas."
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.92,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "El número de pregunta aparece como 95, no 1."
+      ],
+      "pagina_pdf": 95,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 3.19,
+      "error_extraccion": null
+    },
+    {
+      "numero": 96,
+      "enunciado": "De acuerdo con lo establecido en la Ley orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, señale la respuesta correcta: (A2 CONVOCATORIA 135/21)",
+      "opciones": {
+        "A": "La Presidencia y el Adjunto de la Agencia Española de Protección de Datos serán nombrados por el Consejo de Ministros mediante real decreto. El mandato de la Presidencia y del Adjunto de la Agencia Española de Protección de Datos tiene una duración de cinco años y puede ser renovado para otro período de igual duración.",
+        "B": "A los efectos establecidos en el artículo 12.5 del Reglamento (UE) 2016/679 se podrá considerar repetitivo el ejercicio del derecho de acceso en más de una ocasión durante el plazo de ocho meses, a menos que exista causa legítima para ello.",
+        "C": "Los responsables y encargados del tratamiento comunicarán en el plazo de un mes a la Agencia Española de Protección de Datos o, en su caso, a las autoridades autonómicas de protección de datos, las designaciones, nombramientos y ceses de los delegados de protección de datos tanto en los supuestos en que se encuentren obligadas a su designación como en el caso en que sea voluntaria.",
+        "D": "El tratamiento de los datos personales de un menor de edad únicamente podrá fundarse en su consentimiento cuando sea mayor de dieciséis años. Se exceptúan los supuestos en que la ley exija la asistencia de los titulares de la patria potestad o tutela."
+      },
+      "respuesta_correcta": "D",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.93,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "La numeración de la pregunta es 96, no 1."
+      ],
+      "pagina_pdf": 96,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 5.37,
+      "error_extraccion": null
+    },
+    {
+      "numero": 1,
+      "enunciado": "¿Cuál es el plazo para resolver el procedimiento de acceso? Señale la respuesta correcta.",
+      "opciones": {
+        "A": "La resolución en la que se conceda o deniegue el acceso deberá notificarse al solicitante y a los terceros afectados que así lo hayan solicitado en el plazo máximo improrrogable de un mes desde la recepción de la solicitud por el órgano competente para resolver.",
+        "B": "La resolución en la que se conceda o deniegue el acceso deberá notificarse al solicitante y a los terceros afectados que así lo hayan solicitado en el plazo máximo de un mes desde la recepción de la solicitud por el órgano competente para resolver. Este plazo podrá ampliarse por otro mes en el caso de que el volumen o la complejidad de la información que se solicita así lo hagan necesario y previa notificación al solicitante.",
+        "C": "La resolución en la que se conceda o deniegue el acceso deberá notificarse al solicitante y a los terceros afectados que así lo hayan solicitado en el plazo máximo de un mes desde la recepción de la solicitud por el órgano competente para resolver. Este plazo podrá ampliarse por quince días en el caso de que el volumen o la complejidad de la información que se solicita así lo hagan necesario y previa notificación al solicitante.",
+        "D": "La resolución en la que se conceda o deniegue el acceso deberá notificarse al solicitante y a los terceros afectados que así lo hayan solicitado en el plazo máximo improrrogable de dos meses desde la recepción de la solicitud por el órgano competente para resolver."
+      },
+      "respuesta_correcta": "B",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.98,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "La pregunta parece referirse al procedimiento de acceso de la Ley de transparencia, no a la Constitución Española."
+      ],
+      "pagina_pdf": 97,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 4.18,
+      "error_extraccion": null
+    },
+    {
+      "numero": 98,
+      "enunciado": "Señale la respuesta CORRECTA, en atención a lo regulado en la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno:",
+      "opciones": {
+        "A": "El solicitante deberá motivar necesariamente su solicitud de acceso a la información, exponiendo los motivos por los que solicita la información y que podrán ser tenidos en cuenta cuando se dicte la resolución",
+        "B": "La resolución en la que se conceda o deniegue el acceso deberá notificarse al solicitante y a los terceros afectados que así lo hayan solicitado en el plazo máximo de seis meses desde la recepción de la solicitud por el órgano competente para resolver",
+        "C": "Se inadmitirán a trámite, mediante resolución motivada, las solicitudes relativas a información para cuya divulgación sea necesaria una acción previa de reelaboración",
+        "D": "Frente a toda resolución expresa o presunta en materia de acceso deberá interponerse una reclamación ante el Consejo de Transparencia y Buen Gobierno, con carácter previo a su impugnación en vía contencioso-administrativa"
+      },
+      "respuesta_correcta": "C",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.97,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen, por lo que no se pueden extraer norma, artículo ni título con seguridad."
+      ],
+      "pagina_pdf": 98,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.9,
+      "error_extraccion": null
+    },
+    {
+      "numero": 99,
+      "enunciado": "Según el artículo 71 de la Ley 1/2022, de 13 de abril, de la Generalitat, de Transparencia y Buen Gobierno de la Comunitat Valenciana, a las infracciones tipificadas en el artículo 68 que sean imputables a altos cargos y asimilados se les podrá aplicar una o más de las sanciones siguientes para faltas muy graves:",
+      "opciones": {
+        "A": "Declaración del incumplimiento y publicación en el «Diari Oficial de la Generalitat Valenciana», en todo caso.",
+        "B": "Multa de entre 6.001 y 30.000 euros.",
+        "C": "Abandono del cargo.",
+        "D": "Ninguna es correcta."
+      },
+      "respuesta_correcta": "A",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.94,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "La opción correcta se infiere por el recuadro resaltado en verde."
+      ],
+      "pagina_pdf": 99,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 5.5,
+      "error_extraccion": null
+    },
+    {
+      "numero": 1,
+      "enunciado": "Según el artículo 38 de la Ley 1/2022, de 13 de abril, de la Generalitat, de Transparencia y Buen Gobierno de la Comunitat Valenciana:",
+      "opciones": {
+        "A": "Contra las resoluciones del Consejo Valenciano de Transparencia solo se podrá interponer recurso contencioso-administrativo.",
+        "B": "Contra las resoluciones del Consejo Valenciano de Transparencia solo se podrá interponer recurso de alzada.",
+        "C": "No cabe recurso alguno.",
+        "D": "La desatención de los requerimientos que efectúe el Consejo Valenciano de Transparencia para el cumplimiento de las resoluciones en materia de acceso a la información, en ningún caso, podrá dar lugar a la exigencia de responsabilidad, de acuerdo con lo establecido en el articulo 68 de esta ley."
+      },
+      "respuesta_correcta": "A",
+      "pie_completo": null,
+      "articulo": null,
+      "norma": null,
+      "titulo_o_parte": null,
+      "confianza_extraccion": 0.98,
+      "incidencias": [
+        "No se aprecia pie normativo visible en la imagen.",
+        "La respuesta correcta se infiere por el recuadro resaltado en verde."
+      ],
+      "pagina_pdf": 100,
+      "extraccion_completa": false,
+      "tiempo_extraccion": 2.66,
+      "error_extraccion": null
+    }
+  ]
+}

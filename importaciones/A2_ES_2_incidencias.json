@@ -1,0 +1,44 @@
+{
+  "archivo_origen": "A2_ES_2.pdf",
+  "resumen": {
+    "procesadas": 40,
+    "importadas": 35,
+    "omitidas_error": 0,
+    "duplicadas": 5,
+    "validadas": 18,
+    "a_revisar": 5,
+    "rechazadas": 12
+  },
+  "incidencias": [
+    {
+      "pagina_pdf": 1,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1781,
+      "enunciado": "El Gobierno y cada uno de sus miembros están sometidos a las interpelaciones y preguntas que se le formulen en las Cámaras. Para esta clase de debates, interpelaciones y preguntas, los Reglamentos establecerán un tiempo mínimo:"
+    },
+    {
+      "pagina_pdf": 3,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2335,
+      "enunciado": "¿Cuál de las siguientes aseveraciones no es verdadera?:"
+    },
+    {
+      "pagina_pdf": 8,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1485,
+      "enunciado": "Según el Estatuto de Autonomía de la Comunitat Valenciana:"
+    },
+    {
+      "pagina_pdf": 16,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2391,
+      "enunciado": "Cuál de estas afirmaciones no es correcta:"
+    },
+    {
+      "pagina_pdf": 40,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2233,
+      "enunciado": "De acuerdo con el artículo 14 de la ley 19/2013 de 9 de diciembre, el derecho de acceso no podrá ser limitado cuando acceder a la información suponga un perjuicio para"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "archivo_origen": "A1_parc.pdf",
+  "resumen": {
+    "procesadas": 80,
+    "importadas": 78,
+    "omitidas_error": 0,
+    "duplicadas": 2,
+    "validadas": 25,
+    "a_revisar": 10,
+    "rechazadas": 43
+  },
+  "incidencias": [
+    {
+      "pagina_pdf": 28,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 851,
+      "enunciado": "De acuerdo con la Ley orgánica 5/1982, de 1 de julio, de estatuto de autonomía de la Comunidad Valenciana, ¿cuál de las siguientes instituciones de la Generalitat es comisionada por Les Corts?:"
+    },
+    {
+      "pagina_pdf": 38,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1495,
+      "enunciado": "Según el articulo 42.3 de la Ley del Consell, los anteproyectos de ley que elaboren las Consellerias correspondientes requerirán, con carácter preceptivo:"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "archivo_origen": "C1_15.pdf",
+  "resumen": {
+    "procesadas": 92,
+    "importadas": 68,
+    "omitidas_error": 0,
+    "duplicadas": 24,
+    "validadas": 43,
+    "a_revisar": 9,
+    "rechazadas": 16
+  },
+  "incidencias": [
+    {
+      "pagina_pdf": 3,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2754,
+      "enunciado": "¿Cuál de los siguientes derechos fundamentales no puede ser suspendido, de acuerdo con el art. 55 CE, cuando se declare el estado de excepción?"
+    },
+    {
+      "pagina_pdf": 5,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 4111,
+      "enunciado": "Indique cuál de las siguientes afirmaciones es incorrecta: (Admtivo.AT 2007)"
+    },
+    {
+      "pagina_pdf": 6,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3097,
+      "enunciado": "¿Cuál de las siguientes aseveraciones no es correcta, de acuerdo con lo establecido en la CE?"
+    },
+    {
+      "pagina_pdf": 8,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2148,
+      "enunciado": "¿Cuál de las siguientes no es causa de inelegibilidad para ser diputado, atendiendo a lo dispuesto por la Constitución Española?:"
+    },
+    {
+      "pagina_pdf": 15,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1650,
+      "enunciado": "¿Cuál de las siguientes aseveraciones no es verdadera?:"
+    },
+    {
+      "pagina_pdf": 21,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 4197,
+      "enunciado": "Los actos legislativos:"
+    },
+    {
+      "pagina_pdf": 26,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1922,
+      "enunciado": "La Ley Orgánica Reguladora de las Medidas de Protección Integral contra la Violencia de Género es la"
+    },
+    {
+      "pagina_pdf": 37,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 4137,
+      "enunciado": "En relación a los recursos administrativos, señale la respuesta INCORRECTA:(C2 ANTEQUERA 2022 OFICIAL)"
+    },
+    {
+      "pagina_pdf": 42,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 4285,
+      "enunciado": "A tenor de lo establecido en el artículo 10 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, que regula la avocación de competencias, indique cuál de las siguientes afirmaciones es la correcta:"
+    },
+    {
+      "pagina_pdf": 44,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3504,
+      "enunciado": "Según lo dispuesto en la Ley 40/2015, de régimen jurídico del sector público (en adelante Ley 40/2015):"
+    },
+    {
+      "pagina_pdf": 46,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3207,
+      "enunciado": "La competencia es irrenunciable y se ejercerá por los órganos administrativos que la tengan atribuida como propia, salvo los casos de:"
+    },
+    {
+      "pagina_pdf": 49,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3508,
+      "enunciado": "¿Cuál de las siguientes aseveraciones es verdadera?:"
+    },
+    {
+      "pagina_pdf": 57,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2296,
+      "enunciado": "¿A efectos de la LCSP, cuál es la naturaleza jurídica de la Federación de Organismos o Entidades de Radio y Televisión Autonómicos (FORTA)?"
+    },
+    {
+      "pagina_pdf": 61,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3145,
+      "enunciado": "¿Quiénes son los responsables de las actuaciones de simplificación y digitalización conforme el Decreto 54/2025, de 15 de abril, del Consell, de simplificación administrativa y transformación digital?"
+    },
+    {
+      "pagina_pdf": 62,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 305,
+      "enunciado": "¿Cuál de las siguientes afirmaciones es verdadera de acuerdo con la regulación de las formas de comunicación contenida en el Decreto 54/2025, de 15 de abril, del Consell, de simplificación administrativa y transformación digital?"
+    },
+    {
+      "pagina_pdf": 67,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3060,
+      "enunciado": "Conforme el tenor literal del artículo 5 del Decreto 30/2025, ¿cuál de las siguientes conductas deben observar las ciudadanas y los ciudadanos en su relación con el sistema de atención?:"
+    },
+    {
+      "pagina_pdf": 68,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3302,
+      "enunciado": "La información general tiene por objeto ofrecer a la ciudadanía una visión global, homogénea y sistematizada de la actividad de la Administración. En concreto, comprenderá información sobre (señale la incorrecta):"
+    },
+    {
+      "pagina_pdf": 73,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1742,
+      "enunciado": "Señale la incorrecta de acuerdo con el art. 5. Las previsiones de la presente ley y de su normativa reglamentaria de desarrollo referidas a la Administración de la Generalitat, serán de aplicación asimismo a:"
+    },
+    {
+      "pagina_pdf": 77,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3384,
+      "enunciado": "Señala la respuesta incorrecta:"
+    },
+    {
+      "pagina_pdf": 78,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1853,
+      "enunciado": "Cuando por razones de enfermedad muy grave sea preciso atender el cuidado del cónyuge, pareja de hecho o de un familiar de primer grado:"
+    },
+    {
+      "pagina_pdf": 79,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3290,
+      "enunciado": "Según el Decreto 42/2019, de 22 de marzo, del Consell, de regulación de las condiciones de trabajo del personal funcionario de la Administración de la Generalitat, no se tendrá derecho a la reducción de jornada hasta la mitad de la misma, con disminución proporcional de retribuciones:"
+    },
+    {
+      "pagina_pdf": 83,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2407,
+      "enunciado": "Para los funcionarios del grupo A, es necesario que la cantidad total percibida por ambos puestos o actividades no supere la correspondiente al principal, estimada en régimen de dedicación ordinaria, incrementada en:"
+    },
+    {
+      "pagina_pdf": 84,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1724,
+      "enunciado": "En marzo de 2022, en la Agencia Valenciana De Fomento Y Garantía Agraria (AVFGA), un organismo autónomo, surgió la necesidad de concesión de un crédito extraordinario equivalente al 3% de los créditos consignados en sus presupuestos. Posteriormente, en octubre de 2022, surgió de nuevo esta necesidad de concesión de un crédito extraordinario por importe del 4% de los créditos consignados en sus presupuestos. Según lo establecido en la Ley 1/2015, de 6 de febrero, de Hacienda Pública, Sector Público Instrumental y Subvenciones, ¿quién será competente para autorizar ese segundo crédito extraordinario?"
+    },
+    {
+      "pagina_pdf": 90,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3169,
+      "enunciado": "Señala la aseveración correcta:"
+    }
+  ]
+}

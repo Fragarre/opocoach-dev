@@ -1,0 +1,58 @@
+{
+  "archivo_origen": "A1_1.pdf",
+  "resumen": {
+    "procesadas": 163,
+    "importadas": 155,
+    "omitidas_error": 1,
+    "duplicadas": 7,
+    "validadas": 49,
+    "a_revisar": 12,
+    "rechazadas": 94
+  },
+  "incidencias": [
+    {
+      "pagina_pdf": 9,
+      "tipo": "DUPLICADA_LOTE",
+      "enunciado": "Señale qué artículos se han reformado desde la publicación y entrada en vigor de la Constitución Española de 1978:"
+    },
+    {
+      "pagina_pdf": 14,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 736,
+      "enunciado": "Señale la opción CORRECTA. Según el artículo 11 de la Constitución, en los países iberoamericanos podrán naturalizarse los españoles sin perder su nacionalidad de origen:"
+    },
+    {
+      "pagina_pdf": 75,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 437,
+      "enunciado": "Según la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, ¿cuál de estas actuaciones no pondrá fin al procedimiento?"
+    },
+    {
+      "pagina_pdf": 78,
+      "tipo": "DUPLICADA_LOTE",
+      "enunciado": "¿Qué consecuencia establece el artículo 68.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, cuando un interesado no responde al requerimiento administrativo de subsanación o mejora de su solicitud?"
+    },
+    {
+      "pagina_pdf": 108,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 481,
+      "enunciado": "Señale la respuesta incorrecta. Según la Ley 1/2015, de 6 de febrero, de la Generalitat, de hacienda pública, del sector público instrumental y de subvenciones:"
+    },
+    {
+      "pagina_pdf": 114,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 819,
+      "enunciado": "Señale el enunciado CORRECTO, de acuerdo con la Ley orgánica 2/2012, de 27 de abril, de estabilidad presupuestaria y sostenibilidad financiera:"
+    },
+    {
+      "pagina_pdf": 125,
+      "tipo": "DUPLICADA_LOTE",
+      "enunciado": "El personal funcionario deberá permanecer un mínimo de 2 años en el puesto de trabajo obtenido con destino definitivo para poder participar en los concursos, excepto en los siguientes supuestos: (Señala la INCORRECTA)"
+    },
+    {
+      "pagina_pdf": 148,
+      "tipo": "ERROR_EXTRACCION",
+      "motivo": "La pregunta no tiene enunciado."
+    }
+  ]
+}

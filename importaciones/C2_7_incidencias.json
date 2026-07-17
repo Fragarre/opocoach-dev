@@ -1,0 +1,152 @@
+{
+  "archivo_origen": "C2_7.pdf",
+  "resumen": {
+    "procesadas": 84,
+    "importadas": 61,
+    "omitidas_error": 0,
+    "duplicadas": 23,
+    "validadas": 46,
+    "a_revisar": 10,
+    "rechazadas": 5
+  },
+  "incidencias": [
+    {
+      "pagina_pdf": 10,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2151,
+      "enunciado": "La Generalitat tiene también competencia exclusiva, sin perjuicio de lo dispuesto en el artículo 149 de la Constitución y, en su caso, de las bases y ordenación de la actividad económica general del Estado, sobre las siguientes materias:"
+    },
+    {
+      "pagina_pdf": 16,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3251,
+      "enunciado": "Señale cuál de las siguientes respuestas es la CORRECTA. Según la Ley 5/1983, de 30 de diciembre, del Consell: (A2 OPE 2023)"
+    },
+    {
+      "pagina_pdf": 20,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2935,
+      "enunciado": "El IVA es un impuesto armonizado a nivel europeo regulado en la Directiva 2006/112/CE del Consejo, lo que implica que:"
+    },
+    {
+      "pagina_pdf": 21,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 421,
+      "enunciado": "Señale la opción CORRECTA. Según el Tratado de la Unión Europea, toda competencia no atribuida a la Unión en los Tratados corresponde a los Estados miembros:"
+    },
+    {
+      "pagina_pdf": 24,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3360,
+      "enunciado": "Señale el enunciado correcto. Según la ley 4/2023, de 13 de abril, de Participación Ciudadana y Fomento del Asociacionismo de la Comunitat Valenciana, en relación a la iniciativa ciudadana en el ámbito de la Generalitat."
+    },
+    {
+      "pagina_pdf": 26,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3089,
+      "enunciado": "¿Cómo puede impugnarse una Resolución municipal expresa en materia de transparencia?"
+    },
+    {
+      "pagina_pdf": 28,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3258,
+      "enunciado": "Señale el enunciado correcto. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales:"
+    },
+    {
+      "pagina_pdf": 29,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3196,
+      "enunciado": "Conforme al artículo 4 de la Ley de prevención de riesgos de riesgos laborales, se entiende por riesgo laboral grave e inminente:"
+    },
+    {
+      "pagina_pdf": 30,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3260,
+      "enunciado": "De conformidad con el art. 21 de la Ley 31/1995, de 8 de noviembre, de prevención de Riesgos Laborales, el trabajador: (Auxiliar Administrativo Puzol)"
+    },
+    {
+      "pagina_pdf": 46,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3033,
+      "enunciado": "La Ley 40/2015, establece y regula:"
+    },
+    {
+      "pagina_pdf": 47,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1819,
+      "enunciado": "Conforme la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público indique la respuesta correcta"
+    },
+    {
+      "pagina_pdf": 48,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3382,
+      "enunciado": "A los efectos de lo previsto por la Ley 9/2017, los partidos políticos"
+    },
+    {
+      "pagina_pdf": 64,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2559,
+      "enunciado": "Según el Decreto 42/2019, de 22 de marzo, del Consell, de regulación de las condiciones de trabajo del personal funcionario de la Administración de la Generalitat, diga cuál de las siguientes afirmaciones es correcta en relación con la flexibilidad de la permanencia obligatoria:"
+    },
+    {
+      "pagina_pdf": 65,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3393,
+      "enunciado": "Según la Ley 1/2015, en el presupuesto de gastos, en los créditos para operaciones corrientes se distinguirán:"
+    },
+    {
+      "pagina_pdf": 70,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3294,
+      "enunciado": "Según la ley 1/2015, los escenarios presupuestarios plurianuales contendrán la distribución orgánica de los recursos disponibles y se desarrollarán en programas plurianuales. Indica qué periodo abarcarán estos últimos:"
+    },
+    {
+      "pagina_pdf": 71,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2830,
+      "enunciado": "Qué ingresos imputados al presupuesto en el propio ejercicio no podrá dar lugar a una generación de créditos:"
+    },
+    {
+      "pagina_pdf": 73,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 821,
+      "enunciado": "Señale el enunciado INCORRECTO, de acuerdo con el artículo 25 de la Ley 1/2015, de 6 de febrero, de hacienda pública, del sector público instrumental y de subvenciones, en referencia a los principios y reglas de programación presupuestaria:"
+    },
+    {
+      "pagina_pdf": 75,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2887,
+      "enunciado": "¿Cuál de las siguientes afirmaciones es falsa respecto al Sistema de Información de Atención a la Ciudadanía (SIAC)?:"
+    },
+    {
+      "pagina_pdf": 76,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3148,
+      "enunciado": "¿Cuál de los siguientes principios no rige la atención a la ciudadanía, de conformidad con el artículo 4 del Decreto 30/2025?:"
+    },
+    {
+      "pagina_pdf": 78,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3061,
+      "enunciado": "Conforme el Decreto 30/2025, en relación con los usos lingüísticos en la atención a la ciudadanía, señale la respuesta correcta:"
+    },
+    {
+      "pagina_pdf": 81,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2716,
+      "enunciado": "Según lo establecido en el artículo 23 del Decreto 54/2025, del Consell, de simplificación administrativa y transformación digital, señale la opción correcta respecto a las notificaciones electrónicas:"
+    },
+    {
+      "pagina_pdf": 83,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2631,
+      "enunciado": "¿Cuál de las siguientes afirmaciones se ajusta al tenor literal de lo establecido en el Decreto 54/2025 de simplificación administrativa y transformación digital respecto a puntos de acceso electrónico de la Generalitat?:"
+    },
+    {
+      "pagina_pdf": 84,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3068,
+      "enunciado": "Conforme el artículo 19 del Decreto 54/2025, de 15 de abril, del Consell, de simplificación administrativa y transformación digital, señale cuál de las siguientes aseveraciones es verdadera:"
+    }
+  ]
+}

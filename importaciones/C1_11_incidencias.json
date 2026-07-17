@@ -1,0 +1,134 @@
+{
+  "archivo_origen": "C1_11.pdf",
+  "resumen": {
+    "procesadas": 94,
+    "importadas": 74,
+    "omitidas_error": 0,
+    "duplicadas": 20,
+    "validadas": 52,
+    "a_revisar": 8,
+    "rechazadas": 14
+  },
+  "incidencias": [
+    {
+      "pagina_pdf": 4,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3069,
+      "enunciado": "Los decretos leyes:"
+    },
+    {
+      "pagina_pdf": 5,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3409,
+      "enunciado": "El derecho a la negociación colectiva laboral:"
+    },
+    {
+      "pagina_pdf": 21,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2503,
+      "enunciado": "En la Unión Europea el reglamento tendrá:"
+    },
+    {
+      "pagina_pdf": 24,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3485,
+      "enunciado": "En virtud del artículo 6 de la LO 3/2007,"
+    },
+    {
+      "pagina_pdf": 29,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 329,
+      "enunciado": "Señale la afirmación CORRECTA. Según la Ley 1/2022, de 13 de abril, de la Generalitat, de Transparencia y Buen Gobierno de la Comunitat Valenciana:"
+    },
+    {
+      "pagina_pdf": 39,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3333,
+      "enunciado": "Contra las disposiciones administrativas de carácter general:"
+    },
+    {
+      "pagina_pdf": 43,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2791,
+      "enunciado": "Según Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público ¿dónde se entenderán adoptados los acuerdos de un órgano colegiado, cuando se asista a distancia? (Señale la respuesta correcta)."
+    },
+    {
+      "pagina_pdf": 63,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2807,
+      "enunciado": "En el marco del Decreto 54/2025, del Consell, de simplificación administrativa y transformación digital, señale cuál de las siguientes afirmaciones es incorrecta:"
+    },
+    {
+      "pagina_pdf": 64,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1837,
+      "enunciado": "Indique la respuesta correcta conforme el Decreto 54/2025, de 15 de abril, del Consell, de simplificación administrativa y transformación digital."
+    },
+    {
+      "pagina_pdf": 67,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2887,
+      "enunciado": "¿Cuál de las siguientes afirmaciones es falsa respecto al Sistema de Información de Atención a la Ciudadanía (SIAC)?:"
+    },
+    {
+      "pagina_pdf": 68,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3062,
+      "enunciado": "De conformidad con la normativa aplicable en materia de atención a la ciudadanía y oficinas de asistencia en materia de registro, ¿a quién corresponde la validación previa a la publicación de la información insertada en el SIAC?:"
+    },
+    {
+      "pagina_pdf": 74,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1580,
+      "enunciado": "Una persona funcionaria de carrera del cuerpo C1-01, ocupa un puesto de Agente de Inspección de Comercio por el que tiene que desplazarse semanalmente a inspeccionar locales. Actualmente se encuentra en situación de incapacidad temporal debido a una operación tras un accidente doméstico. Debido a las secuelas y dolores crónicos que se le han quedado, esta persona ha dirigido una solicitud a la Dirección General de Función Pública para que le adapten o cambien de puesto de trabajo, pues considera que el que actualmente está desempeñando no será capaz de ejercerlo, debido a todos los desplazamientos que requiere. Señala la opción CORRECTA:"
+    },
+    {
+      "pagina_pdf": 75,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2550,
+      "enunciado": "Señale la respuesta INCORRECTA según lo establecido por la Ley 4/2021, de 16 de abril, de la Función Pública Valenciana:(Oficial A2 GVA turno libre NO covid)"
+    },
+    {
+      "pagina_pdf": 78,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 175,
+      "enunciado": "Señale la respuesta correcta. De acuerdo con la Ley 4/2021, de 16 de abril, de la función pública valenciana, ¿qué sucede con las vacantes incluidas en una oferta de empleo público que no hubieran sido convocadas en el plazo establecido por razones justificadas?"
+    },
+    {
+      "pagina_pdf": 83,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 4098,
+      "enunciado": "¿Cuál de las siguientes actividades NO está exceptuada del régimen de incompatibilidades de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas?"
+    },
+    {
+      "pagina_pdf": 86,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1561,
+      "enunciado": "Según el tenor literal de la Ley 1/2015, si el presupuesto no estuviera aprobado el primer día del ejercicio:"
+    },
+    {
+      "pagina_pdf": 88,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3459,
+      "enunciado": "En virtud del artículo 45.2 de la Ley 1/2015, las incorporaciones de crédito que afecten a los presupuestos de la Administración de la Generalitat no se financiarán con cargo a:"
+    },
+    {
+      "pagina_pdf": 90,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3892,
+      "enunciado": "Según el artículo 31.1 de la Ley 1/2015, los presupuestos de la Generalitat estarán integrados únicamente por:"
+    },
+    {
+      "pagina_pdf": 93,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3539,
+      "enunciado": "En relación con el enjuiciamiento contable, como jurisdicción propia del Tribunal de Cuentas, señale la respuesta incorrecta:"
+    },
+    {
+      "pagina_pdf": 94,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1865,
+      "enunciado": "¿Cuál de las siguientes aseveraciones es verdadera?:"
+    }
+  ]
+}

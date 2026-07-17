@@ -1,0 +1,98 @@
+{
+  "archivo_origen": "C1_8.pdf",
+  "resumen": {
+    "procesadas": 94,
+    "importadas": 80,
+    "omitidas_error": 0,
+    "duplicadas": 14,
+    "validadas": 57,
+    "a_revisar": 10,
+    "rechazadas": 13
+  },
+  "incidencias": [
+    {
+      "pagina_pdf": 19,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2591,
+      "enunciado": "Señale la afirmación correcta:"
+    },
+    {
+      "pagina_pdf": 21,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2765,
+      "enunciado": "Señale la respuesta correcta en relación con los actos delegados"
+    },
+    {
+      "pagina_pdf": 23,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 858,
+      "enunciado": "Según el artículo 27 de la Ley orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres: “las administraciones públicas, a través de sus Servicios de Salud y de los órganos competentes en cada caso, desarrollarán, de acuerdo con el principio de igualdad de oportunidades, actuaciones para la integración del principio de igualdad en la política de salud”. ¿Cuál de las siguientes actuaciones NO es una actuación para la integración del principio de igualdad en la política de salud?:"
+    },
+    {
+      "pagina_pdf": 24,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2684,
+      "enunciado": "Según la Ley 9/2003, de 2 de abril, de la Generalitat, para la igualdad entre Mujeres y Hombres:"
+    },
+    {
+      "pagina_pdf": 49,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 306,
+      "enunciado": "Señale la afirmación CORRECTA. Según la Ley 38/2003, de 17 de noviembre, General de Subvenciones:"
+    },
+    {
+      "pagina_pdf": 58,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1556,
+      "enunciado": "De acuerdo con el art.100 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por presupuesto base de licitación se entenderá:"
+    },
+    {
+      "pagina_pdf": 61,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 305,
+      "enunciado": "¿Cuál de las siguientes afirmaciones es verdadera de acuerdo con la regulación de las formas de comunicación contenida en el Decreto 54/2025, de 15 de abril, del Consell, de simplificación administrativa y transformación digital?"
+    },
+    {
+      "pagina_pdf": 62,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1717,
+      "enunciado": "Respecto al uso del Tablón Electrónico Único de Anuncios de la Generalitat (TEUA), ¿cuál de las siguientes afirmaciones es correcta?:"
+    },
+    {
+      "pagina_pdf": 66,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2546,
+      "enunciado": "Señale la respuesta incorrecta. La atención telefónica de asistencia e información administrativa general de la Administración y el sector público instrumental de la Generalitat se centraliza en el servicio de información telefónica 012. Desde dicho teléfono se presta el siguiente servicio:"
+    },
+    {
+      "pagina_pdf": 67,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3064,
+      "enunciado": "Señale la respuesta incorrecta. La sede PROP dispondrá del contenido mínimo y los servicios que para las sedes electrónicas establece el artículo 11 del Real Decreto 203/2021, de 30 de marzo. En todo caso permitirá acceder a:"
+    },
+    {
+      "pagina_pdf": 76,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2976,
+      "enunciado": "De conformidad con lo dispuesto por la Ley 4/2021, de la Función Pública Valenciana, señale cuál de los siguientes enunciados es el correcto:"
+    },
+    {
+      "pagina_pdf": 84,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2563,
+      "enunciado": "De conformidad con lo previsto en el Título VII de la Ley 1/2015, de 6 de febrero, de hacienda pública de la Generalitat, sector público instrumental y subvenciones, respecto de la Cuenta General de la Generalitat, señale la alternativa incorrecta:"
+    },
+    {
+      "pagina_pdf": 89,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2899,
+      "enunciado": "En virtud del artículo 26 de la Ley 1/2015, en el ámbito de la Administración de la Generalitat y de su sector público instrumental, con carácter previo a la aprobación de disposiciones legales y reglamentarias tendrá que emitir un informe, de carácter preceptivo y vinculante, respecto a su adecuación a las disponibilidades presupuestarias y a los límites de los escenarios presupuestarios plurianuales. Indica el órgano emisor de dicho informe:"
+    },
+    {
+      "pagina_pdf": 94,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2659,
+      "enunciado": "¿Hay algún proyecto o proposición que goce de preferencia respecto a cualquier otro trabajo de les Corts?:"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "archivo_origen": "C1_12.pdf",
+  "resumen": {
+    "procesadas": 93,
+    "importadas": 72,
+    "omitidas_error": 0,
+    "duplicadas": 21,
+    "validadas": 53,
+    "a_revisar": 7,
+    "rechazadas": 12
+  },
+  "incidencias": [
+    {
+      "pagina_pdf": 1,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 844,
+      "enunciado": "Señale el enunciado CORRECTO, de acuerdo con el artículo 137 de la Constitución Española de 1978:"
+    },
+    {
+      "pagina_pdf": 2,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 506,
+      "enunciado": "Señale la respuesta correcta. Según la Constitución, las sentencias dictadas por el Tribunal Constitucional tienen valor de cosa juzgada a partir del día siguiente:"
+    },
+    {
+      "pagina_pdf": 20,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2103,
+      "enunciado": "Elige la opción correcta:"
+    },
+    {
+      "pagina_pdf": 25,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2684,
+      "enunciado": "Según la Ley 9/2003, de 2 de abril, de la Generalitat, para la igualdad entre Mujeres y Hombres:"
+    },
+    {
+      "pagina_pdf": 26,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1922,
+      "enunciado": "La Ley Orgánica Reguladora de las Medidas de Protección Integral contra la Violencia de Género es la"
+    },
+    {
+      "pagina_pdf": 32,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1691,
+      "enunciado": "De acuerdo con el artículo 56 de la Ley 39/2015, de 1 de octubre, iniciado un procedimiento, el órgano administrativo competente para resolver podrá:"
+    },
+    {
+      "pagina_pdf": 36,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3736,
+      "enunciado": "¿Cuál de las siguientes respuestas es correcta?"
+    },
+    {
+      "pagina_pdf": 37,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 4136,
+      "enunciado": "Cuál de los siguientes actos administrativos puede tener eficacia retroactiva: (TAG Ayuntamiento de Leganés 2020)"
+    },
+    {
+      "pagina_pdf": 51,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 4150,
+      "enunciado": "Señale la respuesta correcta. Según dispone la Ley 1/2015, de 6 de febrero, de la Generalitat, de hacienda pública, del sector público instrumental y de subvenciones:"
+    },
+    {
+      "pagina_pdf": 58,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1710,
+      "enunciado": "¿Qué efectos tiene la declaración de nulidad?"
+    },
+    {
+      "pagina_pdf": 60,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2379,
+      "enunciado": "Son contratos del sector público y, en consecuencia, están sometidos a la ley 9/2017, de 8 de noviembre:"
+    },
+    {
+      "pagina_pdf": 61,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1717,
+      "enunciado": "Respecto al uso del Tablón Electrónico Único de Anuncios de la Generalitat (TEUA), ¿cuál de las siguientes afirmaciones es correcta?:"
+    },
+    {
+      "pagina_pdf": 62,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1960,
+      "enunciado": "Señale la respuesta incorrecta. La Sede PROP de la Generalitat dispondrá de todos los contenidos y los servicios mínimos requeridos por la normativa básica para las sedes electrónicas, así como el acceso a:"
+    },
+    {
+      "pagina_pdf": 66,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2889,
+      "enunciado": "Señale la opción incorrecta. Las ciudadanas y los ciudadanos, en sus relaciones con el sistema de atención a la ciudadanía, podrán:"
+    },
+    {
+      "pagina_pdf": 73,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 175,
+      "enunciado": "Señale la respuesta correcta. De acuerdo con la Ley 4/2021, de 16 de abril, de la función pública valenciana, ¿qué sucede con las vacantes incluidas en una oferta de empleo público que no hubieran sido convocadas en el plazo establecido por razones justificadas?"
+    },
+    {
+      "pagina_pdf": 77,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3789,
+      "enunciado": "Respecto a la duración de las licencias, señala la respuesta CORRECTA:"
+    },
+    {
+      "pagina_pdf": 79,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2731,
+      "enunciado": "Señala la respuesta incorrecta, de acuerdo con el Decreto 42/2019:"
+    },
+    {
+      "pagina_pdf": 86,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 821,
+      "enunciado": "Señale el enunciado INCORRECTO, de acuerdo con el artículo 25 de la Ley 1/2015, de 6 de febrero, de hacienda pública, del sector público instrumental y de subvenciones, en referencia a los principios y reglas de programación presupuestaria:"
+    },
+    {
+      "pagina_pdf": 87,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 481,
+      "enunciado": "Señale la respuesta incorrecta. Según la Ley 1/2015, de 6 de febrero, de la Generalitat, de hacienda pública, del sector público instrumental y de subvenciones:"
+    },
+    {
+      "pagina_pdf": 89,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2566,
+      "enunciado": "La tramitación de expedientes de gastos podrá iniciarse en el ejercicio inmediato anterior siempre que se cumpla alguna de las siguientes circunstancias:"
+    },
+    {
+      "pagina_pdf": 93,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2571,
+      "enunciado": "¿Cuál de las siguientes aseveraciones es verdadera?"
+    }
+  ]
+}

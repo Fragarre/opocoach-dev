@@ -1,0 +1,121 @@
+{
+  "archivo_origen": "A2_12.pdf",
+  "resumen": {
+    "procesadas": 100,
+    "importadas": 82,
+    "omitidas_error": 1,
+    "duplicadas": 17,
+    "validadas": 39,
+    "a_revisar": 10,
+    "rechazadas": 33
+  },
+  "incidencias": [
+    {
+      "pagina_pdf": 6,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2572,
+      "enunciado": "De acuerdo con lo establecido en el artículo 142 de la Constitución Española, las Haciendas Locales se nutrirán fundamentalmente de:"
+    },
+    {
+      "pagina_pdf": 10,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2578,
+      "enunciado": "¿Cuál de las siguientes aseveraciones no es verdadera?:"
+    },
+    {
+      "pagina_pdf": 11,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2918,
+      "enunciado": "El Ministerio Fiscal no podrá interponer: (auxiliar administrativo Torrent)"
+    },
+    {
+      "pagina_pdf": 12,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2990,
+      "enunciado": "Señale la respuesta incorrecta. Según la Constitución:"
+    },
+    {
+      "pagina_pdf": 14,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2023,
+      "enunciado": "La Bandera de la Comunitat Valenciana es la tradicional Senyera compuesta por:"
+    },
+    {
+      "pagina_pdf": 22,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1899,
+      "enunciado": "Según el art. 30 de la Ley 5/1983, de 30 de diciembre, del Consell, los consellers tienen tratamiento de:"
+    },
+    {
+      "pagina_pdf": 32,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1907,
+      "enunciado": "Los académicos de la AVL son elegidos por una mayoría de:"
+    },
+    {
+      "pagina_pdf": 37,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1796,
+      "enunciado": "De conformidad con el Tratado de Funcionamiento de la Unión Europea, indique cuál de los siguientes actos jurídicos de la Unión no es vinculante:"
+    },
+    {
+      "pagina_pdf": 41,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2111,
+      "enunciado": "PREG. PRÁCTICA El alcalde de Castellón quiere postular su ciudad como Capital Europea de la Cultura, pero desconoce qué duración tendría la acción en caso de conseguir el título. Ayúdele a resolver la duda indicándole la respuesta correcta:"
+    },
+    {
+      "pagina_pdf": 45,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 291,
+      "enunciado": "Señale la afirmación INCORRECTA. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público:"
+    },
+    {
+      "pagina_pdf": 51,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3333,
+      "enunciado": "Contra las disposiciones administrativas de carácter general:"
+    },
+    {
+      "pagina_pdf": 60,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2376,
+      "enunciado": "¿Cuál de las siguientes aseveraciones no es verdadera?:"
+    },
+    {
+      "pagina_pdf": 66,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 804,
+      "enunciado": "Señale el enunciado CORRECTO, de acuerdo con el artículo 63 de la Ley 9/2017, de 8 de noviembre, de contratos del sector público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014, en referencia al perfil de contratante:"
+    },
+    {
+      "pagina_pdf": 78,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 365,
+      "enunciado": "Señale la opción CORRECTA. De acuerdo con el artículo 106 de la Ley 1/2015 de, 6 de febrero, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones, en los supuestos en los que, con arreglo a lo establecido en las disposiciones aplicables, la función interventora fuera preceptiva y se hubiese omitido, el órgano de la Intervención de la Generalitat que tenga conocimiento de la misma procederá al examen del expediente:"
+    },
+    {
+      "pagina_pdf": 82,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3902,
+      "enunciado": "De acuerdo con el artículo 1.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del estatuto básico del empleado público, dicho Estatuto tienen como objeto:"
+    },
+    {
+      "pagina_pdf": 88,
+      "tipo": "ERROR_EXTRACCION",
+      "motivo": "La pregunta no tiene enunciado."
+    },
+    {
+      "pagina_pdf": 94,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3794,
+      "enunciado": "Según el artículo 10 de la Ley 6/2024, de 5 de diciembre, de simplificación administrativa, ¿cuál de las siguientes aseveraciones es verdadera?:"
+    },
+    {
+      "pagina_pdf": 96,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2634,
+      "enunciado": "Señale el enunciado correcto. De acuerdo con el Reglamento 2016/679 (UE) del Parlamento Europeo y del Consejo (Reglamento general de protección de datos):"
+    }
+  ]
+}

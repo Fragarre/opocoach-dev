@@ -1,0 +1,98 @@
+{
+  "archivo_origen": "A2_13.pdf",
+  "resumen": {
+    "procesadas": 100,
+    "importadas": 86,
+    "omitidas_error": 0,
+    "duplicadas": 14,
+    "validadas": 37,
+    "a_revisar": 9,
+    "rechazadas": 40
+  },
+  "incidencias": [
+    {
+      "pagina_pdf": 4,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2992,
+      "enunciado": "¿Cuál de las siguientes aseveraciones es verdadera?:"
+    },
+    {
+      "pagina_pdf": 12,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2747,
+      "enunciado": "Según la Constitución Española, los recursos de las Comunidades Autónomas estarán constituidos por (señale la incorrecta):"
+    },
+    {
+      "pagina_pdf": 15,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3693,
+      "enunciado": "Señale cuál de los siguientes enunciados es CORRECTO. De acuerdo con lo dispuesto por la Ley orgánica 5/1982, de 1 de julio, de Estatuto de Autonomía de la Comunitat Valenciana:"
+    },
+    {
+      "pagina_pdf": 25,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3321,
+      "enunciado": "De acuerdo con la Ley 5/1983, de 30 de diciembre, del Consell, señale el enunciado correcto en relación a la moción de censura:"
+    },
+    {
+      "pagina_pdf": 28,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3700,
+      "enunciado": "En referencia al President de la Generalitat, conforme a la ley 5/1983 de 30 de diciembre, del Consell, señale la respuesta CORRECTA:"
+    },
+    {
+      "pagina_pdf": 32,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2168,
+      "enunciado": "Los Académicos tendrán el tratamiento de"
+    },
+    {
+      "pagina_pdf": 38,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 3253,
+      "enunciado": "Señale la respuesta correcta:"
+    },
+    {
+      "pagina_pdf": 48,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 784,
+      "enunciado": "Señale el enunciado CORRECTO, según la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas:"
+    },
+    {
+      "pagina_pdf": 59,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 793,
+      "enunciado": "Según el artículo 14 de la Ley 38/2003, de 17 de noviembre, general de subvenciones, NO es una obligación de los beneficiarios:"
+    },
+    {
+      "pagina_pdf": 61,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2197,
+      "enunciado": "De cuánto tiempo dispone la Administración para ocupar el bien o derecho una vez se han formulado las hojas de depósito y consignado o abonado la indemnización por los perjuicios por la pronta ocupación?"
+    },
+    {
+      "pagina_pdf": 74,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 1718,
+      "enunciado": "La cuantía y finalidad de los créditos contenidos en los presupuestos podrán ser modificadas durante el ejercicio, dentro de los límites establecidos en los artículos 44 y siguientes de la Ley 1/2015, de 6 de febrero, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones y en las leyes anuales de presupuestos, mediante: Señale la respuesta que NO es CORRECTA(Oficial A2 GVA turno libre NO covid)"
+    },
+    {
+      "pagina_pdf": 79,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 189,
+      "enunciado": "¿En cuál de los siguientes supuestos no ha de recabarse el informe previo de la conselleria con competencias en materia de hacienda, previsto en el artículo 26 de la Ley 1/2015, de 6 de febrero, de la Generalitat, de hacienda pública, del sector público instrumental y de subvenciones, y en el ámbito de la Administración de la Generalitat y de su sector público instrumental?"
+    },
+    {
+      "pagina_pdf": 83,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 2817,
+      "enunciado": "Las pagas extraordinarias:"
+    },
+    {
+      "pagina_pdf": 84,
+      "tipo": "DUPLICADA_BD",
+      "pregunta_existente_id": 4008,
+      "enunciado": "En el ejercicio de las funciones que tenga asignadas, el personal empleado público deberá observar las siguientes obligaciones. Señala la respuesta INCORRECTA:"
+    }
+  ]
+}
