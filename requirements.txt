@@ -1,5 +1,9 @@
-pymupdf
+PyMuPDF
+numpy
 openai
-dotenv
+opencv-python
+Pillow
+pypdf
+python-dotenv
 reportlab
 streamlit

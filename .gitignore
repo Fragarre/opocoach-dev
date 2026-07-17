@@ -5,3 +5,6 @@ __pycache__/
 .env
 logs/
 simulacros/
+*.sqlite3-wal
+*.sqlite3-shm
+.DS_Store
