@@ -1,10 +1,7 @@
 __pycache__/
 *.pyc
 .venv/
-logs/*
-!logs/.gitkeep
-.idea/
 .vscode/
 .env
-capturas/
-backups_cabeceras/
+logs/
+simulacros/
